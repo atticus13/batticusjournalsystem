@@ -14,6 +14,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -95,6 +96,23 @@ def parse_letterboxd(xml_text):
 def fetch_letterboxd():
     xml_text = http(f"https://letterboxd.com/{LETTERBOXD_USER}/rss/")
     return parse_letterboxd(xml_text)
+
+
+def fetch_letterboxd_tags():
+    """Map diary-entry id -> list of tags. The RSS feed omits tags, so read the
+    public tag pages (best effort: callers keep old tags if this fails)."""
+    base = f"https://letterboxd.com/{LETTERBOXD_USER}"
+    index = http(f"{base}/tags/diary/")
+    tags = sorted(set(re.findall(rf"/{LETTERBOXD_USER}/tag/([^\"/]+)/diary/", index, re.I)))
+    if not tags:
+        raise RuntimeError("no tags found on the tag index page")
+    by_entry = {}
+    for tag in tags:
+        page = http(f"{base}/tag/{tag}/diary/")
+        for entry_id in set(re.findall(r'data-viewing-id="(\d+)"', page)):
+            by_entry.setdefault(entry_id, []).append(urllib.parse.unquote(tag))
+        time.sleep(0.5)
+    return by_entry
 
 
 # ----------------------------------------------------------------- Hardcover
@@ -220,12 +238,18 @@ def fetch_strava(access_token, after_epoch=None):
                     "moving_time_s": a.get("moving_time"),
                     "elapsed_time_s": a.get("elapsed_time"),
                     "elevation_gain_m": a.get("total_elevation_gain"),
+                    "avg_hr": a.get("average_heartrate"),  # None if no HR data
+                    "max_hr": a.get("max_heartrate"),
                 }
             )
     return workouts
 
 
 def strava_after_epoch(existing):
+    # Records saved before heart rate was added lack the "avg_hr" key:
+    # pull the full history once to fill them in.
+    if any("avg_hr" not in w for w in existing):
+        return None
     starts = [w["start_local"] for w in existing if w.get("start_local")]
     if not starts:
         return None
@@ -244,7 +268,21 @@ def main():
     failures = []
 
     try:
-        data["movies"] = merge(data["movies"], fetch_letterboxd(), "id")
+        new_movies = fetch_letterboxd()
+        old_by_id = {m["id"]: m for m in data["movies"]}
+        try:
+            tag_map = fetch_letterboxd_tags()
+            data["sources"]["letterboxd_tags"] = "ok"
+        except Exception as exc:  # tags are a nice-to-have; keep any saved ones
+            tag_map = None
+            data["sources"]["letterboxd_tags"] = f"error: {exc}"
+        for m in new_movies:
+            entry_id = re.sub(r"\D", "", m["id"])
+            if tag_map is not None:
+                m["tags"] = sorted(tag_map.get(entry_id, []))
+            else:
+                m["tags"] = old_by_id.get(m["id"], {}).get("tags", [])
+        data["movies"] = merge(data["movies"], new_movies, "id")
         data["sources"]["letterboxd"] = "ok"
     except Exception as exc:  # keep going so one source can't block the others
         data["sources"]["letterboxd"] = f"error: {exc}"

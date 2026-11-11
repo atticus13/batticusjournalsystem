@@ -54,6 +54,21 @@
     return `${mi.toFixed(mi < 10 ? 2 : 1)} mi`;
   };
 
+  // min:sec per mile; blank if the distance is too short to mean anything
+  const fmtPace = (meters, sec) => {
+    if (!meters || !sec || meters < 400) return "";
+    const spm = sec / (meters * 0.000621371);
+    let m = Math.floor(spm / 60), r = Math.round(spm % 60);
+    if (r === 60) { m += 1; r = 0; }
+    return `${m}:${pad(r)}/mi pace`;
+  };
+  // Optional display names for Letterboxd tags, e.g. { alexf: "Alex F." }
+  const TAG_NAMES = {};
+  const withList = (tags) =>
+    (tags || []).map((t) => TAG_NAMES[t] || t.charAt(0).toUpperCase() + t.slice(1)).join(", ");
+  const workoutDetails = (w) =>
+    [w.distance, w.duration, w.pace, w.avgHr ? `avg HR ${w.avgHr} bpm` : ""].filter(Boolean);
+
   // ----------------------------------------------------------- gathering
   function collectDay(data, day) {
     const movies = (data.movies || []).filter((m) => m.watched_date === day);
@@ -65,6 +80,8 @@
         type: prettyType(w.type),
         distance: fmtMiles(w.distance_m),
         duration: fmtDuration(w.moving_time_s),
+        pace: /^(run|trail run|virtual run)$/i.test(prettyType(w.type)) ? fmtPace(w.distance_m, w.moving_time_s) : "",
+        avgHr: w.avg_hr ? Math.round(w.avg_hr) : null,
       }));
 
     const books = [];
@@ -100,63 +117,82 @@
 
   function movieLine(m) {
     const name = m.year ? `${m.title} (${m.year})` : m.title;
-    const tail = [stars(m.rating), m.rewatch ? "(rewatch)" : ""].filter(Boolean).join(" ");
+    const tail = [stars(m.rating), m.rewatch ? "(rewatch)" : "", m.tags && m.tags.length ? `(with ${withList(m.tags)})` : ""]
+      .filter(Boolean).join(" ");
     return { name, tail };
   }
 
-  function toJournalText(blocks, opts) {
+  const PLAIN = { b: (t) => t, i: (t) => t, esc: (t) => t, nl: "\n", ind: "  ", para: "\n" };
+  const RICH = {
+    b: (t) => `<b>${t}</b>`,
+    i: (t) => `<i>${t}</i>`,
+    esc: (t) => t.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"),
+    nl: "<br>", ind: "&nbsp;&nbsp;", para: "<br>",
+  };
+
+  // Day heading and "Movie review:" style labels are bold; film and book titles are italic.
+  function renderJournal(blocks, opts, f) {
     const includeReviews = !opts || opts.includeReviews !== false;
+    const e = f.esc;
+    const reviewText = (text) =>
+      text.split("\n").map((l) => (l ? f.ind + e(l) : "")).join(f.nl);
     const out = [];
     for (const b of blocks) {
       if (isEmpty(b)) continue;
-      const lines = [longDate(b.day)];
+      const lines = [f.b(e(longDate(b.day)))];
 
       for (const m of b.movies) {
-        const { name, tail } = movieLine(m);
-        const suffix = tail ? " " + tail : "";
+        const title = f.i(e(m.title)) + (m.year ? e(` (${m.year})`) : "");
+        const tail = [stars(m.rating), m.rewatch ? "(rewatch)" : "", m.tags && m.tags.length ? `(with ${withList(m.tags)})` : ""]
+          .filter(Boolean).join(" ");
+        const suffix = tail ? " " + e(tail) : "";
         if (m.review) {
-          lines.push(`- Movie review: ${name}${suffix}`);
-          if (includeReviews) lines.push(indent(m.review));
+          lines.push(`- ${f.b("Movie review:")} ${title}${suffix}`);
+          if (includeReviews) lines.push(reviewText(m.review));
         } else {
-          lines.push(`- Watched: ${name}${suffix}`);
+          lines.push(`- ${f.b("Watched:")} ${title}${suffix}`);
         }
       }
 
       for (const k of b.books) {
-        const by = k.authors.length ? ` by ${k.authors.join(", ")}` : "";
-        const rate = stars(k.rating) ? " " + stars(k.rating) : "";
+        const by = k.authors.length ? e(` by ${k.authors.join(", ")}`) : "";
+        const rate = stars(k.rating) ? " " + e(stars(k.rating)) : "";
+        const title = f.i(e(k.title));
         if (k.review && (k.event === "reviewed" || k.event === "finished")) {
           const fin = k.event === "finished" ? " (finished)" : "";
-          lines.push(`- Book review: ${k.title}${by}${rate}${fin}`);
-          if (includeReviews) lines.push(indent(k.review));
+          lines.push(`- ${f.b("Book review:")} ${title}${by}${rate}${fin}`);
+          if (includeReviews) lines.push(reviewText(k.review));
         } else if (k.event === "finished") {
-          lines.push(`- Finished reading: ${k.title}${by}${rate}`);
+          lines.push(`- ${f.b("Finished reading:")} ${title}${by}${rate}`);
         } else if (k.event === "started") {
-          lines.push(`- Started reading: ${k.title}${by}`);
+          lines.push(`- ${f.b("Started reading:")} ${title}${by}`);
         } else {
-          const pg = k.pages ? ` (page ${k.pages})` : "";
-          lines.push(`- Reading: ${k.title}${by}${pg}`);
+          const pg = k.pages ? e(` (page ${k.pages})`) : "";
+          lines.push(`- ${f.b("Reading:")} ${title}${by}${pg}`);
         }
       }
 
       for (const w of b.workouts) {
-        const parts = [w.distance, w.duration].filter(Boolean);
-        lines.push(`- Workout: ${w.type}${parts.length ? ` (${parts.join(", ")})` : ""}`);
+        const parts = workoutDetails(w);
+        lines.push(`- ${f.b("Workout:")} ${e(w.type)}${parts.length ? e(` (${parts.join(", ")})`) : ""}`);
       }
-      out.push(lines.join("\n"));
+      out.push(lines.join(f.nl));
     }
     if (!out.length) {
-      return blocks.length === 1
+      return e(blocks.length === 1
         ? `Nothing logged for ${longDate(blocks[0].day)}.`
-        : "Nothing logged for this week.";
+        : "Nothing logged for this week.");
     }
-    return out.join("\n\n");
+    return out.join(f.nl + f.para);
   }
+
+  const toJournalText = (blocks, opts) => renderJournal(blocks, opts, PLAIN);
+  const toJournalHtml = (blocks, opts) => renderJournal(blocks, opts, RICH);
 
   const api = {
     ymd, parseYmd, addDays, weekStart, rangeDays, longDate, localDateOf,
     stars, prettyType, fmtDuration, fmtMiles,
-    collectDay, summarize, isEmpty, toJournalText,
+    collectDay, summarize, isEmpty, toJournalText, toJournalHtml, fmtPace,
   };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
 
@@ -256,7 +292,7 @@
           card.appendChild(row);
         }
         for (const w of b.workouts) {
-          const parts = [w.distance, w.duration].filter(Boolean);
+          const parts = workoutDetails(w);
           const row = el("div", "item");
           row.appendChild(el("span", "tag workout", "Workout"));
           row.appendChild(el("div", "title", `${w.type}${parts.length ? "  (" + parts.join(", ") + ")" : ""}`));
@@ -267,6 +303,7 @@
       if (!any) list.appendChild(el("p", "empty", mode === "day" ? "Nothing logged for this day." : "Nothing logged for this week."));
 
       $("journal-text").textContent = toJournalText(blocks, { includeReviews: state.includeReviews });
+      state.html = toJournalHtml(blocks, { includeReviews: state.includeReviews });
     }
 
     function status() {
@@ -283,9 +320,16 @@
       }
     }
 
-    async function copyText(text) {
+    async function copyText(text, html) {
       try {
-        await navigator.clipboard.writeText(text);
+        if (html && window.ClipboardItem) {
+          await navigator.clipboard.write([new ClipboardItem({
+            "text/html": new Blob([html], { type: "text/html" }),
+            "text/plain": new Blob([text], { type: "text/plain" }),
+          })]);
+        } else {
+          await navigator.clipboard.writeText(text);
+        }
         return true;
       } catch (_) {
         const ta = document.createElement("textarea");
@@ -323,7 +367,7 @@
     $("include-reviews").addEventListener("change", (e) => { state.includeReviews = e.target.checked; render(); });
     $("copy").addEventListener("click", async () => {
       if (!state.shown) { toast("Pick a date and tap Show first."); return; }
-      const ok = await copyText($("journal-text").textContent);
+      const ok = await copyText($("journal-text").textContent, state.html);
       toast(ok ? "Copied. Paste it into Apple Journal." : "Couldn't copy. Open 'Text to paste' and copy it by hand.");
     });
 
@@ -351,7 +395,19 @@
       state.shown = { mode: state.mode, date: state.date };
       render();
     }
-    $("show").addEventListener("click", show);
+    $("show").addEventListener("click", () => {
+      show().catch((e) => {
+        state.loading = false;
+        batStop();
+        $("entries").replaceChildren(el("p", "empty", "Something went wrong: " + (e && e.message ? e.message : e)));
+      });
+    });
+
+    // Little bat by the title: flaps all the time so it's always visible.
+    const mini = ["/\\^o^/\\", "\\/^o^\\/"];
+    let mf = 0;
+    const miniEl = $("title-bat");
+    if (miniEl) setInterval(() => { miniEl.textContent = mini[mf++ % 2]; }, 450);
 
     syncControls();
     $("entries").replaceChildren(el("p", "empty", "Pick a day or week, then tap Show."));
