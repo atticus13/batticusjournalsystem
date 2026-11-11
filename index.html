@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Journal</title>
+<style>
+  :root {
+    --bg: #f6f4ef; --card: #fffdf8; --text: #1f2a24; --muted: #66706a;
+    --accent: #2f6f5e; --accent-text: #ffffff; --border: #e3ded2;
+    --movie: #7a4a8c; --book: #b0652a; --workout: #2f6f5e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141815; --card: #1c211d; --text: #e8ece6; --muted: #98a39b;
+      --accent: #6fc3a9; --accent-text: #0e1612; --border: #2b332d;
+      --movie: #c79bdb; --book: #e3a56f; --workout: #6fc3a9;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 640px; margin: 0 auto; padding: 16px 16px 120px; }
+  h1 { font-size: 1.4rem; margin: 8px 0 2px; }
+  #status { color: var(--muted); font-size: .85rem; margin: 0 0 12px; min-height: 1.2em; }
+  #warning {
+    background: #fff1d6; color: #5c3d00; border-radius: 10px;
+    padding: 10px 12px; font-size: .9rem; margin: 0 0 12px;
+  }
+  @media (prefers-color-scheme: dark) { #warning { background: #3a2c0e; color: #ffd98a; } }
+
+  .nav { display: flex; gap: 8px; align-items: center; margin-bottom: 10px; }
+  button, input[type=date] {
+    font: inherit; color: var(--text); background: var(--card);
+    border: 1px solid var(--border); border-radius: 10px; min-height: 44px; padding: 0 14px;
+  }
+  button { cursor: pointer; }
+  .nav .arrow { width: 44px; padding: 0; font-size: 1.2rem; }
+  .nav input[type=date] { flex: 1; min-width: 0; }
+  .seg { display: flex; margin-bottom: 10px; }
+  .seg button { flex: 1; border-radius: 0; }
+  .seg button:first-child { border-radius: 10px 0 0 10px; }
+  .seg button:last-child { border-radius: 0 10px 10px 0; margin-left: -1px; }
+  .seg button[aria-pressed=true] { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+  #range-label { font-weight: 600; margin: 14px 0 8px; }
+  .opt { display: flex; gap: 8px; align-items: center; color: var(--muted); font-size: .9rem; margin-bottom: 12px; }
+  .opt input { width: 20px; height: 20px; }
+
+  .card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 14px; padding: 6px 14px; margin-bottom: 12px;
+  }
+  .day-title { font-size: 1rem; margin: 10px 0 2px; color: var(--muted); font-weight: 600; }
+  .item { padding: 10px 0; border-top: 1px solid var(--border); }
+  .card > .item:first-child, .day-title + .item { border-top: 0; }
+  .tag {
+    display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .04em;
+    text-transform: uppercase; margin-bottom: 2px;
+  }
+  .tag.movie { color: var(--movie); } .tag.book { color: var(--book); } .tag.workout { color: var(--workout); }
+  .title { font-weight: 600; overflow-wrap: anywhere; }
+  .review { margin: 6px 0 0; color: var(--text); white-space: pre-wrap; overflow-wrap: anywhere; font-size: .95rem; }
+  .empty { color: var(--muted); text-align: center; padding: 28px 0; }
+
+  details { margin-top: 8px; }
+  summary { color: var(--muted); cursor: pointer; min-height: 32px; }
+  pre {
+    white-space: pre-wrap; overflow-wrap: anywhere; background: var(--card);
+    border: 1px solid var(--border); border-radius: 12px; padding: 12px; font: .85rem/1.5 ui-monospace, Menlo, monospace;
+  }
+
+  .bar {
+    position: fixed; left: 0; right: 0; bottom: 0; padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+    background: linear-gradient(to top, var(--bg) 70%, transparent);
+  }
+  .bar button {
+    display: block; width: 100%; max-width: 608px; margin: 0 auto; min-height: 52px; font-weight: 700;
+    background: var(--accent); color: var(--accent-text); border: 0; border-radius: 14px; font-size: 1.05rem;
+  }
+  #toast {
+    position: fixed; left: 50%; bottom: calc(86px + env(safe-area-inset-bottom)); transform: translateX(-50%);
+    background: var(--text); color: var(--bg); padding: 10px 16px; border-radius: 999px; font-size: .9rem;
+    opacity: 0; pointer-events: none; transition: opacity .2s; max-width: 90vw; text-align: center;
+  }
+  #toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Journal</h1>
+  <p id="status"></p>
+  <p id="warning" hidden></p>
+
+  <div class="nav">
+    <button id="prev" class="arrow" aria-label="Previous">‹</button>
+    <input id="date-input" type="date" aria-label="Pick a date">
+    <button id="next" class="arrow" aria-label="Next">›</button>
+    <button id="today">Today</button>
+  </div>
+  <div class="seg" role="group" aria-label="View">
+    <button id="tab-day" aria-pressed="true">Day</button>
+    <button id="tab-week" aria-pressed="false">Week</button>
+  </div>
+  <label class="opt"><input id="include-reviews" type="checkbox" checked> Include review text</label>
+
+  <div id="range-label"></div>
+  <div id="entries"><p class="empty">Loading…</p></div>
+
+  <details>
+    <summary>Text to paste</summary>
+    <pre id="journal-text"></pre>
+  </details>
+  <noscript><p class="empty">This page needs JavaScript to show your journal.</p></noscript>
+</main>
+
+<div class="bar"><button id="copy">Copy for journal</button></div>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>
