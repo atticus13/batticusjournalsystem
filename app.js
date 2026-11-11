@@ -236,24 +236,10 @@
       $("entries").classList.toggle("stale", !!state.shown && stale);
     }
 
-    // Original ASCII bat, flapping while data loads.
-    const BAT = [
-      ["  /\\   ^o^   /\\", " /  \\_(   )_/  \\", "/     \\\u00b4 \u00b4/     \\"],
-      ["    _  ^o^  _", "   / \\_(   )_/ \\", "  /    \\\u00b4 \u00b4/    \\"],
-    ].map((f) => f.join("\n"));
-    let batTimer, batFrame = 0;
     function batStart() {
-      const pre = el("pre", "bat");
-      const wrap = el("div", "bat-wrap");
-      wrap.appendChild(pre);
-      wrap.appendChild(el("div", "bat-label", "Fetching your data…"));
-      $("entries").replaceChildren(wrap);
-      const tick = () => { pre.textContent = BAT[batFrame++ % BAT.length]; };
-      tick();
-      clearInterval(batTimer);
-      batTimer = setInterval(tick, 350);
+      $("entries").replaceChildren(el("p", "empty", "Fetching your data…"));
     }
-    function batStop() { clearInterval(batTimer); }
+    function batStop() {}
 
     function render() {
       syncControls();
@@ -402,12 +388,6 @@
         $("entries").replaceChildren(el("p", "empty", "Something went wrong: " + (e && e.message ? e.message : e)));
       });
     });
-
-    // Little bat by the title: flaps all the time so it's always visible.
-    const mini = ["/\\^o^/\\", "\\/^o^\\/"];
-    let mf = 0;
-    const miniEl = $("title-bat");
-    if (miniEl) setInterval(() => { miniEl.textContent = mini[mf++ % 2]; }, 450);
 
     syncControls();
     $("entries").replaceChildren(el("p", "empty", "Pick a day or week, then tap Show."));
