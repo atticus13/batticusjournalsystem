@@ -32,8 +32,14 @@ def http(url, data=None, headers=None, method=None, timeout=40):
     req = urllib.request.Request(
         url, data=data, headers={"User-Agent": UA, **(headers or {})}, method=method
     )
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read().decode("utf-8")
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            return resp.read().decode("utf-8")
+    except urllib.error.HTTPError as exc:
+        # Include the service's own error text (it never echoes our secrets).
+        body = exc.read().decode("utf-8", "replace")[:300]
+        parsed = urllib.parse.urlparse(url)
+        raise RuntimeError(f"HTTP {exc.code} from {parsed.netloc}{parsed.path}: {body}") from None
 
 
 def merge(existing, new, key):
