@@ -46,6 +46,11 @@
   .seg button:first-child { border-radius: 10px 0 0 10px; }
   .seg button:last-child { border-radius: 0 10px 10px 0; margin-left: -1px; }
   .seg button[aria-pressed=true] { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+  .show { width: 100%; margin-bottom: 10px; background: var(--accent); color: var(--accent-text); border: 0; font-weight: 700; }
+  .show:disabled { opacity: .6; }
+  .stale { opacity: .45; }
+  .bat-wrap { text-align: center; padding: 28px 0; color: var(--muted); }
+  .bat { display: inline-block; text-align: left; margin: 0 0 8px; background: none; border: 0; padding: 0; font: 1rem/1.2 ui-monospace, Menlo, monospace; color: var(--text); }
   #range-label { font-weight: 600; margin: 14px 0 8px; }
   .opt { display: flex; gap: 8px; align-items: center; color: var(--muted); font-size: .9rem; margin-bottom: 12px; }
   .opt input { width: 20px; height: 20px; }
@@ -105,10 +110,11 @@
     <button id="tab-day" aria-pressed="true">Day</button>
     <button id="tab-week" aria-pressed="false">Week</button>
   </div>
+  <button id="show" class="show">Show</button>
   <label class="opt"><input id="include-reviews" type="checkbox" checked> Include review text</label>
 
   <div id="range-label"></div>
-  <div id="entries"><p class="empty">Loading…</p></div>
+  <div id="entries"></div>
 
   <details>
     <summary>Text to paste</summary>

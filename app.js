@@ -173,25 +173,59 @@
   function init() {
     const $ = (id) => document.getElementById(id);
     const state = {
-      data: null,
-      mode: "day",
+      data: null,       // fetched only after the first tap on Show
+      loading: false,
+      mode: "day",      // pending selection (what the controls say)
       date: ymd(new Date()),
+      shown: null,      // {mode, date} actually displayed
       includeReviews: true,
     };
 
-    function render() {
-      const data = state.data;
-      if (!data) return;
-      const days = rangeDays(state.mode, state.date);
-      const blocks = summarize(data, days);
+    const rangeText = (mode, date) => {
+      const days = rangeDays(mode, date);
+      return mode === "day"
+        ? longDate(date)
+        : `${longDate(days[0]).replace(/^\w+, /, "")} to ${longDate(days[6]).replace(/^\w+, /, "")}`;
+    };
 
-      $("range-label").textContent =
-        state.mode === "day"
-          ? longDate(state.date)
-          : `${longDate(days[0]).replace(/^\w+, /, "")} to ${longDate(days[6]).replace(/^\w+, /, "")}`;
+    // Controls only update the selection; nothing is looked up until Show.
+    function syncControls() {
+      $("range-label").textContent = rangeText(state.mode, state.date);
       $("date-input").value = state.date;
       $("tab-day").setAttribute("aria-pressed", String(state.mode === "day"));
       $("tab-week").setAttribute("aria-pressed", String(state.mode === "week"));
+      const stale = !state.shown || state.shown.mode !== state.mode || state.shown.date !== state.date;
+      $("show").disabled = state.loading;
+      $("show").textContent = state.shown && !stale ? "Showing" : "Show";
+      $("entries").classList.toggle("stale", !!state.shown && stale);
+    }
+
+    // Original ASCII bat, flapping while data loads.
+    const BAT = [
+      ["  /\\   ^o^   /\\", " /  \\_(   )_/  \\", "/     \\\u00b4 \u00b4/     \\"],
+      ["    _  ^o^  _", "   / \\_(   )_/ \\", "  /    \\\u00b4 \u00b4/    \\"],
+    ].map((f) => f.join("\n"));
+    let batTimer, batFrame = 0;
+    function batStart() {
+      const pre = el("pre", "bat");
+      const wrap = el("div", "bat-wrap");
+      wrap.appendChild(pre);
+      wrap.appendChild(el("div", "bat-label", "Fetching your data…"));
+      $("entries").replaceChildren(wrap);
+      const tick = () => { pre.textContent = BAT[batFrame++ % BAT.length]; };
+      tick();
+      clearInterval(batTimer);
+      batTimer = setInterval(tick, 350);
+    }
+    function batStop() { clearInterval(batTimer); }
+
+    function render() {
+      syncControls();
+      const data = state.data;
+      if (!data || !state.shown) return;
+      const { mode, date } = state.shown;
+      const days = rangeDays(mode, date);
+      const blocks = summarize(data, days);
 
       const list = $("entries");
       list.replaceChildren();
@@ -201,7 +235,7 @@
         if (isEmpty(b)) continue;
         any = true;
         const card = el("section", "card");
-        if (state.mode === "week") card.appendChild(el("h2", "day-title", longDate(b.day)));
+        if (mode === "week") card.appendChild(el("h2", "day-title", longDate(b.day)));
 
         for (const m of b.movies) {
           const { name, tail } = movieLine(m);
@@ -230,7 +264,7 @@
         }
         list.appendChild(card);
       }
-      if (!any) list.appendChild(el("p", "empty", state.mode === "day" ? "Nothing logged for this day." : "Nothing logged for this week."));
+      if (!any) list.appendChild(el("p", "empty", mode === "day" ? "Nothing logged for this day." : "Nothing logged for this week."));
 
       $("journal-text").textContent = toJournalText(blocks, { includeReviews: state.includeReviews });
     }
@@ -278,26 +312,49 @@
 
     const move = (n) => {
       state.date = addDays(state.date, state.mode === "day" ? n : n * 7);
-      render();
+      syncControls();
     };
     $("prev").addEventListener("click", () => move(-1));
     $("next").addEventListener("click", () => move(1));
-    $("today").addEventListener("click", () => { state.date = ymd(new Date()); render(); });
-    $("date-input").addEventListener("change", (e) => { if (e.target.value) { state.date = e.target.value; render(); } });
-    $("tab-day").addEventListener("click", () => { state.mode = "day"; render(); });
-    $("tab-week").addEventListener("click", () => { state.mode = "week"; render(); });
+    $("today").addEventListener("click", () => { state.date = ymd(new Date()); syncControls(); });
+    $("date-input").addEventListener("change", (e) => { if (e.target.value) { state.date = e.target.value; syncControls(); } });
+    $("tab-day").addEventListener("click", () => { state.mode = "day"; syncControls(); });
+    $("tab-week").addEventListener("click", () => { state.mode = "week"; syncControls(); });
     $("include-reviews").addEventListener("change", (e) => { state.includeReviews = e.target.checked; render(); });
     $("copy").addEventListener("click", async () => {
+      if (!state.shown) { toast("Pick a date and tap Show first."); return; }
       const ok = await copyText($("journal-text").textContent);
       toast(ok ? "Copied. Paste it into Apple Journal." : "Couldn't copy. Open 'Text to paste' and copy it by hand.");
     });
 
-    fetch("data/data.json?t=" + Date.now())
-      .then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
-      .then((d) => { state.data = d; status(); render(); })
-      .catch((e) => {
-        $("entries").replaceChildren(el("p", "empty", "Couldn't load your data (" + e.message + ")."));
-      });
+    async function show() {
+      if (state.loading) return;
+      if (!state.data) {
+        state.loading = true;
+        syncControls();
+        batStart();
+        try {
+          const r = await fetch("data/data.json?t=" + Date.now());
+          if (!r.ok) throw new Error("HTTP " + r.status);
+          state.data = await r.json();
+          status();
+        } catch (e) {
+          batStop();
+          state.loading = false;
+          syncControls();
+          $("entries").replaceChildren(el("p", "empty", "Couldn't load your data (" + e.message + "). Tap Show to try again."));
+          return;
+        }
+        batStop();
+        state.loading = false;
+      }
+      state.shown = { mode: state.mode, date: state.date };
+      render();
+    }
+    $("show").addEventListener("click", show);
+
+    syncControls();
+    $("entries").replaceChildren(el("p", "empty", "Pick a day or week, then tap Show."));
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
