@@ -1,7 +1,533 @@
 {
-  "generated_at": null,
-  "sources": {},
-  "movies": [],
-  "books": [],
+  "generated_at": "2026-11-11T00:52:07+00:00",
+  "sources": {
+    "letterboxd": "ok",
+    "hardcover": "ok",
+    "strava": "error: HTTP Error 401: Unauthorized"
+  },
+  "movies": [
+    {
+      "id": "letterboxd-review-1577089788",
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "watched_date": "2026-11-07",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "I’m so tired from trying to sort out my thoughts on You Can See Everything, and The Killing of a Sacred Deer that I cannot find the energy to think much about this movie. I do know that its funny, and the story evolves in a way that creative but never distancing. The bits are subtle enough to retain their humanity, but crazy enough to keep you on your toes.\n\nThis Spike Jonze guy is going places.\n\nNeed to rewatch.",
+      "url": "https://letterboxd.com/atlas_atticus/film/being-john-malkovich/"
+    },
+    {
+      "id": "letterboxd-watch-1576676418",
+      "title": "Godzilla Minus One",
+      "year": 2023,
+      "watched_date": "2026-11-07",
+      "rating": 4.0,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/godzilla-minus-one/1/"
+    },
+    {
+      "id": "letterboxd-watch-1568901086",
+      "title": "You Can See Everything",
+      "year": 2026,
+      "watched_date": "2026-11-01",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/you-can-see-everything/"
+    },
+    {
+      "id": "letterboxd-review-1548107616",
+      "title": "The Killing of a Sacred Deer",
+      "year": 2017,
+      "watched_date": "2026-10-19",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "I have been marinating on this movie for a while, hoping to pull together some coherent thoughts, but I just can’t find too much to say about it. I see the bones of some interesting themes scattered across the movie, in particular about masculinity. There seems to be a question about masculine self-comparison and responsibility.\n\nThe men in the story compare everything from the hair in their armpits and max depth of their luxury dive watches, to the quantity of their semen production. Martin appears to be a replacement for Bobby, until he threatens Bobby’s very existence, and seduces his sister. It’s all a contest.\n\nYet, I feel so detached from this theme, because Lanthimos makes detached movies. My gut tells me that he is a misanthrope. I felt that first while watching Bugonia. In that story, too, the characters and narrative feel flat and distant. I don’t know if this is to appear “auteur”, or if it’s a language barrier issue (English is Lanthimos’ second language after all). Either way, his focus seems to be on turning everything interesting about humans into queer abnormalities. It’s not insightful, it’s perverse and obfuscating. I refuse to fall for the artsy aethetic.\n\nThe only movie of his I really enjoyed was The Lobster, and it is because that story felt like a misanthrope flirting with the idea of humanism. The paintfully suspended final shot in The Lobster seems to be about love prevailing in a strangely unloving world, even at the cost of great personal sacrifice.\n\nThe Killing of a Sacred Deer seems to be going in the opposite direction, sacrificing humanity for an unloving and flattened world.",
+      "url": "https://letterboxd.com/atlas_atticus/film/the-killing-of-a-sacred-deer/"
+    },
+    {
+      "id": "letterboxd-review-1541983301",
+      "title": "Jennifer's Body",
+      "year": 2009,
+      "watched_date": "2026-10-16",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "One of the strange things about the cool kids in high school (from the perspective of a dweeb) is that much of their coolness seems effortless. It always felt like the most popular kid in your class could do something embarrassing, and manage to wave it off as natural and in-style. Or, they could take one of your own niche hobbies that puts you on the outside, and make it seem as if it’s what everyone is doing.\n\nThat same, cool, effortlessness is built into Jennifer's Body from beginning to end, and I have a hard time understanding how it's done. I want to point out four atmospheres this movie gives off:\n\n- Hyper-Stylized Comic Book: There are several moments that look like they're pulled from a movie like Sin City. When Needy is chasing down Jennifer to find Chip, she kneels down to pick up a dropped corsage, resting in the dirt. Harsh moonlight is cast dramatically over the orchid like some still frame from a 90's comic book, full of style. The movie is full of acutely visual moments like this. The camera dolly up to Jonas as he stands in the field, the shadow of Jennifer eating [out?] Colin, and Jennifer hovering above the pool are just a few more of the many examples. - Funny: Needy stumbling through the smashed window, Jennifer saying \"shutties\", and needy remarking \"she's just hovering, it's not as cool\", it's all genuinely funny. There is not a single joke in this movie that didn't land for me. Also \"creative nonfiction\" got me good. - Hot: People point out on Letterboxd that this movie was mismarketed towards teenage boys as being a sexual movie for their pleasure, and it has since been revived as a queer flick. I do think it was mismarketed (even the Letterboxd poster is terrible), but let’s be honest it has been revitalized as a queer flick for the same exact reasons teenage boys would have loved this in 2009. Megan Fox is hot, and I'm convinced that Director Karyn Kusama must have been attracted to her because how else would she so effectively leverage everything attractive about Megan Fox? This movie plays her up in all the right ways without feeling hammy or exploitative. - Dramatic: There are also scenes that are emotionally painful, and if taken in isolation might make this movie look more like a harrowing drama. Needy sobbing as she scrapes black muck from the kitchen floor in the middle of the night, Jonas' mom wailing as she learns that her son has been killed, the hurt look on Chip's face as Needy ends things. It's all acted with the utmost seriousness, unhampered by the comedy or sexualization.\n\nHow does Jennifer's Body so casually switch between all these disparate emotional modes? Playing them all up to 11 each time? Like those cool kids in high school, the movie makes it look so effortless and so casual. It's mystifying. I don't think I’ve seen anything quite like it.\n\nThe one thing I do know is that this kind of movie would never be possible if those who made it had taken themselves too seriously. There's something very casual and indifferent about Jennifer's Body. It's not interested in saying anything, it's only interested in fun. I'm skeptical of the post-mortem this movie is getting where people are mining for deep hidden meaning in the story--they're missing that the real secret sauce is never caring too much. But how could those reviewers know, they were probably the losers in high school.",
+      "url": "https://letterboxd.com/atlas_atticus/film/jennifers-body/"
+    },
+    {
+      "id": "letterboxd-review-1531439142",
+      "title": "Possession",
+      "year": 1981,
+      "watched_date": "2026-10-09",
+      "rating": 4.0,
+      "rewatch": true,
+      "review": "Worm couple: “Would you love me if I turned into Sam Neill.”",
+      "url": "https://letterboxd.com/atlas_atticus/film/possession/1/"
+    },
+    {
+      "id": "letterboxd-review-1530902821",
+      "title": "Possession",
+      "year": 1981,
+      "watched_date": "2026-10-09",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "I’m not sure what to say that others haven’t already said better. It’s a strange concoction of ideas that build up like a relentless tide. While one scene in isolation might have me confused, the overall narrative comes through loud and clear with the expressive and uncanny acting from the leads.\n\nWhat I want to remember about this movie: this film does liminal spaces better than Backrooms, which is ironic because Backrooms is all about liminal spaces. The passage of time is totally unclear, and that combined wish the absence of other real humans in most shots produces the most eerie and unsettling mental space for the narrative to unfold in. Finally, the “horror” elements of this movie (I won’t spoil anything) are done so perfectly and with so much restraint, that it never stopped crawling up up my spine and tickling the back of my neck.",
+      "url": "https://letterboxd.com/atlas_atticus/film/possession/"
+    },
+    {
+      "id": "letterboxd-review-1530896403",
+      "title": "Return to Glennascaul",
+      "year": 1952,
+      "watched_date": "2026-10-09",
+      "rating": null,
+      "rewatch": false,
+      "review": "Eh. It was cute.",
+      "url": "https://letterboxd.com/atlas_atticus/film/return-to-glennascaul/"
+    },
+    {
+      "id": "letterboxd-review-1520861919",
+      "title": "Weapons",
+      "year": 2025,
+      "watched_date": "2026-10-02",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "It was hard for me to produce any thoughts on Weapons until a review on Letterboxd gave my mind a key foothold: Hansel and Gretel. Weapons referencing this classic fairytale might have been obvious to a lot of people, but it went right over my head while watching it.\n\nFairytales always evoked a sense of childhood for me. They are meant to have the whimsy of a child-like worldview that imagines the most beautiful and horrific possibilities in the cracks and crevices of life. I always assumed that fairytales were for children, even the dark ones; meant to provide insight into taboos through warning and fear.\n\nThinking about this, it was strange to me that the kids in Weapons feel like an afterthought in the story. The whole movie they are background automatons, seen from behind as they run away into the shadows, or standing mindlessly in a basement. Alex is the only narratively fleshed out child in the story, and he is the most sympathetic. Doesn’t that also make him the least interesting in the cast of complex misfits we follow throughout the story?\n\nSeeing the children relegated to the background this way made me curious about older fairytales and the assumptions I had about them. While reading around I learned that those old European fables and tales were always–contrary to what I thought–meant for adults as the primary audience. They were used as metaphors regarding political opinions or social innuendos. This remained the case until these stories became sanitized for children’s entertainment (apparently, The Brothers Grimm was originally published for scholars and adults as an academic collection of folktales, but once they noticed kids were reading their books they began publishing softer versions of the stories). Ironically, those old tales were never for children, and instead they “weaponized” children as narrative tools for adults to share their commentary.\n\nAccording to Letterboxd reviews, this tradition has been kept alive in Cregger’s Weapons. Many reviews casually throw out the “weaponization” of children as the point of the movie, but I don’t know what that means and the reviews never seem to explain the claim. The word itself makes me imagine the intentional, systematized conversion of children into weapons, like the grooming of child soldiers in developing nations (shoutout Kony 2012). In Weapons there seems to be an allusion to school violence, but I don’t see much overlap between the intentional work of Gladys in this movie, and the confused and misguided violence of school shoutings carried out by twisted individuals with nonsensical manifestos of isolation, victim-hood, or religious fervor. I don’t think this movie is about the weaponization of children, at least not in any interesting way.\n\nI think this movie is simply a subconscious expression for Cregger, and he’s even said so in interviews (“I like the idea of typing so fast that my subconscious is telling the story, not my conscious mind\"). Since Weapons is a product of the subconscious, we get a scrapbook of visual ideas that Cregger has pulled from his own cultural moment, and that he’s glued to the page in an order that makes enough narrative sense to get by. The best part about Weapons isn’t its metaphors (which are, at best, vague), but instead its commitment to interesting visual images: the ghostly apparition of an assault rifle in the sky (reminiscent of video games where weapons that can be picked up float at a 45º angle), children with serene faces running off into the dark with a T-pose, an old woman being torn to shreds by the hands of those mindless children, and human missiles bee-lining for their target. In the end, the children are weaponized in an effort to show the audience interesting visual images, the best narrative use of children imaginable.",
+      "url": "https://letterboxd.com/atlas_atticus/film/weapons-2025/"
+    },
+    {
+      "id": "letterboxd-watch-1520574629",
+      "title": "Evil Dead II",
+      "year": 1987,
+      "watched_date": "2026-10-02",
+      "rating": 4.0,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/evil-dead-ii/2/"
+    },
+    {
+      "id": "letterboxd-review-1512106440",
+      "title": "World War Z",
+      "year": 2013,
+      "watched_date": "2026-09-26",
+      "rating": null,
+      "rewatch": false,
+      "review": "Today I set a PR in my 5K time today. It was 68°, 7am, and crisp out in Depot Park. Then I went for a long motorcycle ride in the brisk air during golden hour. Spent some time with a good friend, had Indian food at the farmers market, an iced americano at a cute little bookstore/plant store/cafe, then watched World War Z with my friend. The whole time I had his freshly purchased 8-week-old pug napping in my lap. She’s only one-and-a-half apples tall.\n\nWorld War Z is a fine movie. I don’t think that much of it, and I’m not sure I’ll remember much about the plot. But I’ll never forget that I watched it on such a perfect autumn day.",
+      "url": "https://letterboxd.com/atlas_atticus/film/world-war-z/"
+    },
+    {
+      "id": "letterboxd-review-1504547577",
+      "title": "Resident Evil",
+      "year": 2026,
+      "watched_date": "2026-09-20",
+      "rating": null,
+      "rewatch": false,
+      "review": "Are the games this funny?",
+      "url": "https://letterboxd.com/atlas_atticus/film/resident-evil-2026/"
+    },
+    {
+      "id": "letterboxd-watch-1500429340",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "watched_date": "2026-09-17",
+      "rating": null,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/spider-man-brand-new-day/"
+    },
+    {
+      "id": "letterboxd-review-1495902785",
+      "title": "Smokedog",
+      "year": 2025,
+      "watched_date": "2026-09-14",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "The violence and love you find in the deep suburbs.",
+      "url": "https://letterboxd.com/atlas_atticus/film/smokedog/"
+    },
+    {
+      "id": "letterboxd-review-1495390443",
+      "title": "Fear City",
+      "year": 1984,
+      "watched_date": "2026-09-13",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "Slick and sleazy. The synthesizer soundtrack is sick. Feels weirdly related to Taxi Driver.\n\nI like the feeling of this movie, and how rough it is around the edges. I even like all the characters. But it’s just too superficial for me to buy in completely.\n\nGreat movie for vibing.",
+      "url": "https://letterboxd.com/atlas_atticus/film/fear-city/"
+    },
+    {
+      "id": "letterboxd-watch-1467201379",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "watched_date": "2026-08-24",
+      "rating": null,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/spider-man-no-way-home/2/"
+    },
+    {
+      "id": "letterboxd-watch-1467200967",
+      "title": "Spider-Man: Far From Home",
+      "year": 2019,
+      "watched_date": "2026-08-24",
+      "rating": null,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/spider-man-far-from-home/1/"
+    },
+    {
+      "id": "letterboxd-watch-1467200687",
+      "title": "Lessons of Darkness",
+      "year": 1992,
+      "watched_date": "2026-08-24",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/lessons-of-darkness/"
+    },
+    {
+      "id": "letterboxd-watch-1461216963",
+      "title": "Holes",
+      "year": 2003,
+      "watched_date": "2026-08-21",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/holes/"
+    },
+    {
+      "id": "letterboxd-watch-1461216812",
+      "title": "Alien",
+      "year": 1979,
+      "watched_date": "2026-08-20",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/alien/"
+    },
+    {
+      "id": "letterboxd-watch-1455164610",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "watched_date": "2026-08-16",
+      "rating": 3.0,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/doctor-strange-in-the-multiverse-of-madness/1/"
+    },
+    {
+      "id": "letterboxd-review-1440893197",
+      "title": "The Elephant Man",
+      "year": 1980,
+      "watched_date": "2026-08-08",
+      "rating": 5.0,
+      "rewatch": false,
+      "review": "This isn’t a movie about the cruelty of humanity, nor does it restore the human spirit with trite sound bits (e.g. \"I'm not a smart man, but I know what love is\" à la Forest Gump). The Elephant Man is simply about it all. Our strange systems of support, and the strange absence of those systems. The beautiful art that we create, and the creativity in our abuses against other humans. The brutality that’s woven into our daily living is not swept under the rug by David Lynch, it’s fully contended with. John Merrick isn’t redeemed through some pandering claim that “beauty lies within”, but rather through the painful, agonized yell “I AM NOT AN ANIMAL!”\n\nThen, in the background, Dr. Treves never quite says what he is thinking. He leaves so much to the imagination. He looks at Merrick with pity, interest, love… and something else. I don’t know what that something else is, but it reminds me of this passage from Look Homeward, Angel, by Thomas Wolfe:\n\n\"In Christ's name, Coker,\" he said, \"what's it all about? Are you able to tell me? What in heaven's name are we here for? You're a doctor—you ought to know something.\"\n\nCoker continued to look at his cigar. It had gone out again.\n\n\"Why?\" he said deliberately. \"Why should I know anything?\"\n\n\"Where do we come from? Where do we go to? What are we here for? What the hell is it all about?\" Ben cried out furiously in a rising voice. He turned bitterly, accusingly, on the older man. \"For God's sake, speak up, Coker. Don't sit there like a damned tailor's dummy. Say something, won't you?\"\n\n\"What do you want me to say?\" said Coker. \"What am I? A mind-reader? A spiritualist? I'm your physician, not your priest. I've seen them born, and I've seen them die. What happens to them before or after, I can't say.\"\n\n\"Damn that!\" said Ben. \"What happens to them in between?\"\n\n\"You're as great an authority on that as I am, Ben,\" said Coker.\n\nDr. Treves is experiencing his own side of Merrick’s struggle, and trying to find the narrative. I’m sorry to bludgeon you with quotes, but it reminds me of this line from Joan Didion:\n\nWe live entirely, especially if we are writers, by the imposition of a narrative line upon disperate images, by the “ideas“ with which we have learned to freeze the shifting phantasmagoria, which is our actual experience.\n\nFor better or for worse, the phantasmagoria of our experience is riddled with extreme moments of emotional experience. There are strings of facts to each of our days. But someone says the wrong thing, or the right thing, and those facts dissolve into a potent experience for us, confusing the facts of it all, but hardening the reality of it. Lynch nails this in The Elephant Man, by seamlessly blending basic narrative exposition with sudden shifts into ambiguous shapes and sounds, closer to pure experience, as the facts begin to take a back seat while the internal world of Merrick, Lynch, and the viewer, take over. Together sharing the phantasmagoria and trying to find the narrative line. Not for analysis, but so that we may live. “We tell ourselves stories in order to live.”",
+      "url": "https://letterboxd.com/atlas_atticus/film/the-elephant-man/"
+    },
+    {
+      "id": "letterboxd-watch-1440629865",
+      "title": "Moonrise Kingdom",
+      "year": 2012,
+      "watched_date": "2026-08-06",
+      "rating": 5.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/moonrise-kingdom/"
+    },
+    {
+      "id": "letterboxd-watch-1415547363",
+      "title": "The Apartment",
+      "year": 1960,
+      "watched_date": "2026-07-20",
+      "rating": 5.0,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/the-apartment/7/"
+    },
+    {
+      "id": "letterboxd-watch-1420158247",
+      "title": "The Odyssey",
+      "year": 2026,
+      "watched_date": "2026-07-19",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/the-odyssey-2026/"
+    },
+    {
+      "id": "letterboxd-watch-1452301439",
+      "title": "Blade Runner",
+      "year": 1982,
+      "watched_date": "2026-07-04",
+      "rating": 5.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/blade-runner/"
+    },
+    {
+      "id": "letterboxd-watch-1370749029",
+      "title": "Dracula",
+      "year": 2025,
+      "watched_date": "2026-06-25",
+      "rating": null,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/dracula-2025/"
+    },
+    {
+      "id": "letterboxd-watch-1358184694",
+      "title": "Muppet Treasure Island",
+      "year": 1996,
+      "watched_date": "2026-06-16",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/muppet-treasure-island/"
+    },
+    {
+      "id": "letterboxd-review-1357408456",
+      "title": "Disclosure Day",
+      "year": 2026,
+      "watched_date": "2026-06-15",
+      "rating": null,
+      "rewatch": false,
+      "review": "I couldn’t help but think of Megalopolis the whole time I was watching this Disclosure Day. This is Spielberg’s sentimental old man moment, but unlike Coppola he still has a lot of artistic restraint. He still trusts the sharp filmmaking instincts he’s honed over his life and the result is a slick script and intuitive visual storytelling. But I just don’t get it. It’s not a movie about aliens and ufos like I had childishly hoped.\n\nI wonder if I am so preoccupied by how different this movie is from what I expected, that I’m missing out on what it actually is. I can’t figure out what this movie is about beyond the claim that some people want power and some want understanding. If the only stakes for Wardex are that humans shouldn’t know aliens exist because they’ll crack, then I don’t find the core conflict very interesting.\n\nThe idea that language is the key for alien connection has been done before (Arrival did it more playfully). But Spielberg feels more grounded. Communicate with them, and communicate with ourselves. Listen. It just makes sense.\n\nThere also seems to be subtle underlying ideas about consciousness, worship, and empathy, but I don’t know that I have any new thought about these concepts after watching Disclosure Day. I saw this with Alex and we had a hard time finding anything to say about what we had just watched.\n\n- - -\n\nWhat I don’t want to forget: Emily Blunt is incredible, can’t believe that’s the same woman in Sicario. I love the clever use of the Hamilton Jazzmaster Open Heart in costuming. Spielbergs old tricks never stopped working; sometimes it felt like I was watching Indiana Jones or ET.",
+      "url": "https://letterboxd.com/atlas_atticus/film/disclosure-day/"
+    },
+    {
+      "id": "letterboxd-review-1356450271",
+      "title": "Metropolis",
+      "year": 1927,
+      "watched_date": "2026-06-15",
+      "rating": 5.0,
+      "rewatch": false,
+      "review": "Alex, Julianne and I saw this at the Hipp with a live soundrack performance by David Didonato. A really fun way to dig into the movie with a fresh feel. David brought a kind of heavy punk feeling and musical irony to the movie that fit in with the visuals.\n\nI have nothing original to say about the movie itself. I hate the ending, but everything else is beautiful.",
+      "url": "https://letterboxd.com/atlas_atticus/film/metropolis/"
+    },
+    {
+      "id": "letterboxd-watch-1337494068",
+      "title": "The Life and Death of 9413: A Hollywood Extra",
+      "year": 1928,
+      "watched_date": "2026-05-31",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/the-life-and-death-of-9413-a-hollywood-extra/"
+    },
+    {
+      "id": "letterboxd-watch-1337493536",
+      "title": "What's the World Coming To?",
+      "year": 1926,
+      "watched_date": "2026-05-31",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/whats-the-world-coming-to/"
+    },
+    {
+      "id": "letterboxd-review-1337493149",
+      "title": "Backrooms",
+      "year": 2026,
+      "watched_date": "2026-05-29",
+      "rating": null,
+      "rewatch": false,
+      "review": "Showed its hand too early, and has no traceable inner logic. To feel suspense I must be able to see a sharp corner and begin imagining what’s around it. I get the logic of corners, shut doors, shadows, etc.  I must be able to speak the language of the idea to anticipate what it’s building toward. But the beautiful idea of The Backrooms is its downfall: it’s so fresh that it’s hard to follow. At least, the concept is. By the end it feels familiar and stale with a weak antagonist and used up “Stranger Things” tropes.\n\nI do feel like there’s a brighter idea lurking beneath the surface that just didn’t get the screen-time it deserved. I’m gonna get in the weeds here but stay with me.\n\nConsider the color blue, and the tried and true question of whether its symbolic meaning is inherent to the color or the product of socialization. In other words is blue a “sad” color inherently? Or is it sad because of the way we come to understand it through language and art during our development?\n\nI had this question on my mind with the idea of “nostalgia” during the first thirty minutes of The Backrooms. How is a director like Kane Parsons—who was eight when I was twenty—able to capture a sense of nostalgia for my childhood? I think the truth is that the images I’m nostalgic about have nothing to do with reality. I think long beige hallways, empty malls, and corduroy sofas are nostalgic whether you’re born in 1915 or 2015. I think what makes me feel nostalgic is not reality, but the echoing sense of meaning that I feel is locked away behind images of modernity. It’s why Lofi Beats to Study/Chill/Relax to are so mesmerizing. We hear the heavily reverberated phantom of some N64 game theme echoing over a mellow drumbeat, and it gives this sense that there the ghost of meaning out there. Tbh I was barely conscious when the GameCube came out, how can I be nostalgic for the N64? The answer is that I can be because everyone is nostalgic for meaning, somewhere beyond the continual production and reproduction of modern society, like the endless halls of the backrooms.\n\nThe best shot in this movie is one in which a room is made and remade over and over through distorted memory. This is our memories of our childhood. I always thought they were distorted in terms of facts, but I now think they are distorted by the injection of meaning.\n\nThe backrooms explores this—vaguely—in the background.  That was the real story.",
+      "url": "https://letterboxd.com/atlas_atticus/film/backrooms-2026/"
+    },
+    {
+      "id": "letterboxd-watch-1332113113",
+      "title": "Memories of Murder",
+      "year": 2003,
+      "watched_date": "2026-05-27",
+      "rating": 5.0,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/memories-of-murder/2/"
+    },
+    {
+      "id": "letterboxd-review-1327462358",
+      "title": "Passenger",
+      "year": 2026,
+      "watched_date": "2026-05-24",
+      "rating": null,
+      "rewatch": false,
+      "review": "This review may contain spoilers.\n\nGeneric story, excessive jump scares, trite dialogue, and disappointing villain design.\n\nIm still glad I saw it though, just for two scenes: - the protagonist using a projector to peer into a dark forest, projecting Roman Holiday across the trees.\n\n- the protagonist anxiously speed-walking through the parking lot, having her attention pulled by various sounds. Then, as the camera rotates around her, it is revealed that the van has mysteriously moved a few parking spots away. Very tense and I’m sure it was fun to film.",
+      "url": "https://letterboxd.com/atlas_atticus/film/passenger-2026/"
+    },
+    {
+      "id": "letterboxd-review-1321742860",
+      "title": "Obsession",
+      "year": 2025,
+      "watched_date": "2026-05-19",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "During each moment of tension, my friends and I would clench up under the blankets we had brought to the movie theater. While tensing up in anticipation, we’d whisper to each other about what was coming next. “She’s going to smash through the glass, she’s going to kill her.” Every guess we had was correct, and it speaks how predictable this movie is. Everything happens exactly how you’d expect it to, and even the ending is telegraphed consistently throughout the the story.\n\nAnd yet, it doesn’t matter. You may know the twists and turns, but the experience is horrifying thanks to the unsettling acting and dialogue from both leads. Also the deeply unsettling violence and psychological torture of Bear and Nikki makes you feel trapped with the plot—in other words knowing what comes next is worse than not knowing.\n\nSomething else I enjoyed was the strange use of comedic relief. Almost every joke in this moment lasts for a beat, then is walked back. “I’m just fucking with you man, they’re right over there.” It’s like even your breaks from the tension are short lived, you don’t get a reprieve from the impending tragedy.",
+      "url": "https://letterboxd.com/atlas_atticus/film/obsession-2025/"
+    },
+    {
+      "id": "letterboxd-watch-1320255934",
+      "title": "Scream",
+      "year": 1996,
+      "watched_date": "2026-05-17",
+      "rating": 4.0,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/scream/1/"
+    },
+    {
+      "id": "letterboxd-review-1320255710",
+      "title": "Scary Movie",
+      "year": 2000,
+      "watched_date": "2026-05-17",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "I watched this back to back with Scream and it’s crazy how much this is a shot-for-shot remake.\n\nFunny. Playful. Loves movies and pokes fun at them.",
+      "url": "https://letterboxd.com/atlas_atticus/film/scary-movie-2000/"
+    },
+    {
+      "id": "letterboxd-watch-1319387737",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016,
+      "watched_date": "2026-05-17",
+      "rating": 4.0,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/batman-v-superman-dawn-of-justice/1/"
+    },
+    {
+      "id": "letterboxd-watch-1319061314",
+      "title": "Superman",
+      "year": 2025,
+      "watched_date": "2026-05-16",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/superman-2025/"
+    },
+    {
+      "id": "letterboxd-watch-1319061138",
+      "title": "Nocturnal Animals",
+      "year": 2016,
+      "watched_date": "2026-05-15",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/nocturnal-animals/"
+    },
+    {
+      "id": "letterboxd-review-1306177615",
+      "title": "The Muppets",
+      "year": 2011,
+      "watched_date": "2026-05-06",
+      "rating": 4.0,
+      "rewatch": true,
+      "review": "This review may contain spoilers.\n\nMee mee mee mee, mo mo mee mo mee. Mee mee mo mo mo! Mee mee mee mee mee, mo.\n\nMo mee mo mee mee mo, mee mee mo mo. Mee mo mee mee! Mo mo mee mee mo, mee mee mee mee.\n\nMee mo mee: mee mee mee mee mo, mo mee mee. Mee mee mo mo mee—mee mee mee mee mo mo!",
+      "url": "https://letterboxd.com/atlas_atticus/film/the-muppets/1/"
+    },
+    {
+      "id": "letterboxd-review-1283174117",
+      "title": "Wake Up Dead Man",
+      "year": 2025,
+      "watched_date": "2026-04-16",
+      "rating": null,
+      "rewatch": false,
+      "review": "Not as bad as The Glass Onion, but still pretty boring. With the first Knives Out the focus seemed to be on playing the mechanics of a good murder mystery. The house was a whole puzzle box, and there's pure joy in watching Benoit Blanc meander around, poking and prodding the mechanisms until a new truth pops out. But with each subsequent film there seems to be less and less effort being put into building a good puzzle.",
+      "url": "https://letterboxd.com/atlas_atticus/film/wake-up-dead-man/"
+    },
+    {
+      "id": "letterboxd-watch-1283178166",
+      "title": "The Phoenician Scheme",
+      "year": 2025,
+      "watched_date": "2026-04-15",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/the-phoenician-scheme/"
+    },
+    {
+      "id": "letterboxd-watch-1278518603",
+      "title": "Logan Lucky",
+      "year": 2017,
+      "watched_date": "2026-04-12",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/logan-lucky/"
+    },
+    {
+      "id": "letterboxd-watch-1278518191",
+      "title": "The Place Beyond the Pines",
+      "year": 2012,
+      "watched_date": "2026-04-12",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/the-place-beyond-the-pines/"
+    },
+    {
+      "id": "letterboxd-watch-1277909055",
+      "title": "Tropic Thunder",
+      "year": 2008,
+      "watched_date": "2026-04-12",
+      "rating": 4.0,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/tropic-thunder/1/"
+    },
+    {
+      "id": "letterboxd-watch-1275654345",
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "watched_date": "2026-04-10",
+      "rating": 4.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/the-silence-of-the-lambs/"
+    },
+    {
+      "id": "letterboxd-watch-1258961844",
+      "title": "Highlander",
+      "year": 1986,
+      "watched_date": "2026-03-26",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/highlander/"
+    },
+    {
+      "id": "letterboxd-review-1250014119",
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "watched_date": "2026-03-22",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "Project Hail Mary is unoriginal, but still a tightly made movie with a beautiful classic story. There’s nothing surprising or experimental in how it’s made or what it’s saying. Even Rocky’s convincing puppet presence is just re-exercising all the incredible accomplishments in puppetry that were well established fifty years ago.\n\nStill, there’s something to be said for taking what works and putting it on the screen flawlessly. Project Hail Mary has even learned from the mistakes of Marvel films, and doesn’t let comedian Ryland Grace spoil every touching moment with a quip; the heartache and the love are allowed to linger.\n\nI had so much fun seeing this with my friends. It felt like the good old days where you’d see a good movie and then go collectively swoon over it at a restaurant right after. Nonstop yapping about our favorite parts, punctuated by us quoting our favorite lines to each other. “Amaze! Amaze!”\n\nIf you haven’t seen this, go see it. See it with friends. You’ll have a great time.",
+      "url": "https://letterboxd.com/atlas_atticus/film/project-hail-mary/"
+    }
+  ],
+  "books": [
+    {
+      "id": "20610689",
+      "title": "Moby Dick",
+      "authors": [
+        "Herman Melville"
+      ],
+      "status_id": 2,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2026-11-11",
+      "updated_at": "2026-11-11T00:25:03.631333+00:00",
+      "reads": [
+        {
+          "started_at": "2026-11-10",
+          "finished_at": null,
+          "progress_pages": 303
+        }
+      ]
+    }
+  ],
   "workouts": []
 }
