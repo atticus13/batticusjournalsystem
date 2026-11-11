@@ -299,4 +299,7 @@
         $("entries").replaceChildren(el("p", "empty", "Couldn't load your data (" + e.message + ")."));
       });
   }
+
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
+  else init();
 })(typeof window !== "undefined" ? window : globalThis);
