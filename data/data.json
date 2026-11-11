@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-11-11T01:16:39+00:00",
+  "generated_at": "2026-11-11T01:38:41+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
-    "strava": "ok"
+    "strava": "ok",
+    "letterboxd_tags": "error: HTTP 403 from letterboxd.com/atlas_atticus/tags/diary/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal"
   },
   "movies": [
     {
@@ -14,7 +15,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "I’m so tired from trying to sort out my thoughts on You Can See Everything, and The Killing of a Sacred Deer that I cannot find the energy to think much about this movie. I do know that its funny, and the story evolves in a way that creative but never distancing. The bits are subtle enough to retain their humanity, but crazy enough to keep you on your toes.\n\nThis Spike Jonze guy is going places.\n\nNeed to rewatch.",
-      "url": "https://letterboxd.com/atlas_atticus/film/being-john-malkovich/"
+      "url": "https://letterboxd.com/atlas_atticus/film/being-john-malkovich/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1576676418",
@@ -24,7 +26,8 @@
       "rating": 4.0,
       "rewatch": true,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/godzilla-minus-one/1/"
+      "url": "https://letterboxd.com/atlas_atticus/film/godzilla-minus-one/1/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1568901086",
@@ -34,7 +37,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/you-can-see-everything/"
+      "url": "https://letterboxd.com/atlas_atticus/film/you-can-see-everything/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1548107616",
@@ -44,7 +48,8 @@
       "rating": 3.0,
       "rewatch": false,
       "review": "I have been marinating on this movie for a while, hoping to pull together some coherent thoughts, but I just can’t find too much to say about it. I see the bones of some interesting themes scattered across the movie, in particular about masculinity. There seems to be a question about masculine self-comparison and responsibility.\n\nThe men in the story compare everything from the hair in their armpits and max depth of their luxury dive watches, to the quantity of their semen production. Martin appears to be a replacement for Bobby, until he threatens Bobby’s very existence, and seduces his sister. It’s all a contest.\n\nYet, I feel so detached from this theme, because Lanthimos makes detached movies. My gut tells me that he is a misanthrope. I felt that first while watching Bugonia. In that story, too, the characters and narrative feel flat and distant. I don’t know if this is to appear “auteur”, or if it’s a language barrier issue (English is Lanthimos’ second language after all). Either way, his focus seems to be on turning everything interesting about humans into queer abnormalities. It’s not insightful, it’s perverse and obfuscating. I refuse to fall for the artsy aethetic.\n\nThe only movie of his I really enjoyed was The Lobster, and it is because that story felt like a misanthrope flirting with the idea of humanism. The paintfully suspended final shot in The Lobster seems to be about love prevailing in a strangely unloving world, even at the cost of great personal sacrifice.\n\nThe Killing of a Sacred Deer seems to be going in the opposite direction, sacrificing humanity for an unloving and flattened world.",
-      "url": "https://letterboxd.com/atlas_atticus/film/the-killing-of-a-sacred-deer/"
+      "url": "https://letterboxd.com/atlas_atticus/film/the-killing-of-a-sacred-deer/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1541983301",
@@ -54,7 +59,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "One of the strange things about the cool kids in high school (from the perspective of a dweeb) is that much of their coolness seems effortless. It always felt like the most popular kid in your class could do something embarrassing, and manage to wave it off as natural and in-style. Or, they could take one of your own niche hobbies that puts you on the outside, and make it seem as if it’s what everyone is doing.\n\nThat same, cool, effortlessness is built into Jennifer's Body from beginning to end, and I have a hard time understanding how it's done. I want to point out four atmospheres this movie gives off:\n\n- Hyper-Stylized Comic Book: There are several moments that look like they're pulled from a movie like Sin City. When Needy is chasing down Jennifer to find Chip, she kneels down to pick up a dropped corsage, resting in the dirt. Harsh moonlight is cast dramatically over the orchid like some still frame from a 90's comic book, full of style. The movie is full of acutely visual moments like this. The camera dolly up to Jonas as he stands in the field, the shadow of Jennifer eating [out?] Colin, and Jennifer hovering above the pool are just a few more of the many examples. - Funny: Needy stumbling through the smashed window, Jennifer saying \"shutties\", and needy remarking \"she's just hovering, it's not as cool\", it's all genuinely funny. There is not a single joke in this movie that didn't land for me. Also \"creative nonfiction\" got me good. - Hot: People point out on Letterboxd that this movie was mismarketed towards teenage boys as being a sexual movie for their pleasure, and it has since been revived as a queer flick. I do think it was mismarketed (even the Letterboxd poster is terrible), but let’s be honest it has been revitalized as a queer flick for the same exact reasons teenage boys would have loved this in 2009. Megan Fox is hot, and I'm convinced that Director Karyn Kusama must have been attracted to her because how else would she so effectively leverage everything attractive about Megan Fox? This movie plays her up in all the right ways without feeling hammy or exploitative. - Dramatic: There are also scenes that are emotionally painful, and if taken in isolation might make this movie look more like a harrowing drama. Needy sobbing as she scrapes black muck from the kitchen floor in the middle of the night, Jonas' mom wailing as she learns that her son has been killed, the hurt look on Chip's face as Needy ends things. It's all acted with the utmost seriousness, unhampered by the comedy or sexualization.\n\nHow does Jennifer's Body so casually switch between all these disparate emotional modes? Playing them all up to 11 each time? Like those cool kids in high school, the movie makes it look so effortless and so casual. It's mystifying. I don't think I’ve seen anything quite like it.\n\nThe one thing I do know is that this kind of movie would never be possible if those who made it had taken themselves too seriously. There's something very casual and indifferent about Jennifer's Body. It's not interested in saying anything, it's only interested in fun. I'm skeptical of the post-mortem this movie is getting where people are mining for deep hidden meaning in the story--they're missing that the real secret sauce is never caring too much. But how could those reviewers know, they were probably the losers in high school.",
-      "url": "https://letterboxd.com/atlas_atticus/film/jennifers-body/"
+      "url": "https://letterboxd.com/atlas_atticus/film/jennifers-body/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1531439142",
@@ -64,7 +70,8 @@
       "rating": 4.0,
       "rewatch": true,
       "review": "Worm couple: “Would you love me if I turned into Sam Neill.”",
-      "url": "https://letterboxd.com/atlas_atticus/film/possession/1/"
+      "url": "https://letterboxd.com/atlas_atticus/film/possession/1/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1530902821",
@@ -74,7 +81,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "I’m not sure what to say that others haven’t already said better. It’s a strange concoction of ideas that build up like a relentless tide. While one scene in isolation might have me confused, the overall narrative comes through loud and clear with the expressive and uncanny acting from the leads.\n\nWhat I want to remember about this movie: this film does liminal spaces better than Backrooms, which is ironic because Backrooms is all about liminal spaces. The passage of time is totally unclear, and that combined wish the absence of other real humans in most shots produces the most eerie and unsettling mental space for the narrative to unfold in. Finally, the “horror” elements of this movie (I won’t spoil anything) are done so perfectly and with so much restraint, that it never stopped crawling up up my spine and tickling the back of my neck.",
-      "url": "https://letterboxd.com/atlas_atticus/film/possession/"
+      "url": "https://letterboxd.com/atlas_atticus/film/possession/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1530896403",
@@ -84,7 +92,8 @@
       "rating": null,
       "rewatch": false,
       "review": "Eh. It was cute.",
-      "url": "https://letterboxd.com/atlas_atticus/film/return-to-glennascaul/"
+      "url": "https://letterboxd.com/atlas_atticus/film/return-to-glennascaul/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1520861919",
@@ -94,7 +103,8 @@
       "rating": 3.0,
       "rewatch": false,
       "review": "It was hard for me to produce any thoughts on Weapons until a review on Letterboxd gave my mind a key foothold: Hansel and Gretel. Weapons referencing this classic fairytale might have been obvious to a lot of people, but it went right over my head while watching it.\n\nFairytales always evoked a sense of childhood for me. They are meant to have the whimsy of a child-like worldview that imagines the most beautiful and horrific possibilities in the cracks and crevices of life. I always assumed that fairytales were for children, even the dark ones; meant to provide insight into taboos through warning and fear.\n\nThinking about this, it was strange to me that the kids in Weapons feel like an afterthought in the story. The whole movie they are background automatons, seen from behind as they run away into the shadows, or standing mindlessly in a basement. Alex is the only narratively fleshed out child in the story, and he is the most sympathetic. Doesn’t that also make him the least interesting in the cast of complex misfits we follow throughout the story?\n\nSeeing the children relegated to the background this way made me curious about older fairytales and the assumptions I had about them. While reading around I learned that those old European fables and tales were always–contrary to what I thought–meant for adults as the primary audience. They were used as metaphors regarding political opinions or social innuendos. This remained the case until these stories became sanitized for children’s entertainment (apparently, The Brothers Grimm was originally published for scholars and adults as an academic collection of folktales, but once they noticed kids were reading their books they began publishing softer versions of the stories). Ironically, those old tales were never for children, and instead they “weaponized” children as narrative tools for adults to share their commentary.\n\nAccording to Letterboxd reviews, this tradition has been kept alive in Cregger’s Weapons. Many reviews casually throw out the “weaponization” of children as the point of the movie, but I don’t know what that means and the reviews never seem to explain the claim. The word itself makes me imagine the intentional, systematized conversion of children into weapons, like the grooming of child soldiers in developing nations (shoutout Kony 2012). In Weapons there seems to be an allusion to school violence, but I don’t see much overlap between the intentional work of Gladys in this movie, and the confused and misguided violence of school shoutings carried out by twisted individuals with nonsensical manifestos of isolation, victim-hood, or religious fervor. I don’t think this movie is about the weaponization of children, at least not in any interesting way.\n\nI think this movie is simply a subconscious expression for Cregger, and he’s even said so in interviews (“I like the idea of typing so fast that my subconscious is telling the story, not my conscious mind\"). Since Weapons is a product of the subconscious, we get a scrapbook of visual ideas that Cregger has pulled from his own cultural moment, and that he’s glued to the page in an order that makes enough narrative sense to get by. The best part about Weapons isn’t its metaphors (which are, at best, vague), but instead its commitment to interesting visual images: the ghostly apparition of an assault rifle in the sky (reminiscent of video games where weapons that can be picked up float at a 45º angle), children with serene faces running off into the dark with a T-pose, an old woman being torn to shreds by the hands of those mindless children, and human missiles bee-lining for their target. In the end, the children are weaponized in an effort to show the audience interesting visual images, the best narrative use of children imaginable.",
-      "url": "https://letterboxd.com/atlas_atticus/film/weapons-2025/"
+      "url": "https://letterboxd.com/atlas_atticus/film/weapons-2025/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1520574629",
@@ -104,7 +114,8 @@
       "rating": 4.0,
       "rewatch": true,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/evil-dead-ii/2/"
+      "url": "https://letterboxd.com/atlas_atticus/film/evil-dead-ii/2/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1512106440",
@@ -114,7 +125,8 @@
       "rating": null,
       "rewatch": false,
       "review": "Today I set a PR in my 5K time today. It was 68°, 7am, and crisp out in Depot Park. Then I went for a long motorcycle ride in the brisk air during golden hour. Spent some time with a good friend, had Indian food at the farmers market, an iced americano at a cute little bookstore/plant store/cafe, then watched World War Z with my friend. The whole time I had his freshly purchased 8-week-old pug napping in my lap. She’s only one-and-a-half apples tall.\n\nWorld War Z is a fine movie. I don’t think that much of it, and I’m not sure I’ll remember much about the plot. But I’ll never forget that I watched it on such a perfect autumn day.",
-      "url": "https://letterboxd.com/atlas_atticus/film/world-war-z/"
+      "url": "https://letterboxd.com/atlas_atticus/film/world-war-z/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1504547577",
@@ -124,7 +136,8 @@
       "rating": null,
       "rewatch": false,
       "review": "Are the games this funny?",
-      "url": "https://letterboxd.com/atlas_atticus/film/resident-evil-2026/"
+      "url": "https://letterboxd.com/atlas_atticus/film/resident-evil-2026/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1500429340",
@@ -134,7 +147,8 @@
       "rating": null,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/spider-man-brand-new-day/"
+      "url": "https://letterboxd.com/atlas_atticus/film/spider-man-brand-new-day/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1495902785",
@@ -144,7 +158,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "The violence and love you find in the deep suburbs.",
-      "url": "https://letterboxd.com/atlas_atticus/film/smokedog/"
+      "url": "https://letterboxd.com/atlas_atticus/film/smokedog/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1495390443",
@@ -154,7 +169,8 @@
       "rating": 3.0,
       "rewatch": false,
       "review": "Slick and sleazy. The synthesizer soundtrack is sick. Feels weirdly related to Taxi Driver.\n\nI like the feeling of this movie, and how rough it is around the edges. I even like all the characters. But it’s just too superficial for me to buy in completely.\n\nGreat movie for vibing.",
-      "url": "https://letterboxd.com/atlas_atticus/film/fear-city/"
+      "url": "https://letterboxd.com/atlas_atticus/film/fear-city/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1467201379",
@@ -164,7 +180,8 @@
       "rating": null,
       "rewatch": true,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/spider-man-no-way-home/2/"
+      "url": "https://letterboxd.com/atlas_atticus/film/spider-man-no-way-home/2/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1467200967",
@@ -174,7 +191,8 @@
       "rating": null,
       "rewatch": true,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/spider-man-far-from-home/1/"
+      "url": "https://letterboxd.com/atlas_atticus/film/spider-man-far-from-home/1/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1467200687",
@@ -184,7 +202,8 @@
       "rating": 3.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/lessons-of-darkness/"
+      "url": "https://letterboxd.com/atlas_atticus/film/lessons-of-darkness/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1461216963",
@@ -194,7 +213,8 @@
       "rating": 3.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/holes/"
+      "url": "https://letterboxd.com/atlas_atticus/film/holes/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1461216812",
@@ -204,7 +224,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/alien/"
+      "url": "https://letterboxd.com/atlas_atticus/film/alien/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1455164610",
@@ -214,7 +235,8 @@
       "rating": 3.0,
       "rewatch": true,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/doctor-strange-in-the-multiverse-of-madness/1/"
+      "url": "https://letterboxd.com/atlas_atticus/film/doctor-strange-in-the-multiverse-of-madness/1/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1440893197",
@@ -224,7 +246,8 @@
       "rating": 5.0,
       "rewatch": false,
       "review": "This isn’t a movie about the cruelty of humanity, nor does it restore the human spirit with trite sound bits (e.g. \"I'm not a smart man, but I know what love is\" à la Forest Gump). The Elephant Man is simply about it all. Our strange systems of support, and the strange absence of those systems. The beautiful art that we create, and the creativity in our abuses against other humans. The brutality that’s woven into our daily living is not swept under the rug by David Lynch, it’s fully contended with. John Merrick isn’t redeemed through some pandering claim that “beauty lies within”, but rather through the painful, agonized yell “I AM NOT AN ANIMAL!”\n\nThen, in the background, Dr. Treves never quite says what he is thinking. He leaves so much to the imagination. He looks at Merrick with pity, interest, love… and something else. I don’t know what that something else is, but it reminds me of this passage from Look Homeward, Angel, by Thomas Wolfe:\n\n\"In Christ's name, Coker,\" he said, \"what's it all about? Are you able to tell me? What in heaven's name are we here for? You're a doctor—you ought to know something.\"\n\nCoker continued to look at his cigar. It had gone out again.\n\n\"Why?\" he said deliberately. \"Why should I know anything?\"\n\n\"Where do we come from? Where do we go to? What are we here for? What the hell is it all about?\" Ben cried out furiously in a rising voice. He turned bitterly, accusingly, on the older man. \"For God's sake, speak up, Coker. Don't sit there like a damned tailor's dummy. Say something, won't you?\"\n\n\"What do you want me to say?\" said Coker. \"What am I? A mind-reader? A spiritualist? I'm your physician, not your priest. I've seen them born, and I've seen them die. What happens to them before or after, I can't say.\"\n\n\"Damn that!\" said Ben. \"What happens to them in between?\"\n\n\"You're as great an authority on that as I am, Ben,\" said Coker.\n\nDr. Treves is experiencing his own side of Merrick’s struggle, and trying to find the narrative. I’m sorry to bludgeon you with quotes, but it reminds me of this line from Joan Didion:\n\nWe live entirely, especially if we are writers, by the imposition of a narrative line upon disperate images, by the “ideas“ with which we have learned to freeze the shifting phantasmagoria, which is our actual experience.\n\nFor better or for worse, the phantasmagoria of our experience is riddled with extreme moments of emotional experience. There are strings of facts to each of our days. But someone says the wrong thing, or the right thing, and those facts dissolve into a potent experience for us, confusing the facts of it all, but hardening the reality of it. Lynch nails this in The Elephant Man, by seamlessly blending basic narrative exposition with sudden shifts into ambiguous shapes and sounds, closer to pure experience, as the facts begin to take a back seat while the internal world of Merrick, Lynch, and the viewer, take over. Together sharing the phantasmagoria and trying to find the narrative line. Not for analysis, but so that we may live. “We tell ourselves stories in order to live.”",
-      "url": "https://letterboxd.com/atlas_atticus/film/the-elephant-man/"
+      "url": "https://letterboxd.com/atlas_atticus/film/the-elephant-man/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1440629865",
@@ -234,7 +257,8 @@
       "rating": 5.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/moonrise-kingdom/"
+      "url": "https://letterboxd.com/atlas_atticus/film/moonrise-kingdom/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1415547363",
@@ -244,7 +268,8 @@
       "rating": 5.0,
       "rewatch": true,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/the-apartment/7/"
+      "url": "https://letterboxd.com/atlas_atticus/film/the-apartment/7/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1420158247",
@@ -254,7 +279,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/the-odyssey-2026/"
+      "url": "https://letterboxd.com/atlas_atticus/film/the-odyssey-2026/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1452301439",
@@ -264,7 +290,8 @@
       "rating": 5.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/blade-runner/"
+      "url": "https://letterboxd.com/atlas_atticus/film/blade-runner/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1370749029",
@@ -274,7 +301,8 @@
       "rating": null,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/dracula-2025/"
+      "url": "https://letterboxd.com/atlas_atticus/film/dracula-2025/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1358184694",
@@ -284,7 +312,8 @@
       "rating": 3.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/muppet-treasure-island/"
+      "url": "https://letterboxd.com/atlas_atticus/film/muppet-treasure-island/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1357408456",
@@ -294,7 +323,8 @@
       "rating": null,
       "rewatch": false,
       "review": "I couldn’t help but think of Megalopolis the whole time I was watching this Disclosure Day. This is Spielberg’s sentimental old man moment, but unlike Coppola he still has a lot of artistic restraint. He still trusts the sharp filmmaking instincts he’s honed over his life and the result is a slick script and intuitive visual storytelling. But I just don’t get it. It’s not a movie about aliens and ufos like I had childishly hoped.\n\nI wonder if I am so preoccupied by how different this movie is from what I expected, that I’m missing out on what it actually is. I can’t figure out what this movie is about beyond the claim that some people want power and some want understanding. If the only stakes for Wardex are that humans shouldn’t know aliens exist because they’ll crack, then I don’t find the core conflict very interesting.\n\nThe idea that language is the key for alien connection has been done before (Arrival did it more playfully). But Spielberg feels more grounded. Communicate with them, and communicate with ourselves. Listen. It just makes sense.\n\nThere also seems to be subtle underlying ideas about consciousness, worship, and empathy, but I don’t know that I have any new thought about these concepts after watching Disclosure Day. I saw this with Alex and we had a hard time finding anything to say about what we had just watched.\n\n- - -\n\nWhat I don’t want to forget: Emily Blunt is incredible, can’t believe that’s the same woman in Sicario. I love the clever use of the Hamilton Jazzmaster Open Heart in costuming. Spielbergs old tricks never stopped working; sometimes it felt like I was watching Indiana Jones or ET.",
-      "url": "https://letterboxd.com/atlas_atticus/film/disclosure-day/"
+      "url": "https://letterboxd.com/atlas_atticus/film/disclosure-day/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1356450271",
@@ -304,7 +334,8 @@
       "rating": 5.0,
       "rewatch": false,
       "review": "Alex, Julianne and I saw this at the Hipp with a live soundrack performance by David Didonato. A really fun way to dig into the movie with a fresh feel. David brought a kind of heavy punk feeling and musical irony to the movie that fit in with the visuals.\n\nI have nothing original to say about the movie itself. I hate the ending, but everything else is beautiful.",
-      "url": "https://letterboxd.com/atlas_atticus/film/metropolis/"
+      "url": "https://letterboxd.com/atlas_atticus/film/metropolis/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1337494068",
@@ -314,7 +345,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/the-life-and-death-of-9413-a-hollywood-extra/"
+      "url": "https://letterboxd.com/atlas_atticus/film/the-life-and-death-of-9413-a-hollywood-extra/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1337493536",
@@ -324,7 +356,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/whats-the-world-coming-to/"
+      "url": "https://letterboxd.com/atlas_atticus/film/whats-the-world-coming-to/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1337493149",
@@ -334,7 +367,8 @@
       "rating": null,
       "rewatch": false,
       "review": "Showed its hand too early, and has no traceable inner logic. To feel suspense I must be able to see a sharp corner and begin imagining what’s around it. I get the logic of corners, shut doors, shadows, etc.  I must be able to speak the language of the idea to anticipate what it’s building toward. But the beautiful idea of The Backrooms is its downfall: it’s so fresh that it’s hard to follow. At least, the concept is. By the end it feels familiar and stale with a weak antagonist and used up “Stranger Things” tropes.\n\nI do feel like there’s a brighter idea lurking beneath the surface that just didn’t get the screen-time it deserved. I’m gonna get in the weeds here but stay with me.\n\nConsider the color blue, and the tried and true question of whether its symbolic meaning is inherent to the color or the product of socialization. In other words is blue a “sad” color inherently? Or is it sad because of the way we come to understand it through language and art during our development?\n\nI had this question on my mind with the idea of “nostalgia” during the first thirty minutes of The Backrooms. How is a director like Kane Parsons—who was eight when I was twenty—able to capture a sense of nostalgia for my childhood? I think the truth is that the images I’m nostalgic about have nothing to do with reality. I think long beige hallways, empty malls, and corduroy sofas are nostalgic whether you’re born in 1915 or 2015. I think what makes me feel nostalgic is not reality, but the echoing sense of meaning that I feel is locked away behind images of modernity. It’s why Lofi Beats to Study/Chill/Relax to are so mesmerizing. We hear the heavily reverberated phantom of some N64 game theme echoing over a mellow drumbeat, and it gives this sense that there the ghost of meaning out there. Tbh I was barely conscious when the GameCube came out, how can I be nostalgic for the N64? The answer is that I can be because everyone is nostalgic for meaning, somewhere beyond the continual production and reproduction of modern society, like the endless halls of the backrooms.\n\nThe best shot in this movie is one in which a room is made and remade over and over through distorted memory. This is our memories of our childhood. I always thought they were distorted in terms of facts, but I now think they are distorted by the injection of meaning.\n\nThe backrooms explores this—vaguely—in the background.  That was the real story.",
-      "url": "https://letterboxd.com/atlas_atticus/film/backrooms-2026/"
+      "url": "https://letterboxd.com/atlas_atticus/film/backrooms-2026/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1332113113",
@@ -344,7 +378,8 @@
       "rating": 5.0,
       "rewatch": true,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/memories-of-murder/2/"
+      "url": "https://letterboxd.com/atlas_atticus/film/memories-of-murder/2/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1327462358",
@@ -354,7 +389,8 @@
       "rating": null,
       "rewatch": false,
       "review": "This review may contain spoilers.\n\nGeneric story, excessive jump scares, trite dialogue, and disappointing villain design.\n\nIm still glad I saw it though, just for two scenes: - the protagonist using a projector to peer into a dark forest, projecting Roman Holiday across the trees.\n\n- the protagonist anxiously speed-walking through the parking lot, having her attention pulled by various sounds. Then, as the camera rotates around her, it is revealed that the van has mysteriously moved a few parking spots away. Very tense and I’m sure it was fun to film.",
-      "url": "https://letterboxd.com/atlas_atticus/film/passenger-2026/"
+      "url": "https://letterboxd.com/atlas_atticus/film/passenger-2026/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1321742860",
@@ -364,7 +400,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "During each moment of tension, my friends and I would clench up under the blankets we had brought to the movie theater. While tensing up in anticipation, we’d whisper to each other about what was coming next. “She’s going to smash through the glass, she’s going to kill her.” Every guess we had was correct, and it speaks how predictable this movie is. Everything happens exactly how you’d expect it to, and even the ending is telegraphed consistently throughout the the story.\n\nAnd yet, it doesn’t matter. You may know the twists and turns, but the experience is horrifying thanks to the unsettling acting and dialogue from both leads. Also the deeply unsettling violence and psychological torture of Bear and Nikki makes you feel trapped with the plot—in other words knowing what comes next is worse than not knowing.\n\nSomething else I enjoyed was the strange use of comedic relief. Almost every joke in this moment lasts for a beat, then is walked back. “I’m just fucking with you man, they’re right over there.” It’s like even your breaks from the tension are short lived, you don’t get a reprieve from the impending tragedy.",
-      "url": "https://letterboxd.com/atlas_atticus/film/obsession-2025/"
+      "url": "https://letterboxd.com/atlas_atticus/film/obsession-2025/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1320255934",
@@ -374,7 +411,8 @@
       "rating": 4.0,
       "rewatch": true,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/scream/1/"
+      "url": "https://letterboxd.com/atlas_atticus/film/scream/1/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1320255710",
@@ -384,7 +422,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "I watched this back to back with Scream and it’s crazy how much this is a shot-for-shot remake.\n\nFunny. Playful. Loves movies and pokes fun at them.",
-      "url": "https://letterboxd.com/atlas_atticus/film/scary-movie-2000/"
+      "url": "https://letterboxd.com/atlas_atticus/film/scary-movie-2000/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1319387737",
@@ -394,7 +433,8 @@
       "rating": 4.0,
       "rewatch": true,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/batman-v-superman-dawn-of-justice/1/"
+      "url": "https://letterboxd.com/atlas_atticus/film/batman-v-superman-dawn-of-justice/1/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1319061314",
@@ -404,7 +444,8 @@
       "rating": 3.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/superman-2025/"
+      "url": "https://letterboxd.com/atlas_atticus/film/superman-2025/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1319061138",
@@ -414,7 +455,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/nocturnal-animals/"
+      "url": "https://letterboxd.com/atlas_atticus/film/nocturnal-animals/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1306177615",
@@ -424,7 +466,8 @@
       "rating": 4.0,
       "rewatch": true,
       "review": "This review may contain spoilers.\n\nMee mee mee mee, mo mo mee mo mee. Mee mee mo mo mo! Mee mee mee mee mee, mo.\n\nMo mee mo mee mee mo, mee mee mo mo. Mee mo mee mee! Mo mo mee mee mo, mee mee mee mee.\n\nMee mo mee: mee mee mee mee mo, mo mee mee. Mee mee mo mo mee—mee mee mee mee mo mo!",
-      "url": "https://letterboxd.com/atlas_atticus/film/the-muppets/1/"
+      "url": "https://letterboxd.com/atlas_atticus/film/the-muppets/1/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1283174117",
@@ -434,7 +477,8 @@
       "rating": null,
       "rewatch": false,
       "review": "Not as bad as The Glass Onion, but still pretty boring. With the first Knives Out the focus seemed to be on playing the mechanics of a good murder mystery. The house was a whole puzzle box, and there's pure joy in watching Benoit Blanc meander around, poking and prodding the mechanisms until a new truth pops out. But with each subsequent film there seems to be less and less effort being put into building a good puzzle.",
-      "url": "https://letterboxd.com/atlas_atticus/film/wake-up-dead-man/"
+      "url": "https://letterboxd.com/atlas_atticus/film/wake-up-dead-man/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1283178166",
@@ -444,7 +488,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/the-phoenician-scheme/"
+      "url": "https://letterboxd.com/atlas_atticus/film/the-phoenician-scheme/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1278518603",
@@ -454,7 +499,8 @@
       "rating": 3.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/logan-lucky/"
+      "url": "https://letterboxd.com/atlas_atticus/film/logan-lucky/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1278518191",
@@ -464,7 +510,8 @@
       "rating": 3.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/the-place-beyond-the-pines/"
+      "url": "https://letterboxd.com/atlas_atticus/film/the-place-beyond-the-pines/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1277909055",
@@ -474,7 +521,8 @@
       "rating": 4.0,
       "rewatch": true,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/tropic-thunder/1/"
+      "url": "https://letterboxd.com/atlas_atticus/film/tropic-thunder/1/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1275654345",
@@ -484,7 +532,8 @@
       "rating": 4.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/the-silence-of-the-lambs/"
+      "url": "https://letterboxd.com/atlas_atticus/film/the-silence-of-the-lambs/",
+      "tags": []
     },
     {
       "id": "letterboxd-watch-1258961844",
@@ -494,7 +543,8 @@
       "rating": 3.0,
       "rewatch": false,
       "review": "",
-      "url": "https://letterboxd.com/atlas_atticus/film/highlander/"
+      "url": "https://letterboxd.com/atlas_atticus/film/highlander/",
+      "tags": []
     },
     {
       "id": "letterboxd-review-1250014119",
@@ -504,7 +554,8 @@
       "rating": 3.0,
       "rewatch": false,
       "review": "Project Hail Mary is unoriginal, but still a tightly made movie with a beautiful classic story. There’s nothing surprising or experimental in how it’s made or what it’s saying. Even Rocky’s convincing puppet presence is just re-exercising all the incredible accomplishments in puppetry that were well established fifty years ago.\n\nStill, there’s something to be said for taking what works and putting it on the screen flawlessly. Project Hail Mary has even learned from the mistakes of Marvel films, and doesn’t let comedian Ryland Grace spoil every touching moment with a quip; the heartache and the love are allowed to linger.\n\nI had so much fun seeing this with my friends. It felt like the good old days where you’d see a good movie and then go collectively swoon over it at a restaurant right after. Nonstop yapping about our favorite parts, punctuated by us quoting our favorite lines to each other. “Amaze! Amaze!”\n\nIf you haven’t seen this, go see it. See it with friends. You’ll have a great time.",
-      "url": "https://letterboxd.com/atlas_atticus/film/project-hail-mary/"
+      "url": "https://letterboxd.com/atlas_atticus/film/project-hail-mary/",
+      "tags": []
     }
   ],
   "books": [
@@ -537,7 +588,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1749,
       "elapsed_time_s": 1749,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 114.0,
+      "max_hr": 160.0
     },
     {
       "id": "20926202539",
@@ -546,7 +599,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2629,
       "elapsed_time_s": 2849,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 122.8,
+      "max_hr": 135.0
     },
     {
       "id": "20925624351",
@@ -555,7 +610,9 @@
       "distance_m": 3780.5,
       "moving_time_s": 1497,
       "elapsed_time_s": 1630,
-      "elevation_gain_m": 13.8
+      "elevation_gain_m": 13.8,
+      "avg_hr": 153.1,
+      "max_hr": 176.0
     },
     {
       "id": "20913073973",
@@ -564,7 +621,9 @@
       "distance_m": 2867.1,
       "moving_time_s": 2119,
       "elapsed_time_s": 2253,
-      "elevation_gain_m": 9.1
+      "elevation_gain_m": 9.1,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "20896414811",
@@ -573,7 +632,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4995,
       "elapsed_time_s": 4995,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 108.7,
+      "max_hr": 161.0
     },
     {
       "id": "20887950348",
@@ -582,7 +643,9 @@
       "distance_m": 6831.4,
       "moving_time_s": 2731,
       "elapsed_time_s": 3358,
-      "elevation_gain_m": 21.6
+      "elevation_gain_m": 21.6,
+      "avg_hr": 156.6,
+      "max_hr": 182.0
     },
     {
       "id": "20877148312",
@@ -591,7 +654,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1663,
       "elapsed_time_s": 1664,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 120.5,
+      "max_hr": 148.0
     },
     {
       "id": "20848956261",
@@ -600,7 +665,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2125,
       "elapsed_time_s": 2127,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 100.5,
+      "max_hr": 134.0
     },
     {
       "id": "20836221148",
@@ -609,7 +676,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3975,
       "elapsed_time_s": 3975,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 98.9,
+      "max_hr": 153.0
     },
     {
       "id": "20820259630",
@@ -618,7 +687,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2665,
       "elapsed_time_s": 2665,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "20785372269",
@@ -627,7 +698,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2442,
       "elapsed_time_s": 2442,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "20743052857",
@@ -636,7 +709,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2294,
       "elapsed_time_s": 2303,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 134.2,
+      "max_hr": 158.0
     },
     {
       "id": "20742644165",
@@ -645,7 +720,9 @@
       "distance_m": 5000.0,
       "moving_time_s": 1888,
       "elapsed_time_s": 1888,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "20704174802",
@@ -654,7 +731,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2498,
       "elapsed_time_s": 2498,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "20680667230",
@@ -663,7 +742,9 @@
       "distance_m": 3656.8,
       "moving_time_s": 1488,
       "elapsed_time_s": 1493,
-      "elevation_gain_m": 18.0
+      "elevation_gain_m": 18.0,
+      "avg_hr": 155.9,
+      "max_hr": 175.0
     },
     {
       "id": "20680309757",
@@ -672,7 +753,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2425,
       "elapsed_time_s": 2429,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 119.4,
+      "max_hr": 149.0
     },
     {
       "id": "20653154643",
@@ -681,7 +764,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2352,
       "elapsed_time_s": 2352,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "20495053515",
@@ -690,7 +775,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1859,
       "elapsed_time_s": 1859,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "20466121188",
@@ -699,7 +786,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2365,
       "elapsed_time_s": 2365,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "20412422430",
@@ -708,7 +797,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2589,
       "elapsed_time_s": 2589,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "20384882217",
@@ -717,7 +808,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2538,
       "elapsed_time_s": 2538,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 120.7,
+      "max_hr": 143.0
     },
     {
       "id": "20887676180",
@@ -726,7 +819,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1686,
       "elapsed_time_s": 1686,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 99.6,
+      "max_hr": 149.0
     },
     {
       "id": "20356378650",
@@ -735,7 +830,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2754,
       "elapsed_time_s": 2754,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "20350654241",
@@ -744,7 +841,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2622,
       "elapsed_time_s": 2622,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 104.7,
+      "max_hr": 165.0
     },
     {
       "id": "20336063978",
@@ -753,7 +852,9 @@
       "distance_m": 5481.9,
       "moving_time_s": 2090,
       "elapsed_time_s": 2169,
-      "elevation_gain_m": 20.0
+      "elevation_gain_m": 20.0,
+      "avg_hr": 160.4,
+      "max_hr": 188.0
     },
     {
       "id": "20272981805",
@@ -762,7 +863,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4163,
       "elapsed_time_s": 4163,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 105.9,
+      "max_hr": 145.0
     },
     {
       "id": "20272234375",
@@ -771,7 +874,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1930,
       "elapsed_time_s": 1940,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 106.3,
+      "max_hr": 132.0
     },
     {
       "id": "20246126464",
@@ -780,7 +885,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1844,
       "elapsed_time_s": 1861,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 116.9,
+      "max_hr": 146.0
     },
     {
       "id": "20218936953",
@@ -789,7 +896,9 @@
       "distance_m": 3596.4,
       "moving_time_s": 1500,
       "elapsed_time_s": 1567,
-      "elevation_gain_m": 35.0
+      "elevation_gain_m": 35.0,
+      "avg_hr": 155.7,
+      "max_hr": 157.0
     },
     {
       "id": "20205563249",
@@ -798,7 +907,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1689,
       "elapsed_time_s": 1689,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "20149952959",
@@ -807,7 +918,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2348,
       "elapsed_time_s": 2348,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 132.6,
+      "max_hr": 160.0
     },
     {
       "id": "20149366507",
@@ -816,7 +929,9 @@
       "distance_m": 5005.4,
       "moving_time_s": 2128,
       "elapsed_time_s": 2150,
-      "elevation_gain_m": 38.0
+      "elevation_gain_m": 38.0,
+      "avg_hr": 160.6,
+      "max_hr": 185.0
     },
     {
       "id": "20121069597",
@@ -825,7 +940,9 @@
       "distance_m": 3672.1,
       "moving_time_s": 1497,
       "elapsed_time_s": 1501,
-      "elevation_gain_m": 21.0
+      "elevation_gain_m": 21.0,
+      "avg_hr": 161.4,
+      "max_hr": 189.0
     },
     {
       "id": "19981462391",
@@ -834,7 +951,9 @@
       "distance_m": 2936.2,
       "moving_time_s": 1200,
       "elapsed_time_s": 1285,
-      "elevation_gain_m": 20.0
+      "elevation_gain_m": 20.0,
+      "avg_hr": 151.9,
+      "max_hr": 159.0
     },
     {
       "id": "19928254948",
@@ -843,7 +962,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1511,
       "elapsed_time_s": 1511,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 132.1,
+      "max_hr": 152.0
     },
     {
       "id": "19927974538",
@@ -852,7 +973,9 @@
       "distance_m": 4004.1,
       "moving_time_s": 1781,
       "elapsed_time_s": 1857,
-      "elevation_gain_m": 30.0
+      "elevation_gain_m": 30.0,
+      "avg_hr": 156.8,
+      "max_hr": 186.0
     },
     {
       "id": "19914038316",
@@ -861,7 +984,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2787,
       "elapsed_time_s": 2787,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 136.0,
+      "max_hr": 163.0
     },
     {
       "id": "19899355200",
@@ -870,7 +995,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2545,
       "elapsed_time_s": 2545,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 134.3,
+      "max_hr": 159.0
     },
     {
       "id": "19898892107",
@@ -879,7 +1006,9 @@
       "distance_m": 3007.2,
       "moving_time_s": 1382,
       "elapsed_time_s": 1385,
-      "elevation_gain_m": 13.0
+      "elevation_gain_m": 13.0,
+      "avg_hr": 148.6,
+      "max_hr": 170.0
     },
     {
       "id": "19870763937",
@@ -888,7 +1017,9 @@
       "distance_m": 0.0,
       "moving_time_s": 199,
       "elapsed_time_s": 199,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 148.4,
+      "max_hr": 158.0
     },
     {
       "id": "19828619400",
@@ -897,7 +1028,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2161,
       "elapsed_time_s": 2161,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": 124.8,
+      "max_hr": 147.0
     },
     {
       "id": "19814876141",
@@ -906,7 +1039,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2170,
       "elapsed_time_s": 2170,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "19799570829",
@@ -915,7 +1050,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1611,
       "elapsed_time_s": 1611,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "19027147254",
@@ -924,7 +1061,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2232,
       "elapsed_time_s": 2232,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18949230059",
@@ -933,7 +1072,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2559,
       "elapsed_time_s": 2559,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18856314865",
@@ -942,7 +1083,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2533,
       "elapsed_time_s": 2533,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18761334204",
@@ -951,7 +1094,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2170,
       "elapsed_time_s": 2170,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18746936315",
@@ -960,7 +1105,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1750,
       "elapsed_time_s": 1750,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18583105065",
@@ -969,7 +1116,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2464,
       "elapsed_time_s": 2464,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18509091848",
@@ -978,7 +1127,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2475,
       "elapsed_time_s": 2475,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18404601874",
@@ -987,7 +1138,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2649,
       "elapsed_time_s": 2649,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18323710221",
@@ -996,7 +1149,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2370,
       "elapsed_time_s": 2370,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18311357253",
@@ -1005,7 +1160,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2705,
       "elapsed_time_s": 2705,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18298050278",
@@ -1014,7 +1171,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2672,
       "elapsed_time_s": 2672,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18284561727",
@@ -1023,7 +1182,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3580,
       "elapsed_time_s": 3580,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18230995254",
@@ -1032,7 +1193,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3074,
       "elapsed_time_s": 3074,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18217748760",
@@ -1041,7 +1204,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2449,
       "elapsed_time_s": 2449,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18203467621",
@@ -1050,7 +1215,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2715,
       "elapsed_time_s": 2715,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18187346258",
@@ -1059,7 +1226,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4270,
       "elapsed_time_s": 4270,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18137138171",
@@ -1068,7 +1237,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2875,
       "elapsed_time_s": 2875,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18123624305",
@@ -1077,7 +1248,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1320,
       "elapsed_time_s": 1320,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18096123276",
@@ -1086,7 +1259,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2638,
       "elapsed_time_s": 2638,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18058115102",
@@ -1095,7 +1270,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1483,
       "elapsed_time_s": 1483,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18046020362",
@@ -1104,7 +1281,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2985,
       "elapsed_time_s": 2985,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18032934800",
@@ -1113,7 +1292,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2057,
       "elapsed_time_s": 2057,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "18019310978",
@@ -1122,7 +1303,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3693,
       "elapsed_time_s": 3693,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17954313736",
@@ -1131,7 +1314,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2804,
       "elapsed_time_s": 2804,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17943306926",
@@ -1140,7 +1325,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3707,
       "elapsed_time_s": 3707,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17930381162",
@@ -1149,7 +1336,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2604,
       "elapsed_time_s": 2604,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17917439698",
@@ -1158,7 +1347,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4949,
       "elapsed_time_s": 4949,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17880613179",
@@ -1167,7 +1358,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3325,
       "elapsed_time_s": 3325,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17869220441",
@@ -1176,7 +1369,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4150,
       "elapsed_time_s": 4150,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17857996390",
@@ -1185,7 +1380,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3175,
       "elapsed_time_s": 3175,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17846338714",
@@ -1194,7 +1391,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2917,
       "elapsed_time_s": 2917,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17832872538",
@@ -1203,7 +1402,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4191,
       "elapsed_time_s": 4191,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17771728958",
@@ -1212,7 +1413,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3312,
       "elapsed_time_s": 3312,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17747058228",
@@ -1221,7 +1424,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4345,
       "elapsed_time_s": 4345,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17701273085",
@@ -1230,7 +1435,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3610,
       "elapsed_time_s": 3610,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17690114025",
@@ -1239,7 +1446,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3046,
       "elapsed_time_s": 3046,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17677376118",
@@ -1248,7 +1457,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2428,
       "elapsed_time_s": 2428,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17664775613",
@@ -1257,7 +1468,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3150,
       "elapsed_time_s": 3150,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17625942844",
@@ -1266,7 +1479,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2860,
       "elapsed_time_s": 2860,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17618504299",
@@ -1275,7 +1490,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3641,
       "elapsed_time_s": 3641,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17606309344",
@@ -1284,7 +1501,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2409,
       "elapsed_time_s": 2409,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17593837738",
@@ -1293,7 +1512,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2147,
       "elapsed_time_s": 2147,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17580965415",
@@ -1302,7 +1523,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3195,
       "elapsed_time_s": 3195,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17546113710",
@@ -1311,7 +1534,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3438,
       "elapsed_time_s": 3438,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17535211074",
@@ -1320,7 +1545,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2197,
       "elapsed_time_s": 2197,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17523495020",
@@ -1329,7 +1556,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2355,
       "elapsed_time_s": 2355,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17511332594",
@@ -1338,7 +1567,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2985,
       "elapsed_time_s": 2985,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17454906697",
@@ -1347,7 +1578,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3005,
       "elapsed_time_s": 3005,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17443998929",
@@ -1356,7 +1589,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1883,
       "elapsed_time_s": 1883,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17433057154",
@@ -1365,7 +1600,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2627,
       "elapsed_time_s": 2627,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17421194704",
@@ -1374,7 +1611,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2932,
       "elapsed_time_s": 2932,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17387085223",
@@ -1383,7 +1622,9 @@
       "distance_m": 0.0,
       "moving_time_s": 818,
       "elapsed_time_s": 818,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17377921599",
@@ -1392,7 +1633,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2305,
       "elapsed_time_s": 2305,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17367201106",
@@ -1401,7 +1644,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1604,
       "elapsed_time_s": 1604,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17343168527",
@@ -1410,7 +1655,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2081,
       "elapsed_time_s": 2081,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17311491605",
@@ -1419,7 +1666,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2579,
       "elapsed_time_s": 2579,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17299792030",
@@ -1428,7 +1677,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2272,
       "elapsed_time_s": 2272,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17288680049",
@@ -1437,7 +1688,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1391,
       "elapsed_time_s": 1391,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17265011249",
@@ -1446,7 +1699,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1604,
       "elapsed_time_s": 1604,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17231421632",
@@ -1455,7 +1710,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3267,
       "elapsed_time_s": 3267,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17220961418",
@@ -1464,7 +1721,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2103,
       "elapsed_time_s": 2103,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17210452244",
@@ -1473,7 +1732,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3866,
       "elapsed_time_s": 3866,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17198688422",
@@ -1482,7 +1743,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2825,
       "elapsed_time_s": 2825,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17184240248",
@@ -1491,7 +1754,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3053,
       "elapsed_time_s": 3053,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17151484652",
@@ -1500,7 +1765,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2969,
       "elapsed_time_s": 2969,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17143443846",
@@ -1509,7 +1776,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2313,
       "elapsed_time_s": 2313,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17132135881",
@@ -1518,7 +1787,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2386,
       "elapsed_time_s": 2386,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17120726592",
@@ -1527,7 +1798,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1220,
       "elapsed_time_s": 1220,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17108594775",
@@ -1536,7 +1809,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2952,
       "elapsed_time_s": 2952,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17072812002",
@@ -1545,7 +1820,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2101,
       "elapsed_time_s": 2101,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17063075297",
@@ -1554,7 +1831,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3270,
       "elapsed_time_s": 3270,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17051927337",
@@ -1563,7 +1842,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2946,
       "elapsed_time_s": 2946,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17039743734",
@@ -1572,7 +1853,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3062,
       "elapsed_time_s": 3062,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17017059436",
@@ -1581,7 +1864,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2704,
       "elapsed_time_s": 2704,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "17005289528",
@@ -1590,7 +1875,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2305,
       "elapsed_time_s": 2305,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16983308790",
@@ -1599,7 +1886,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2192,
       "elapsed_time_s": 2192,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16973186315",
@@ -1608,7 +1897,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3023,
       "elapsed_time_s": 3023,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16961881458",
@@ -1617,7 +1908,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2727,
       "elapsed_time_s": 2727,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16949519483",
@@ -1626,7 +1919,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2503,
       "elapsed_time_s": 2503,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16718086000",
@@ -1635,7 +1930,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2262,
       "elapsed_time_s": 2262,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16708897631",
@@ -1644,7 +1941,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2367,
       "elapsed_time_s": 2367,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16698760850",
@@ -1653,7 +1952,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3115,
       "elapsed_time_s": 3115,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16689519972",
@@ -1662,7 +1963,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2108,
       "elapsed_time_s": 2108,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16634230594",
@@ -1671,7 +1974,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3686,
       "elapsed_time_s": 3686,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16545019300",
@@ -1680,7 +1985,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3717,
       "elapsed_time_s": 3717,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16536027890",
@@ -1689,7 +1996,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3275,
       "elapsed_time_s": 3275,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16510438364",
@@ -1698,7 +2007,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3159,
       "elapsed_time_s": 3159,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16494967339",
@@ -1707,7 +2018,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2014,
       "elapsed_time_s": 2014,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16489656855",
@@ -1716,7 +2029,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4881,
       "elapsed_time_s": 4881,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16476439357",
@@ -1725,7 +2040,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4493,
       "elapsed_time_s": 4493,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16457481079",
@@ -1734,7 +2051,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3796,
       "elapsed_time_s": 3796,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16442055372",
@@ -1743,7 +2062,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3770,
       "elapsed_time_s": 3770,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16430731332",
@@ -1752,7 +2073,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3038,
       "elapsed_time_s": 3038,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16420049279",
@@ -1761,7 +2084,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4151,
       "elapsed_time_s": 4151,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16385441827",
@@ -1770,7 +2095,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3537,
       "elapsed_time_s": 3537,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16379686709",
@@ -1779,7 +2106,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3938,
       "elapsed_time_s": 3938,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16363975756",
@@ -1788,7 +2117,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2549,
       "elapsed_time_s": 2549,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16358642567",
@@ -1797,7 +2128,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3025,
       "elapsed_time_s": 3025,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16244843567",
@@ -1806,7 +2139,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1719,
       "elapsed_time_s": 1719,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16235764093",
@@ -1815,7 +2150,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3691,
       "elapsed_time_s": 3691,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16226002505",
@@ -1824,7 +2161,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3350,
       "elapsed_time_s": 3350,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16215723593",
@@ -1833,7 +2172,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4753,
       "elapsed_time_s": 4753,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16142425841",
@@ -1842,7 +2183,9 @@
       "distance_m": 0.0,
       "moving_time_s": 4525,
       "elapsed_time_s": 4525,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16131108864",
@@ -1851,7 +2194,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2942,
       "elapsed_time_s": 2942,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16099350404",
@@ -1860,7 +2205,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3446,
       "elapsed_time_s": 3446,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16091064855",
@@ -1869,7 +2216,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2634,
       "elapsed_time_s": 2634,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16078852724",
@@ -1878,7 +2227,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2356,
       "elapsed_time_s": 2356,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16067628947",
@@ -1887,7 +2238,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3143,
       "elapsed_time_s": 3143,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16019975748",
@@ -1896,7 +2249,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2238,
       "elapsed_time_s": 2238,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16013747427",
@@ -1905,7 +2260,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3095,
       "elapsed_time_s": 3095,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "16002792331",
@@ -1914,7 +2271,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3388,
       "elapsed_time_s": 3388,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "15991224339",
@@ -1923,7 +2282,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2634,
       "elapsed_time_s": 2634,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "15979676059",
@@ -1932,7 +2293,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2443,
       "elapsed_time_s": 2443,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "15945878098",
@@ -1941,7 +2304,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1928,
       "elapsed_time_s": 1928,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "15936064661",
@@ -1950,7 +2315,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2767,
       "elapsed_time_s": 2767,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "15925735546",
@@ -1959,7 +2326,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1944,
       "elapsed_time_s": 1944,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "15914266383",
@@ -1968,7 +2337,9 @@
       "distance_m": 0.0,
       "moving_time_s": 3232,
       "elapsed_time_s": 3232,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "15892674960",
@@ -1977,7 +2348,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2782,
       "elapsed_time_s": 2782,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "15880551004",
@@ -1986,7 +2359,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2316,
       "elapsed_time_s": 2316,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14765722879",
@@ -1995,7 +2370,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1375,
       "elapsed_time_s": 1375,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14714968194",
@@ -2004,7 +2381,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2389,
       "elapsed_time_s": 2389,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14704593938",
@@ -2013,7 +2392,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2762,
       "elapsed_time_s": 2762,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14694100288",
@@ -2022,7 +2403,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2394,
       "elapsed_time_s": 2394,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14683145869",
@@ -2031,7 +2414,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2059,
       "elapsed_time_s": 2059,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14673366473",
@@ -2040,7 +2425,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2405,
       "elapsed_time_s": 2405,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14641193610",
@@ -2049,7 +2436,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2226,
       "elapsed_time_s": 2226,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14631415943",
@@ -2058,7 +2447,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1876,
       "elapsed_time_s": 1876,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14620447434",
@@ -2067,7 +2458,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1270,
       "elapsed_time_s": 1270,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14611088338",
@@ -2076,7 +2469,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1773,
       "elapsed_time_s": 1773,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14601774202",
@@ -2085,7 +2480,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2179,
       "elapsed_time_s": 2179,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14570177201",
@@ -2094,7 +2491,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2399,
       "elapsed_time_s": 2399,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14564722465",
@@ -2103,7 +2502,9 @@
       "distance_m": 0.0,
       "moving_time_s": 1900,
       "elapsed_time_s": 1900,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14539006378",
@@ -2112,7 +2513,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2133,
       "elapsed_time_s": 2133,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14528273296",
@@ -2121,7 +2524,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2384,
       "elapsed_time_s": 2384,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14497323250",
@@ -2130,7 +2535,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2397,
       "elapsed_time_s": 2397,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "14488930572",
@@ -2139,7 +2546,9 @@
       "distance_m": 0.0,
       "moving_time_s": 2719,
       "elapsed_time_s": 2719,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     },
     {
       "id": "11850322965",
@@ -2148,7 +2557,9 @@
       "distance_m": 2961.6,
       "moving_time_s": 2557,
       "elapsed_time_s": 2594,
-      "elevation_gain_m": 87.0
+      "elevation_gain_m": 87.0,
+      "avg_hr": 98.7,
+      "max_hr": 118.0
     },
     {
       "id": "11084899860",
@@ -2157,7 +2568,9 @@
       "distance_m": 1609.4,
       "moving_time_s": 660,
       "elapsed_time_s": 660,
-      "elevation_gain_m": 0
+      "elevation_gain_m": 0,
+      "avg_hr": null,
+      "max_hr": null
     }
   ]
 }
