@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:38:41+00:00",
+  "generated_at": "2026-11-11T16:18:19+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -658,6 +658,5249 @@
   ],
   "books": [
     {
+      "id": "20631100",
+      "title": "Cyberpunk 2077: No Coincidence",
+      "authors": [
+        "Dilara Ozden",
+        "Stefan Kiełbasiewicz",
+        "Rafał Kosik"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2024-07-03",
+      "updated_at": "2026-11-11T14:18:15.552163+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631185",
+      "title": "Hitch-22: A Memoir",
+      "authors": [
+        "Christopher Hitchens"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2018-03-21T00:00:00",
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T14:18:05.64828+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-03-21",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631031",
+      "title": "The Gods Themselves",
+      "authors": [
+        "Isaac Asimov",
+        "Charles Moll"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2018-07-25T00:00:00",
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T14:17:58.696064+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-07-25",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630990",
+      "title": "The Autobiography of Malcolm X",
+      "authors": [
+        "Malcolm X"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "Biographies aim to reveal the activities and/or the internal world of their subject. It's the internal world that's difficult to tackle. \n\nIf it's written by a biographer, they have no omniscient insight into the thoughts of their subject. If it's an autobiography, there's often too much self consciousness for the inner world to be laid truly bare. \n\nSomehow Malcom X does it. His inner world does seem to be laid bare in chronological parallel to the activities of his life. What's even more remarkable is that even though this book was mostly constructed near the end of his life, the language seems to evolve over the chapters as if it had been written in real time (even though it is written in past tense). \n\nAs far as autobiographies go, I think this is a gold standard.",
+      "reviewed_at": "2021-01-28T00:00:00",
+      "date_added": "2020-12-21",
+      "updated_at": "2026-11-11T14:17:22.731905+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-01-28",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631164",
+      "title": "The Autobiography of Martin Luther King, Jr.",
+      "authors": [
+        "Clayborne Carson",
+        "Martin Luther King Jr."
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2021-02-18T00:00:00",
+      "date_added": "2021-01-28",
+      "updated_at": "2026-11-11T14:17:12.464901+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-02-18",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631073",
+      "title": "The Prestige",
+      "authors": [
+        "Christopher Priest"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2021-03-19T00:00:00",
+      "date_added": "2018-09-10",
+      "updated_at": "2026-11-11T14:16:55.753206+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-03-19",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631252",
+      "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+      "authors": [
+        "John Carreyrou"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "The experience of reading this book is a frustrating hope that the truth to emerge amid a decade of lies and bullying carried out by Theranos executives. The book makes clear the way in which a drought of truth is soul crushing. With this story, it's predominately the employees of Theranos who get their souls crushed. No one suffered as much as the employees who tried to step forward and reveal ethical concerns about the activities of Theranos. The desire to see the truth burst forth is what makes this book a page-turner.  \n\nBeneath that compelling experience, there is a wealth of learning. Carreyrou precisely balances a passion for the facts, and an appreciation or the human lives impacted by those facts. For example, he goes into great detail about the bio mechanical processes of the Theranos blood testing device, but allows these facts to hit you in the gut as he also exposes the human experience of being mislead by the these blood testing devices. This appreciation for facts and humanity creates a dynamic, inspiring and informative reading experience.",
+      "reviewed_at": "2021-05-10T00:00:00",
+      "date_added": "2021-05-02",
+      "updated_at": "2026-11-11T14:16:34.537984+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-05-10",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631049",
+      "title": "Apollo 8 The Thrilling Story of the First Mission to the Moon",
+      "authors": [
+        "Jeffrey Kluger"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "Jeffrey Kluger's Apollo 8 is one of the most moving books I have ever read. Kruger accomplishes this with a strong grasp of the smallest and the largest details. I'll provide two examples. \n\nThe first is the way in which he repeatedly and intermittently describes what's at stake when the Apollo 8 craft must complete the return home maneuver from the dark side of the moon. He shares all the details multiple times long before the story even reaches that point. That way, when he outlines the small details of the moment, your brain is running through all the well established large details. What happens if the thruster fails; how many miles from the earth they are; for how long they will be without connection to capcom; where exactly each of the astronauts families are and so on. Suddenly your brain is swimming with sprawling images of the moon and earth and the command module topping it all off, while the narrative shares the few nominal details necessary to explain progress. \n\nThe second example is the emphasis on minor human touches. Kluger describes a haunting soundscape of a quiet mission control where one can only hear the soft, anxious inhalations of cigarettes, the pouring of burnt coffee, and the scraping of zippos as mission control anxiously fiddles while waiting for good news from the command module. These little details of sound go a long way in creating a compelling image of a true historical event. \n\nExploration is the essence of the human spirit, and the story of Apollo 8 might be the greatest story of exploration ever told. Kluger emanates respect for everyone involved, and he shows this respect with patient and thorough writing.",
+      "reviewed_at": "2021-06-03T00:00:00",
+      "date_added": "2021-06-01",
+      "updated_at": "2026-11-11T14:16:10.665261+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-06-03",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631085",
+      "title": "The Martian",
+      "authors": [
+        "Andy Weir"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "What stands out to me about the Martian is how cleanly it fits into a catalogue of non-fiction NASA books. I've been reading a lot about NASA lately. From Voyager, to the Apollo missions and even some on the Mars Rover missions. Rolling into reading the Martian almost felt too easy of a transition despite it being a switch to fiction. \n\nWhat I mean is, the Martian reads so much like non fiction. The story of the character's struggling to work with limited resources to solve fictional space-related issues reads exactly like books about Apollo 13, or the development of Curiosity. Even Mark Watney (the protagonist trapped on Mars) feels exactly like a standard NASA astronaut. Sure his personality is absurd and loud and might even seem too goofy, but read a book about the Gemini missions that involved astronaut Walley Schirra; I actually suspect Schirra's notoriously goofy behavior as an astronaut was part of the inspiration for Watney's character. Everything about The Martian not only feels like a love letter to NASA, but also a love letter to the countless historians who wrote books about NASA by mirroring their style. \n\nIt wouldn't surprise me if 100 years from now kids read The Martian and made the mistake of thinking it's a true story, unless there's some major technology change in our future that gives away the fiction of the story.",
+      "reviewed_at": "2021-07-02T00:00:00",
+      "date_added": "2021-06-24",
+      "updated_at": "2026-11-11T14:16:07.307003+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-07-02",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630997",
+      "title": "The Handmaid’s Tale",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "Atwood deftly ebbs and flows between the viscerally tangible and the incorporeal with each paragraph of the Handmaid's Tale. While I could go on and on about how beautifully this book is written, and how vulnerable the pages make you feel, I'd rather just focus on my key takeaways. \n\nAtwood is patient in how she explores exploitation, rape, authoritarianism and so on. The horrors of the antagonistic regime in a Handmaid's Tale is not ambiguous. However, Atwood isn't afraid to explore the nooks and crannies of a victim's confusion, shame and even indulgences. This creates a sympathetic reading experience wherein you're forced to expand your idea of what it means to be a victim, to be a perpetrator, and what one can do to stand between the two in defense of autonomy—no matter how confused, shameful or awkward that autonomy is. Autonomy is ground zero, and taking another's autonomy is the most abhorrent crime.",
+      "reviewed_at": "2021-07-31T00:00:00",
+      "date_added": "2019-07-12",
+      "updated_at": "2026-11-11T14:15:20.265526+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-07-31",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631062",
+      "title": "Love, Lucy",
+      "authors": [
+        "Lucille Ball"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "I was hoping to gather some unique insight into what went into the I Love Lucy show, and maybe that was a mistake. It should have been clear to me that this really was a memoir, a very personal memoir (it's no wonder Lucile never intended to publish this book). \n\nPeering into her personal life is interesting. Lucile is peculiar in all the magical and humorous ways her fans suspected. The wild personality was either genuine, or she ended up sincerely becoming what she pretended to be—which is no less authentic in my opinion. Due to her peculiar ways, it's hard to understand the extent to which Lucile was shaped by the world and the extent to which she relentlessly remained immutable, and instead changed the world around her. This too, is fun to think about while reading her personal tales. \n\nBut what I loved most were the paragraphs and chapters about Hollywood, the movie and radio, industry, the politics of the time and the era's unique cultural growing pains. I wish there had been more of that, all mediated through Lucile's unique gaze.\n\nIt's too bad she never sat down with a ghost writer to complete a longer, more intensely detailed tale of her life, which covered Hollywood's miraculous adolescent years.",
+      "reviewed_at": "2021-11-05T00:00:00",
+      "date_added": "2021-11-04",
+      "updated_at": "2026-11-11T14:14:59.228463+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-11-05",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631179",
+      "title": "The Stand",
+      "authors": [
+        "Stephen King"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-12-17",
+      "updated_at": "2026-11-11T14:14:47.511631+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-02-20",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631122",
+      "title": "The Long Way to a Small, Angry Planet",
+      "authors": [
+        "Becky Chambers"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2022-03-26T00:00:00",
+      "date_added": "2022-03-04",
+      "updated_at": "2026-11-11T14:14:38.967713+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-03-26",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631208",
+      "title": "Ahsoka",
+      "authors": [
+        "E. K. Johnston"
+      ],
+      "status_id": 3,
+      "rating": 1.0,
+      "review": "Ashoka is amazing in the Clone Wars because she lives in the tension between the Jedi's sincere effort to do right, and the inextricable flaws that tear them apart from the inside. Ashoka's path is a foil to that if Obi Wan's and Aniken's. \n\nIn this book Ashoka's dynamic personality is absent. Instead Ashoka is surrounded by kiddy, flat plots about innocent children who “mean their best”. It lacks tension, and there's no real style to make up for the vapidness of the plot. \n\nExtremely boring. I can't believe I finished the book.",
+      "reviewed_at": "2022-04-19T00:00:00",
+      "date_added": "2022-04-19",
+      "updated_at": "2026-11-11T14:14:28.054568+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-04-19",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631084",
+      "title": "Yeager: An Autobiography",
+      "authors": [
+        "Chuck Yeager"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "This is by far the most exciting non-fiction book I've ever read. Yeager's whole life is an absurdity, so much so that even if 50% of the book is hyperbolic lies, the other truthful 50% would remain one of the most fascinating lives ever lived. That being said, I don't think 50% of the book is made up. \n\nHow it's written: \nThe events of the biography are often written as if they are happening in real-time, which adds to the excitement. Just when you find yourself thinking “there's no way that's real”, it follows up with another section written by Yeager's wife or a friend corroborating the experience from their own perspective. If you still find yourself doubtful, most of the stories can be validated with internet searches. For example, the audio logs of Yaeger's wild X1A flight where he hit 2.4 Mach can be found on youtube. The content is just as intense in the real audio logs as they are in the biographies retelling of events. \n\nWhat I Want to Remember: \nThis book leaves me with a palpable sense of incompleteness within myself, one familiar to me. It was the same feeling I had whenever I finished watching an adventure movie or reading an adventure book when I was young. I'm only 28 and I'm happy to say I've lived a life i'd call exciting, but Yaeger sets the bar unbelievably high. I will take on the challenge, renewed. Yeager is inspiring in its insistence that you chase what you enjoy. The chase itself is not always enjoyable (in fact, it often isn't enjoyable at all), but it's the best way to live true to yourself.",
+      "reviewed_at": "2022-05-08T00:00:00",
+      "date_added": "2022-04-22",
+      "updated_at": "2026-11-11T14:14:23.115869+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-05-08",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630953",
+      "title": "Project Hail Mary",
+      "authors": [
+        "Andy Weir"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2022-05-31T00:00:00",
+      "date_added": "2021-07-25",
+      "updated_at": "2026-11-11T14:14:16.702696+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-05-31",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631104",
+      "title": "The Testaments",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2022-10-10T00:00:00",
+      "date_added": "2022-07-27",
+      "updated_at": "2026-11-11T14:13:54.483793+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-10-10",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630943",
+      "title": "Skunk Works: A Personal Memoir of My Years at Lockheed",
+      "authors": [
+        "Ben R. Rich",
+        "Leo Janos"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2022-10-10T00:00:00",
+      "date_added": "2022-08-10",
+      "updated_at": "2026-11-11T14:13:50.826542+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-10-10",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630978",
+      "title": "It",
+      "authors": [
+        "Stephen King"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "“The real monster is humanity” is a common trope in horror stories. I've heard Stephen King's writing described this way, and it's true that he does write to the horror of humanity. However I think unlike most cynical authors, King uses this trope as a basis for optimism. \n\nIn his books, there are many scenes that describe horrific acts of dismemberment, abuse, sexual assault, and every other form of violence. Some of this violence is carried out by mystical monsters, some of it is carried out by humans. The monster scenes somehow aren't scary, but the human ones are horrific. I suspect I'm with the majority of people in having this experience. \n\nDespite the toll of violence being the same, the human violence scenes are so much worse because we expect so much more of humanity. For King, the violence and depravity of some people is not some horrific cynical truth, but rather an abominable perversion of what makes humans tick. \n\nMy one grip with this book is the way King fixated on the imagination of children, and if you read between the lines I think even King knows it's not actually childhood that's special. It's merely imagination in its own right. My primary example is Bill's relationship with Silver. As an adult, he tries to channel his childhood mentality by aggressively riding silver with no sense of caution. But when he was a kid, Bill's relationship with Silver is unique because the bike is too big for him! What young Bill is doing is trying to deny his own childhood, he's trying to be bigger than he actually is. So is it really childhood we must return to? Or just an optimistic imagination for ourselves and our futures???",
+      "reviewed_at": "2023-01-15T00:00:00",
+      "date_added": "2022-10-10",
+      "updated_at": "2026-11-11T14:13:43.153072+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-01-15",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631154",
+      "title": "Howl's Moving Castle",
+      "authors": [
+        "Diana Wynne Jones"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2023-02-06T00:00:00",
+      "date_added": "2023-01-25",
+      "updated_at": "2026-11-11T14:13:33.861997+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-02-06",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631183",
+      "title": "Children of Time",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-01-21",
+      "updated_at": "2026-11-11T14:13:29.531679+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-02-13",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631305",
+      "title": "American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road",
+      "authors": [
+        "Nick Bilton"
+      ],
+      "status_id": 3,
+      "rating": 1.0,
+      "review": "American Kingpin lacks any real critical self awareness, and the book is more narrative than investigation (regardless of the very real investigating that went into writing this book). \n\nAny good nonfiction that covers a complex historic topic makes some effort to differentiate between speculation and known, provable fact. American Kingpin lacks this entirely. The book is full of narrative, almost prose-like speculation that fills in the enormous gaps in the facts. These sections are written exactly like the facts, and Bilton flows between speculation and fact with no statement of differentiation. He clearly wanted to write a story first, and an investigation second. \n\nThe other way in which this book lacks self-awareness is that it doesn't take any of the criminal's motivations seriously–not even for a moment. The American State is presented as a de-facto good guy, and their failures in the investigations are aberrations while Ross Ulbricht's failures are condemning. I'm not advocating for any sort of libertarian mindset, just a sincere treatment of the content of the investigation. \n\nA final example of the narrow-mindedness of this book is its treatment of Ross' sentencing. If there is anything whatsoever about this case that is clearly up for discussion, it is Ross' sentencing. He is serving two lifetime sentences with no opportunity for parole. Compare this to the sentencing of large drug dealers, or individuals who have run similar sites (e.g. Silk Road 2.0). The largest sentencing is 20 years, the average appears to be a round 8 years. For Bilton, this isn't up for evaluating... it's simply a fact. What the state says is de facto good and true. Nothing is up for discussion in American Kingpin. Nothing at all. \n\nRoss' mother called this book a “media lynching”, and you can see her take in this YouTube video: https://www.youtube.com/watch?v=8C38S7qM86E \n\nDespite the fact that she is just advocating for her son's freedom, the criticism has some truth to it. One of the defining aspects of a lynching is the absence of any trial or investigation. For Bilton, the trial and investigation was whatever the American State did–he has no responsibility to ask questions himself or even encourage the readers to. \n\n—\n\nMy own personal opinion is that Ross is clearly guilty, and that he deserves to be punished. His libertarian opinions are misguided and the idea that the Silk Road could be “revolutionary” at the level of government is completely absurd. However, none of these conclusions should be taken as given, and the State should not be taken as legitimate without question. I wish Bilton had been more critical, and self aware in his investigation.",
+      "reviewed_at": "2023-05-09T00:00:00",
+      "date_added": "2023-05-03",
+      "updated_at": "2026-11-11T14:13:16.733873+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-05-09",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631267",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "authors": [
+        "Douglas Adams"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-05-17",
+      "updated_at": "2026-11-11T14:12:34.407883+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-05-14",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631039",
+      "title": "The Restaurant at the End of the Universe",
+      "authors": [
+        "Douglas Adams"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2023-05-30T00:00:00",
+      "date_added": "2023-05-21",
+      "updated_at": "2026-11-11T14:12:23.001901+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-05-30",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631016",
+      "title": "Life, the Universe and Everything",
+      "authors": [
+        "Douglas Adams"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2023-07-03T00:00:00",
+      "date_added": "2023-05-30",
+      "updated_at": "2026-11-11T14:12:17.775448+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-07-03",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631200",
+      "title": "The Naked Sun",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-08-16",
+      "updated_at": "2026-11-11T14:12:10.475592+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-08-15",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631055",
+      "title": "Starship Troopers",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2023-08-28T00:00:00",
+      "date_added": "2023-08-16",
+      "updated_at": "2026-11-11T14:12:04.794453+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-08-28",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630974",
+      "title": "The Robots of Dawn",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-09-04",
+      "updated_at": "2026-11-11T14:11:57.762653+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-09-09",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631086",
+      "title": "The Amber Spyglass",
+      "authors": [
+        "Philip Pullman"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2023-11-12T00:00:00",
+      "date_added": "2023-10-22",
+      "updated_at": "2026-11-11T14:11:42.980001+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-11-12",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631213",
+      "title": "Machine",
+      "authors": [
+        "Elizabeth Bear"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-11-15",
+      "updated_at": "2026-11-11T14:11:28.59958+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-02-17",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631105",
+      "title": "The Martian Chronicles",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2024-09-13T00:00:00",
+      "date_added": "2024-08-06",
+      "updated_at": "2026-11-11T14:11:18.752124+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-09-13",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631259",
+      "title": "The House of God",
+      "authors": [
+        "Samuel Shem"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2024-12-14T00:00:00",
+      "date_added": "2024-11-18",
+      "updated_at": "2026-11-11T14:11:06.168901+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-12-14",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631258",
+      "title": "The Door into Summer",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2025-09-28T00:00:00",
+      "date_added": "2025-08-30",
+      "updated_at": "2026-11-11T14:10:46.149333+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2025-09-28",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631283",
+      "title": "The Andromeda Strain",
+      "authors": [
+        "Michael Crichton"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2025-10-15",
+      "updated_at": "2026-11-11T14:10:30.465476+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2025-12-10",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631133",
+      "title": "The Night Circus",
+      "authors": [
+        "Erin Morgenstern"
+      ],
+      "status_id": 2,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2026-09-27",
+      "updated_at": "2026-11-11T14:09:03.785098+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": null,
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631103",
+      "title": "Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection",
+      "authors": [
+        "John Green"
+      ],
+      "status_id": 4,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2026-01-25",
+      "updated_at": "2026-11-11T13:58:07.385598+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": null,
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631337",
+      "title": "How to Measure Anything: Finding the Value of Intangibles in Business",
+      "authors": [
+        "Douglas W. Hubbard"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "The fundamental idea of this book is that one does not need immensely nuanced statistical skills to play a little “fast and loose” in the business world. There's a rift between business decisions and academic statistics and this rift exists because academic statisticians are just too thorough to be efficient enough for major executive business decisions and executives have no real understanding of statistics. I agree with this idea. Michael Hubbard wants to show you that you can take a simple toolkit and apply it to big problems to get a “good enough” answer. It's like applying LEAN startup thinking to statistics. Iterate, iterate, and iterate. \n\nThe problem is, you cannot properly play fast and loose unless you have a fundamental understanding of the mechanics of whatever it is you're playing fast and loose with. Hubbard could have overcome this by adding to the book some basic chapters on fundamental statistics, but instead he has these horrific chapters in the end of the book that are part memoir, part case studies and part math textbook. Random terms are thrown in without context and nothing is notated in a reference-able way. Rather than turning to this book to supplement a weak understanding of stats, come to this book AFTER you've gotten a solid education in statistics and learn from Hubbard's immense knowledge and experience on how to apply your new-found skill in an iterative and LEAN way.",
+      "reviewed_at": "2020-06-23T00:00:00",
+      "date_added": "2020-06-14",
+      "updated_at": "2026-11-11T13:53:48.70812+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-06-23",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631336",
+      "title": "Catch-22",
+      "authors": [
+        "Joseph Heller"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:53:48.150073+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631335",
+      "title": "Crime and Punishment",
+      "authors": [
+        "Fyodor Dostoevsky",
+        "Leonard Stanton",
+        "James D. Hardy Jr.",
+        "Sidney Monas",
+        "Robin Feuer Miller"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "What I want to remember about this book: \n\nDostoevsky believes that suffering and punishment are redemptive. He also is suspicious of over-intellectualization, and seems to prefer a simple approach to participating in and thinking on society. He even makes this claim somewhat specifically in the epilogue; he speaks directly to the reader. \n\nRaskolinikov's error is his intelectual “theory” about the world and crime—it makes him anti-social and a poor citizen. He is surrounded by people doing their best, and this makes Raskolkokov suspicious of them. This alienation he feels after the crime is also what leads him to the crime in the first place (it's not merely a result of the act).",
+      "reviewed_at": "2023-03-20T00:00:00",
+      "date_added": "2023-03-14",
+      "updated_at": "2026-11-11T13:53:47.792383+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-03-20",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631334",
+      "title": "Jupiter's Travels",
+      "authors": [
+        "Ted Simon"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "The book is indulgent in the same way that Ted Simon's trip around the world was indulgent. The whole story revolves around his inner skull, and everything seems to matter not for its own sake, but for how it plays into his fantasies about the world and himself. \n\nThere are many moments in his story where I can indulge alongside him; I breath the free air and ride along with him. There are also many scenes that I can't share , and those scenes are boring. It's like watching someone cut into their favorite dish, a dish you don't enjoy at all. You just sit and watch them satisfy their desires, and you cannot empathize with their satisfaction.\n\nBest part of the book: beautifully written optimism about adventure and suffering \n\nWorst part of the book: I gained no real practical insight into surviving long motorcycle trips.",
+      "reviewed_at": "2022-07-21T00:00:00",
+      "date_added": "2022-07-12",
+      "updated_at": "2026-11-11T13:53:47.610662+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-07-21",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631333",
+      "title": "Idea for a Universal History with a Cosmopolitan Purpose",
+      "authors": [
+        "Immanuel Kant"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-10-07",
+      "updated_at": "2026-11-11T13:53:46.118036+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631332",
+      "title": "Sphere",
+      "authors": [
+        "Michael Crichton"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:45.696756+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631331",
+      "title": "Chasing New Horizons: Inside the Epic First Mission to Pluto",
+      "authors": [
+        "Alan Stern",
+        "David Grinspoon"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-02-10",
+      "updated_at": "2026-11-11T13:53:45.308978+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631330",
+      "title": "The Passion According to G.H.",
+      "authors": [
+        "Caetano Veloso",
+        "Clarice Lispector",
+        "Idra Novey",
+        "Benjamin Moser"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2022-12-30",
+      "updated_at": "2026-11-11T13:53:44.80017+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631329",
+      "title": "Heart of Darkness",
+      "authors": [
+        "Robert Hampson",
+        "Joseph Conrad"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-04-28",
+      "updated_at": "2026-11-11T13:53:44.420603+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631325",
+      "title": "The Left Hand of Darkness",
+      "authors": [
+        "Ursula K. Le Guin"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2024-07-09T00:00:00",
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:53:40.95956+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-07-09",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631326",
+      "title": "Neuromancer",
+      "authors": [
+        "William Gibson",
+        "Giampaolo Cossato",
+        "Sandro Sandrelli",
+        "Franco Forte"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:40.911383+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631323",
+      "title": "Mars Rover Curiosity: An Inside Account from Curiosity's Chief Engineer",
+      "authors": [
+        "Rob Manning",
+        "William   L.   Simon"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2020-10-11T00:00:00",
+      "date_added": "2020-09-30",
+      "updated_at": "2026-11-11T13:53:39.900789+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-10-11",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631321",
+      "title": "The Two Towers",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2025-04-11T00:00:00",
+      "date_added": "2024-11-18",
+      "updated_at": "2026-11-11T13:53:37.65812+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2025-04-11",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631322",
+      "title": "The Mustache",
+      "authors": [
+        "Emmanuel Carrère"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2024-04-09",
+      "updated_at": "2026-11-11T13:53:37.539343+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631320",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "authors": [
+        "J.K. Rowling",
+        "Mary GrandPré"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-07-16",
+      "updated_at": "2026-11-11T13:53:36.791204+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631318",
+      "title": "My Man Jeeves",
+      "authors": [
+        "P.G. Wodehouse",
+        "Simon Prebble"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2023-01-23T00:00:00",
+      "date_added": "2023-01-21",
+      "updated_at": "2026-11-11T13:53:36.777367+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-01-23",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631319",
+      "title": "Watchmen",
+      "authors": [
+        "Alan Moore"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:36.733862+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631315",
+      "title": "The Question of God",
+      "authors": [
+        "Armand M. Nicholi Jr."
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:35.67627+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631314",
+      "title": "All-Star Superman, Vol. 1",
+      "authors": [
+        "Grant Morrison",
+        "Frank Quitely"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-05-05",
+      "updated_at": "2026-11-11T13:53:34.958447+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631313",
+      "title": "The Elephant Vanishes",
+      "authors": [
+        "Haruki Murakami"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2020-10-12T00:00:00",
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:34.946967+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-10-12",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631312",
+      "title": "Complete Poems",
+      "authors": [
+        "Ernest Hemingway",
+        "Nicholas Gerogiannis"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:34.738149+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631310",
+      "title": "The Three-Body Problem",
+      "authors": [
+        "Cixin Liu",
+        "Ken Liu"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2018-06-29T00:00:00",
+      "date_added": "2017-12-12",
+      "updated_at": "2026-11-11T13:53:34.234073+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-06-29",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631308",
+      "title": "Man's Search for Meaning",
+      "authors": [
+        "Viktor E. Frankl",
+        "Gordon W. Allport"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-12-16",
+      "updated_at": "2026-11-11T13:53:34.103809+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-12-18",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631309",
+      "title": "A Cyborg Manifesto",
+      "authors": [
+        "Donna J. Haraway"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-09-20",
+      "updated_at": "2026-11-11T13:53:34.035035+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631306",
+      "title": "Nothing but the Rain",
+      "authors": [
+        "Naomi Salman"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2024-07-11T00:00:00",
+      "date_added": "2024-04-09",
+      "updated_at": "2026-11-11T13:53:33.178757+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-07-11",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631304",
+      "title": "Native Country of the Heart: A Memoir",
+      "authors": [
+        "Cherríe Moraga"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-06-03",
+      "updated_at": "2026-11-11T13:53:32.2924+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631302",
+      "title": "Exhalation",
+      "authors": [
+        "Ted Chiang"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2021-04-25T00:00:00",
+      "date_added": "2021-04-10",
+      "updated_at": "2026-11-11T13:53:32.194278+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-04-25",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631303",
+      "title": "Roadside Picnic",
+      "authors": [
+        "Ursula K. Le Guin",
+        "Olena Bormashenko",
+        "Arkady Strugatsky",
+        "Boris Strugatsky"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-09-24",
+      "updated_at": "2026-11-11T13:53:32.166296+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631301",
+      "title": "Mrs Dalloway",
+      "authors": [
+        "Stella McNichol",
+        "Elaine Showalter",
+        "Virginia Woolf"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:53:31.568261+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631298",
+      "title": "Travels with Charley",
+      "authors": [
+        "John Steinbeck"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "Steinbeck starts off wanting to catalogue some fixed image in America, but finds instead an labyrinthian and tumultuous image of the country. It's one of those magic eye pictures that you get a headache just from trying to make sense of, and in the end you never even get to see the image clearly. \n\nOne thing that's great about this book is that it appears to be written somewhat like a journal, in that each chapter seems to be mostly written around when the actual events occurred. As a result, the book is very front heavy, where Steinbeck is full of wanderlust about his adventure at the start but exhausted and adroit by the end. The first third of the book is devoted to the first 10% of his travels. Then as the story progresses, he loses energy and his writing begins to take on a journalistic prose—he's now writing out of obligation and not out of joy. This reminds me of my own travel experiences, top heavy with meaning and intent, and then mentally malnourished as time goes on. Tavel is exhausting; you eventually have no time to reflect, or enjoy or think. All you can do is move and keep moving. \n\nStill, Steinbeck's strength as a writer presents itself as an ability to fight through that weariness and eek out a marvelous book despite its own self-aware confusion. An  in-comprehensive list of topics he explores are: revisiting home and finding it's no longer home; highways vs backroads; how to plan for a trip; race relations in America; when trips truly begin and end; tackling unexpected challenges during travel; making meaning out of interactions with strangers; the fright of being alone in the middle of nowhere, and the ethics of hunting. Each of these topics and more are written about with humor and grace and patient exploration. Each topic is poked and prodded with sincerity, but none of them overstay their welcome. This is after all, a book about transience. There isn't time to get sucked into any one topic. After a short period of time you pack up and move onto the next thing.",
+      "reviewed_at": "2022-11-29T00:00:00",
+      "date_added": "2022-10-10",
+      "updated_at": "2026-11-11T13:53:31.397752+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-11-29",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631299",
+      "title": "Jacques Pépin's Complete Techniques",
+      "authors": [
+        "Jacques Pépin"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:31.385947+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631297",
+      "title": "The New Confessions of an Economic Hit Man",
+      "authors": [
+        "John Perkins"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-02-19",
+      "updated_at": "2026-11-11T13:53:30.312895+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631296",
+      "title": "Orphans of the Sky",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "A fun, pulpy book. This feels like Heinlein in development, or maybe just for YA readers. It's got a strange lost-boys vibe, and it's fixated on celebrating the capacity to accomplish physical and intellectual feats. Also, it feels like the kids' version of The Moon is a Harsh Mistress. \n\nAll in all, far from Heinlein's greatest feats as a writer, but it still holds his signature high standard of scientific and social creativity.",
+      "reviewed_at": "2025-06-23T00:00:00",
+      "date_added": "2025-06-23",
+      "updated_at": "2026-11-11T13:53:29.620933+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2025-06-23",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631295",
+      "title": "John Donne: Selections from Divine Poems, Sermons, Devotions and Prayers",
+      "authors": [
+        "John E. Booty",
+        "P.G. Stanwood",
+        "John Donne"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:29.438784+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631294",
+      "title": "An Answer to the Question: What Is Enlightenment?",
+      "authors": [
+        "Immanuel Kant"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-10-07",
+      "updated_at": "2026-11-11T13:53:29.35949+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631293",
+      "title": "Powers of Horror: An Essay on Abjection",
+      "authors": [
+        "Julia Kristeva",
+        "Leon S. Roudiez"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-06-04",
+      "updated_at": "2026-11-11T13:53:28.551805+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631292",
+      "title": "The Motorcycle Diaries: A Journey Around South America",
+      "authors": [
+        "Ernesto Che Guevara",
+        "Ann Wright",
+        "Ernesto Guevara Lynch"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2020-09-11T00:00:00",
+      "date_added": "2020-09-07",
+      "updated_at": "2026-11-11T13:53:28.535096+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-09-11",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631290",
+      "title": "The Sun Also Rises",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:27.727185+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631289",
+      "title": "The City of Ember",
+      "authors": [
+        "Jeanne DuPrau"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:27.642749+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631288",
+      "title": "Infinite Jest",
+      "authors": [
+        "David Foster Wallace"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2020-09-03T00:00:00",
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:27.448781+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-09-03",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631287",
+      "title": "The Kristeva Reader",
+      "authors": [
+        "Toril Moi",
+        "Julia Kristeva"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-06-04",
+      "updated_at": "2026-11-11T13:53:26.921722+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631286",
+      "title": "Leaving Las Vegas",
+      "authors": [
+        "John  O'Brien"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-09-07",
+      "updated_at": "2026-11-11T13:53:26.846589+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631284",
+      "title": "Confessions of a Mask",
+      "authors": [
+        "Yukio Mishima",
+        "Meredith Weatherby"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2020-11-08T00:00:00",
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:26.096242+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-11-08",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631285",
+      "title": "Savage War of Peace",
+      "authors": [
+        "Alistair Horne"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-10-05",
+      "updated_at": "2026-11-11T13:53:26.077983+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631281",
+      "title": "Kitchen Confidential: Adventures in the Culinary Underbelly",
+      "authors": [
+        "Anthony Bourdain"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-07-12",
+      "updated_at": "2026-11-11T13:53:25.170072+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-10-22",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631282",
+      "title": "The Haunting of Hill House",
+      "authors": [
+        "Shirley Jackson",
+        "Laura Miller"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-08-28",
+      "updated_at": "2026-11-11T13:53:25.164388+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631280",
+      "title": "The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger",
+      "authors": [
+        "Marc Levinson"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-08-23",
+      "updated_at": "2026-11-11T13:53:24.646845+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631279",
+      "title": "Things Fall Apart",
+      "authors": [
+        "Chinua Achebe",
+        "Biyi Bandele"
+      ],
+      "status_id": 3,
+      "rating": 2.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:24.276892+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631278",
+      "title": "Why Orwell Matters",
+      "authors": [
+        "Christopher Hitchens"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-08",
+      "updated_at": "2026-11-11T13:53:24.213024+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631277",
+      "title": "The Captive Mind",
+      "authors": [
+        "Czesław Miłosz",
+        "Jane Zielonko"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:53:23.880785+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631275",
+      "title": "Mexico: From the Olmecs to the Aztecs",
+      "authors": [
+        "Michael D. Coe",
+        "Rex Koontz"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2022-09-05",
+      "updated_at": "2026-11-11T13:53:22.952334+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631274",
+      "title": "Paradise Lost",
+      "authors": [
+        "John      Leonard",
+        "John Milton"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:22.759593+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631273",
+      "title": "The Last Wish",
+      "authors": [
+        "Andrzej Sapkowski",
+        "Danusia Stok"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:21.841968+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631272",
+      "title": "Star Surgeon",
+      "authors": [
+        "Alan E. Nourse"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "Star Surgeon is a light, young adult sci-fi novel that imagines a future for Earth in which humanity's primary occupation is as physicians for species across the galaxy. The book also contains themes of tolerance for others and independence in hard work. The morals and primary plots aren't very engaging and might only be interesting to the youngest audiences. \n\nHowever, the sci-fi elements are imaginative. I want to write down a few so that I don't forget them. Ignore what comes next if you don't want spoilers. \n1. In this world, the whole galaxy has an intergalactic administration of alien species and planets. Earth is a “probationary” member as it's not yet clear if we belong in the wider group. What elevates us to this probationary point is our advanced medical knowledge. As a result, the whole planet becomes essentially a hospital for all the planets and species in the galaxy. \n\n2. Because of point 1, the doctors are more like veterinarians than present-day doctors. They must adapt their knowledge to diverse anatomies and physiologies. The book states in the beginning that Earth doctors can do this because they treat “chemistry” as the fundamental, universalizing principle of all medicine. In other words, anatomy and physiology may be different between species, but chemistry never changes. \n\n3. This is my favorite point in the book. At the climactic medical mystery, a group of intelligent monkeys are hit with a plague that renders them “dumb.” As the doctors try treating them with antibodies, the monkeys get worse. The brilliant revelation is that the monkeys themselves are not the intelligent species, but rather a symbiotic virus that makes them intelligent by infecting them. It's the virus that must be saved, not the monkeys. This is super brilliant and playful.",
+      "reviewed_at": "2024-12-17T00:00:00",
+      "date_added": "2024-09-28",
+      "updated_at": "2026-11-11T13:53:21.659691+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-12-17",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631271",
+      "title": "A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments",
+      "authors": [
+        "David Foster Wallace"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:21.235033+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631270",
+      "title": "In the Hot Zone",
+      "authors": [
+        "Kevin Sites"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:21.011333+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631269",
+      "title": "Harry Potter and the Goblet of Fire",
+      "authors": [
+        "Mary GrandPré",
+        "J.K. Rowling"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-07-16",
+      "updated_at": "2026-11-11T13:53:20.840031+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631268",
+      "title": "Cat's Cradle",
+      "authors": [
+        "Kurt Vonnegut"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-05-14",
+      "updated_at": "2026-11-11T13:53:20.086704+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-05-16",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631266",
+      "title": "The Diary of a Young Girl",
+      "authors": [
+        "Otto H. Frank",
+        "Mirjam Pressler",
+        "Susan Massotty",
+        "Anne Frank"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-04-06",
+      "updated_at": "2026-11-11T13:53:19.25634+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631265",
+      "title": "The Diamond Age: Or, A Young Lady's Illustrated Primer",
+      "authors": [
+        "Neal Stephenson"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "The Diamond Age is a book that is written in several different styles about several different ideas. It feels long, expansive, meandering and thoughtful. This creates an exhausting read due to sections that could have been easily cut from the overall product. However if you accept the book as an interesting walk through an enormous garden with no distinct theme, you might find yourself enjoying the book for the experience in and of itself. \n\nThemes in the book I noticed:\n- What is subversion, and how do you learn to be subversive \n- Intelligence vs education \n- Working through trauma \n- Trauma is an invaluable–yet tragic–source of education \n- Society in a world where countries are no longer necessary (social ties can be freely formed and broken at will)\n",
+      "reviewed_at": "2021-07-19T00:00:00",
+      "date_added": "2021-07-05",
+      "updated_at": "2026-11-11T13:53:19.152333+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-07-19",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631264",
+      "title": "Xi Jinping: The Governance of China Volume 1",
+      "authors": [
+        "Xi Jinping"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-03-21",
+      "updated_at": "2026-11-11T13:53:18.605467+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-04-28",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631263",
+      "title": "Pale Blue Dot: A Vision of the Human Future in Space",
+      "authors": [
+        "Carl Sagan",
+        "Ann Druyan"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2022-02-18",
+      "updated_at": "2026-11-11T13:53:18.399865+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631150",
+      "title": "Jurassic Park",
+      "authors": [
+        "Michael Crichton"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:17.638529+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631260",
+      "title": "Mapping Ideology",
+      "authors": [
+        "Slavoj Žižek"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-10-10",
+      "updated_at": "2026-11-11T13:53:16.998978+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631257",
+      "title": "Wall and Piece",
+      "authors": [
+        "Banksy",
+        "Robin Bansky"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:16.062851+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631256",
+      "title": "The Satanic Verses",
+      "authors": [
+        "Salman Rushdie"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2019-10-27T00:00:00",
+      "date_added": "2018-07-07",
+      "updated_at": "2026-11-11T13:53:15.932865+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2019-10-27",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631255",
+      "title": "The Coming Storm",
+      "authors": [
+        "Michael Lewis"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2018-11-16T00:00:00",
+      "date_added": "2018-11-14",
+      "updated_at": "2026-11-11T13:53:15.284593+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-11-16",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631254",
+      "title": "The Brothers Karamazov",
+      "authors": [
+        "Fyodor Dostoevsky",
+        "Richard Pevear",
+        "Larissa Volokhonsky"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2024-12-17",
+      "updated_at": "2026-11-11T13:53:15.144604+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631253",
+      "title": "Reform or Revolution",
+      "authors": [
+        "Rosa Luxemburg",
+        "Mary-Alice Waters"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-02-06",
+      "updated_at": "2026-11-11T13:53:14.145904+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-02-06",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631251",
+      "title": "Left Hooks, Right Crosses: A Decade of Political Writing",
+      "authors": [
+        "Christopher Hitchens",
+        "Christopher Caldwell"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-08",
+      "updated_at": "2026-11-11T13:53:13.849675+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631250",
+      "title": "A History of Economic Thought: The LSE Lectures",
+      "authors": [
+        "Lionel Robbins",
+        "Steven G. Medema",
+        "Warren J. Samuels",
+        "William J. Baumol"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-08-05",
+      "updated_at": "2026-11-11T13:53:13.105891+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631249",
+      "title": "Blood of Elves",
+      "authors": [
+        "Andrzej Sapkowski",
+        "Danusia Stok"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-04-06",
+      "updated_at": "2026-11-11T13:53:13.086403+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631248",
+      "title": "Metro: A Story of Cairo",
+      "authors": [
+        "Magdy El Shafee"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:12.98047+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631247",
+      "title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+      "authors": [
+        "Ben Horowitz"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "In my review of Running Lean by Ash Maurya I wrote “It's written in the very style it preaches. The book itself is lean.” As a founder, if Running Lean is the playbook you reference with a scratchpad during the day, The Hard Thing About Hard Things (THTAHT) is what you reads before bed. THTAHT is the meat on the bones of Running Lean. Running Lean is about the company, THTAHT is about the executive. \n\nYou know you're reading the insight of a well experienced person when almost every chapter feels like a fresh perspective on something you thought you already knew. “Huh... never thought about it that way” will be your recurring thought chapter after chapter. You instantly realize that Ben Horowitz has thought about these things way more than you ever will. \n\nOne other praise I'd like to give this book is that it grows with you. Except, I can't make that praise because my startup has not yet grown. I'll have to report back on if this is true or not. Though, from what I've read though, it appears that regularly referring to THTAHT as your company goes from no employees to 100 employees actually works well. That's a remarkable feat for one book if true.",
+      "reviewed_at": "2021-06-03T00:00:00",
+      "date_added": "2021-03-31",
+      "updated_at": "2026-11-11T13:53:12.696645+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-06-03",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631246",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "authors": [
+        "J.K. Rowling",
+        "Mary GrandPré"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-07-16",
+      "updated_at": "2026-11-11T13:53:12.304199+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631245",
+      "title": "The Egg and Other Stories",
+      "authors": [
+        "Christy Romano",
+        "R.C. Bray",
+        "Jonathan Davis",
+        "Andy Weir"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2022-05-22",
+      "updated_at": "2026-11-11T13:53:12.287061+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631244",
+      "title": "The Value of Everything: Making and Taking in the Global Economy",
+      "authors": [
+        "Mariana Mazzucato"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-02-13",
+      "updated_at": "2026-11-11T13:53:12.195884+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631243",
+      "title": "Expanded Universe",
+      "authors": [
+        "Stephen E. Fabian",
+        "Robert A. Heinlein"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-05-11",
+      "updated_at": "2026-11-11T13:53:11.783577+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631241",
+      "title": "The Trial of Henry Kissinger",
+      "authors": [
+        "Christopher Hitchens"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-08",
+      "updated_at": "2026-11-11T13:53:11.342499+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631240",
+      "title": "The Platypus Review Reader, 2007-2014",
+      "authors": [
+        "Spencer A. Leonard"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-09-28",
+      "updated_at": "2026-11-11T13:53:11.261116+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631239",
+      "title": "Viriconium",
+      "authors": [
+        "Neil Gaiman",
+        "M. John Harrison"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:10.951364+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631238",
+      "title": "The Maker's Field Guide: The Art & Science of Making Anything Imaginable",
+      "authors": [
+        "Joey Zeledón",
+        "Christopher   Armstrong"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-05-12",
+      "updated_at": "2026-11-11T13:53:10.606011+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631236",
+      "title": "Roadkill",
+      "authors": [
+        "Dennis E. Taylor"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2025-08-30T00:00:00",
+      "date_added": "2025-08-30",
+      "updated_at": "2026-11-11T13:53:10.557179+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2025-08-30",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631237",
+      "title": "Death of the Millennial Left: Interventions 2006-2022",
+      "authors": [
+        "Chris Cutrone"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-09-10",
+      "updated_at": "2026-11-11T13:53:10.527656+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631235",
+      "title": "The Count of Monte Cristo",
+      "authors": [
+        "Alexandre Dumas",
+        "Robin Buss"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:10.106295+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631234",
+      "title": "Don Quixote",
+      "authors": [
+        "Miguel de Cervantes Saavedra",
+        "Roberto González Echevarría"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2022-09-04",
+      "updated_at": "2026-11-11T13:53:09.571857+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631232",
+      "title": "The Wealth of NATIONS",
+      "authors": [
+        "Adam Smith"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-09-11",
+      "updated_at": "2026-11-11T13:53:09.318999+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-10-10",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631233",
+      "title": "When Blood Breaks Down: Life Lessons from Leukemia",
+      "authors": [
+        "Mikkael A. Sekeres"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2025-02-19",
+      "updated_at": "2026-11-11T13:53:09.279745+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631231",
+      "title": "The Body Snatcher",
+      "authors": [
+        "Robert Louis Stevenson"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-05-26",
+      "updated_at": "2026-11-11T13:53:09.027434+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631228",
+      "title": "The Bottle Imp",
+      "authors": [
+        "Robert Louis Stevenson",
+        "Tom Hann"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "I thought I'd be glad to read this book because it's some kind of wildly original plot, but it really wasn't. Instead I'm glad I read it because it's so unlike anything else I've read by Robert Louis Stevenson. It feels like he was trying to do something kind of anthropological with the book. I love his constant addition of Polynesian customs. Even if he missed his mark, it speaks to RLS's desire to accumulate worldliness, which he constantly imbued into his writing.",
+      "reviewed_at": "2024-12-24T00:00:00",
+      "date_added": "2024-12-24",
+      "updated_at": "2026-11-11T13:53:08.434982+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-12-24",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631227",
+      "title": "Public Spaces and Urbanity: Construction and Design Manual: How to Design Humane Cities",
+      "authors": [
+        "Karsten Pålsson"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-08-07",
+      "updated_at": "2026-11-11T13:53:08.13652+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631226",
+      "title": "Hamlet, Prince of Denmark",
+      "authors": [
+        "William Shakespeare",
+        "Millôr Fernandes"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:07.221526+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631225",
+      "title": "The Psychic Life of Power: Theories in Subjection",
+      "authors": [
+        "Judith Butler"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-09-30",
+      "updated_at": "2026-11-11T13:53:07.164533+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631223",
+      "title": "Treasure Island",
+      "authors": [
+        "Robert Louis Stevenson"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2021-03-27T00:00:00",
+      "date_added": "2021-03-27",
+      "updated_at": "2026-11-11T13:53:07.150417+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-03-27",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631224",
+      "title": "Rocket Boys",
+      "authors": [
+        "Homer Hickam"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:53:07.051021+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631222",
+      "title": "The Road",
+      "authors": [
+        "Cormac McCarthy"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-04-27",
+      "updated_at": "2026-11-11T13:53:06.384295+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631221",
+      "title": "China in the Mix: Cinema, Sound, and Popular Culture in the Age of Globalization",
+      "authors": [
+        "Ying Xiao"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-08-03",
+      "updated_at": "2026-11-11T13:53:06.26207+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631220",
+      "title": "America's First Civilization",
+      "authors": [
+        "Michael D. Coe"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2022-09-05",
+      "updated_at": "2026-11-11T13:53:06.149998+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631219",
+      "title": "Aesthetic Theory",
+      "authors": [
+        "Robert Hullot-Kentor",
+        "Theodor W. Adorno"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:53:05.372926+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631218",
+      "title": "The Master and Margarita",
+      "authors": [
+        "Mikhail Bulgakov",
+        "Ellendea Proffer",
+        "Katherine Tiernan O'Connor",
+        "Diana Lewis Burgin"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "If you read Russian literature and find yourself reading Tolstoy or Dostoevsky you will find a legacy of pristine, precise and cutting prose. The Master & Margarita throws that out the window with some batshit crazy absurdity. The book is ever unraveling, but at its core is a real set of gripes about Stalinist Russia, the weight of the literary experience and religion. Those gripes create a coherent thread that can be felt but not seen throughout the absurd novel.\n\nSome remark on the sloppiness of this book, born in the fact that Bulgakov spent is life writing, rewriting and even on occasion burning the manuscript of this book. According to historians it never was completed by Bulgakov's standards, but it feels very complete to me. Complete enough to be an unforgettable and inspiring read.",
+      "reviewed_at": "2021-01-12T00:00:00",
+      "date_added": "2020-11-06",
+      "updated_at": "2026-11-11T13:53:05.038584+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-01-12",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631217",
+      "title": "The Forever War",
+      "authors": [
+        "Joe Haldeman"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2026-03-10",
+      "updated_at": "2026-11-11T13:53:04.436595+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631216",
+      "title": "War Doctor",
+      "authors": [
+        "David Nott"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2025-09-28T00:00:00",
+      "date_added": "2025-09-28",
+      "updated_at": "2026-11-11T13:53:04.192475+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2025-09-28",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631215",
+      "title": "American Sirens: The Incredible Story of the Black Men Who Became America's First Paramedics",
+      "authors": [
+        "Kevin Hazzard"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2025-02-26",
+      "updated_at": "2026-11-11T13:53:04.023248+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631212",
+      "title": "Brave New World Revisited ",
+      "authors": [
+        "Aldous Huxley",
+        "David Bradshaw"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-02-13",
+      "updated_at": "2026-11-11T13:53:03.097123+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631211",
+      "title": "Love,Poverty and War : Journeys and Essays",
+      "authors": [
+        "Christopher Hitchens"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-08",
+      "updated_at": "2026-11-11T13:53:03.038166+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631210",
+      "title": "Uncle Fred in the Springtime",
+      "authors": [
+        "P.G. Wodehouse"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-11-02",
+      "updated_at": "2026-11-11T13:53:00.956919+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631209",
+      "title": "Romance of the Three Kingdoms, Vol. 2",
+      "authors": [
+        "Robert E. Hegel",
+        "C.H. Brewitt-Taylor",
+        "Luo Guanzhong"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:59.959655+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631207",
+      "title": "Stranger in a Strange Land",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "There are two reasons to read this book, and I think they both deserve their own review. \n\nTo read Stranger in a Strange Land for the science fiction world:\nHeinlein's science fiction was unique for its time, and it's still unique. Stranger in a Strange Land lays before you a vast world with complex politics and social dynamics. The governing regimes, powerful religious clans, and interplanetary travel make for an exciting landscape. However, Heinlein never takes any of this too seriously. Throughout the dialogue as well as in the details of the world is peppered absurdist humor and witty remarks. In fact, this might be the wittiest science fiction I've ever heard. I often laughed out loud and found musing wishing I could share the joke with a friend. This all causes the futuristic world to feel very human and warm. To quote Jubal Harshaw “man is the creature that laughs.” \n\nTo read Stranger in a Strange Land for the commentary:\nHeinlein is opinionated. He has a libertarian worldview and an unconventional take on gender, romance and sex. Additionally, he has strong opinions on art. On occasion the plot of the story takes a backseat as Heinlein uses his characters to rant at his readers. Fortunately, this dialogue is so natural sounding and so interesting that I never really minded—not even when I disagreed. This ranting aspect makes Jubal Harshaw both the best and the worst character in the story. He's a lovable cranky old man filled with wisdom. If you don't love Jubal, you're crazy. But that's the problem, he feels designed to be lovable so that he can be Heinlein's mouthpiece. He's a Trojan horse snuck into the fiction. Entire chapters read more like social commentary essays and less like exciting science fiction, made possible by Jubal Harshaw.  \nIn the end, I didn't mind how loaded the book was with commentary. The food for thought in these scenes were nourishing enough, and playful to think about. Heinlein is never boring.",
+      "reviewed_at": "2021-05-23T00:00:00",
+      "date_added": "2021-05-07",
+      "updated_at": "2026-11-11T13:52:59.896785+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-05-23",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631206",
+      "title": "Momofuku",
+      "authors": [
+        "Peter Meehan"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:59.093739+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631205",
+      "title": "The Philosophy of History",
+      "authors": [
+        "Georg Wilhelm Friedrich Hegel"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:59.089649+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631204",
+      "title": "Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist",
+      "authors": [
+        "Brad Feld",
+        "Jason Mendelson"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2022-05-08",
+      "updated_at": "2026-11-11T13:52:58.999618+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631203",
+      "title": "The Sandman: Act II",
+      "authors": [
+        "Dirk Maggs",
+        "Neil Gaiman",
+        "Kat Dennings",
+        "John Lithgow",
+        "Brian Cox",
+        "James McAvoy",
+        "Emma Corrin",
+        "Bill Nighy"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2023-04-26T00:00:00",
+      "date_added": "2023-03-22",
+      "updated_at": "2026-11-11T13:52:58.180199+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-04-26",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631202",
+      "title": "Foundation",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:57.362669+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631201",
+      "title": "Design of Cities",
+      "authors": [
+        "Edmund N. Bacon"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-08-07",
+      "updated_at": "2026-11-11T13:52:57.306789+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631199",
+      "title": "Lucky Jim",
+      "authors": [
+        "Kingsley Amis",
+        "David Lodge"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-12-14",
+      "updated_at": "2026-11-11T13:52:56.594214+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631198",
+      "title": "Kitchen",
+      "authors": [
+        "Banana Yoshimoto",
+        "Junichi Mattsuura",
+        "Lourdes Porta Fuentes"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2022-02-06",
+      "updated_at": "2026-11-11T13:52:56.516207+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631197",
+      "title": "A Cook's Tour: Global Adventures in Extreme Cuisines",
+      "authors": [
+        "Anthony Bourdain"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "No one writes about food better than Anthony Bourdain. No one. \n\nThat being said, the book can get boring. Each chapter is approximately the same. What it boils down to is whether or not that chapter does or does not have a nugget of original insight into life; arrived at by Anthony because of his travels and experience. When a chapter does have that nugget, boy is it special. Absolutely golden. But when a chapter is found wanting it takes genuine discipline to not just give up and put the book down after a while.",
+      "reviewed_at": "2019-08-15T00:00:00",
+      "date_added": "2019-07-12",
+      "updated_at": "2026-11-11T13:52:56.43665+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2019-08-15",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631196",
+      "title": "Do Androids Dream of Electric Sheep?",
+      "authors": [
+        "Philip K. Dick"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2024-09-30T00:00:00",
+      "date_added": "2024-09-13",
+      "updated_at": "2026-11-11T13:52:55.682578+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-09-30",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631195",
+      "title": "Lights Out: A Cyberattack, A Nation Unprepared, Surviving the Aftermath",
+      "authors": [
+        "Ted Koppel"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-03-14",
+      "updated_at": "2026-11-11T13:52:55.444165+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631193",
+      "title": "Shadow Puppets",
+      "authors": [
+        "Orson Scott Card"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:54.721344+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631191",
+      "title": "A Christmas Carol",
+      "authors": [
+        "Philip Gooden",
+        "Charles Dickens"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2018-12-24T00:00:00",
+      "date_added": "2018-12-24",
+      "updated_at": "2026-11-11T13:52:54.604759+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-12-24",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631192",
+      "title": "American Gods",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:54.598914+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631190",
+      "title": "Homage To Catalonia",
+      "authors": [
+        "George Orwell"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:52:53.832946+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631189",
+      "title": "The Time of Contempt",
+      "authors": [
+        "Andrzej Sapkowski",
+        "David French"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:53.569539+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631188",
+      "title": "The Liberty of Ancients Compared with that of Moderns",
+      "authors": [
+        "Benjamin Constant"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-10-10",
+      "updated_at": "2026-11-11T13:52:53.48156+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631187",
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "authors": [
+        "Robert Louis Stevenson",
+        "Vladimir Nabokov",
+        "Dan Chaon"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2021-05-28T00:00:00",
+      "date_added": "2021-05-26",
+      "updated_at": "2026-11-11T13:52:52.619782+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-05-28",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631184",
+      "title": "A Moveable Feast",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-04-05",
+      "updated_at": "2026-11-11T13:52:51.545411+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631182",
+      "title": "Steve Jobs",
+      "authors": [
+        "Walter Isaacson"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:51.116234+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631181",
+      "title": "Everyday Drinking",
+      "authors": [
+        "Kingsley Amis"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-12-14",
+      "updated_at": "2026-11-11T13:52:50.91694+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631180",
+      "title": "A Beautiful Mind",
+      "authors": [
+        "Sylvia Nasar"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:50.793033+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631178",
+      "title": "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
+      "authors": [
+        "Raymond Todd",
+        "Richard P. Feynman"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:49.975969+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631177",
+      "title": "The FBI Way",
+      "authors": [
+        "Frank Figliuzzi"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "The FBI Way is so optimistic that it's often hard to take seriously. Mr. Figliuzzi inundates the narrative with shallow analogies that make you feel as if this is a resource officer teaching you about law enforcement in the 4th grade. There's a cheeriness that   almost  fails to acknowledge the brutal reality of what the FBI faces daily.  I'm not suggesting I know any better than Mr. Figliuzzi, but rather I feel that he's hidden many of his darker stories from his audience so that he could paint the FBI as a shining symbol of hope. For much of the book I was cynical about this attitude. However, whether Figliuzzi is right or wrong about the FBIs record as an upright organization that always holds itself accountable, I believe that  he believes what he's writing. What really convinced me of this was his chapter on Conservancy, and how its lessons permeated the rest of the book. \n\nI recommend this book to anyone interested in developing their own code of ethics, or the code of ethics for an organization/company they are a part of. Let yourself be infected my Mr. Figliuzzi's staunch passions for a relentless struggle towards ethical excellence.",
+      "reviewed_at": "2021-04-02T00:00:00",
+      "date_added": "2021-03-27",
+      "updated_at": "2026-11-11T13:52:49.471719+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-04-02",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631176",
+      "title": "Being Mortal: Medicine and What Matters in the End",
+      "authors": [
+        "Atul Gawande"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2024-01-11",
+      "updated_at": "2026-11-11T13:52:49.291287+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631175",
+      "title": "The State and Revolution",
+      "authors": [
+        "Vladimir Lenin"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-04-12",
+      "updated_at": "2026-11-11T13:52:49.119836+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631174",
+      "title": "Arguably",
+      "authors": [
+        "Christopher Hitchens"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:48.622679+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631173",
+      "title": "Sunset at Blandings",
+      "authors": [
+        "P.G. Wodehouse"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-07",
+      "updated_at": "2026-11-11T13:52:48.542761+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631172",
+      "title": "The Doors of Perception and Heaven and Hell",
+      "authors": [
+        "Aldous Huxley",
+        "David Bradshaw",
+        "J.G.  Ballard"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-03-24",
+      "updated_at": "2026-11-11T13:52:48.349929+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631170",
+      "title": "Flora of Middle-Earth: Plants of J.R.R. Tolkien's Legendarium",
+      "authors": [
+        "Walter S. Judd",
+        "Graham A. Judd"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-11-01",
+      "updated_at": "2026-11-11T13:52:47.54027+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631169",
+      "title": "Masks",
+      "authors": [
+        "Juliet Winters Carpenter",
+        "Fumiko Enchi"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:47.176187+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631168",
+      "title": "High Output Management",
+      "authors": [
+        "Andrew S. Grove"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-06-07",
+      "updated_at": "2026-11-11T13:52:46.578107+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631167",
+      "title": "Leviathan Wakes",
+      "authors": [
+        "James S. A. Corey"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "Not quite as political as Star Trek, not as fantastic as Star Wars, not as methodical as Mass Effect and not as technical as The Martian. It's not clear to me if Leviathan Wakes is just a muted form of expansive science fiction, or if it's one of those “greater than the sum of its parts” situations. I'm leaning towards the former, as the book never stood out with remarkable aesthetics or remarkable insight–it only plodded along, riding on the coattails of the great science fiction that came before. So, if you find you find yourself wanting more science fiction, but you already finished most of the greats, then this is a fine read. It checks all the boxes, but no new ones are revealed. \n\nTo be fair to the book though, I'll share two aspects that stood out to me as fascinating. \n\nThe first is scale. The space battles are true to scale (I imagine), and each decision leads to a consequence that can take minutes or hours to unfold. Did your ship launch torpedos? Those might take twenty minutes or even an hour to hit their target. All the while, the person on the other ship has all that time to asses the situation and respond. Space is huge, and that scale impacts battles in a fascinating way. The author clearly had fun being playful with this mechanic. \n\nAnother consistent quality about this book that I enjoyed is how often the main characters are wrong about everything. At its core, this book is a mystery. Much of the mystery unfolds due to either dumb luck or coincidence. This doesn't mean the characters aren't smart, they do piece together the clues in fascinating and interesting ways, but they often miss the mark. It's peculiar reading such a long and meandering mystery where the investigators seem to always be skewing a few meters south of the truth.",
+      "reviewed_at": "2021-06-16T00:00:00",
+      "date_added": "2021-06-03",
+      "updated_at": "2026-11-11T13:52:46.434551+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-06-16",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631166",
+      "title": "The Spy Who Came In From The Cold",
+      "authors": [
+        "John le Carré"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "There's a page where Liz is sitting at the prison after the trial and reflecting on how confused she is. She thinks about how she couldn't do the right thing, no matter what. Because she never had the truth. If she had the truth, she could have tried to do the right thing. \n\n“But how could she have known, if she was not told, how to answer those veiled, insidious questions.”\n\nI think this captures the vibe of the whole book. The way deceit inevitably entraps everyone, even the innocent. Not long after there's the line \n\n“She remembered in the fevered condition of her mind, how, as a child, she had been horrified to learn that with every step she made, thousands of minute creatures were destroyed beneath her foot; and now, whether she had lied or told the truth – or even, she was sure, had kept silent – she had been forced to destroy a human being; perhaps two...”\n\nThe claustrophobia of that statement is felt throughout the whole book, in my opinion.  That's the most insightful, powerful and exciting part of the whole story.",
+      "reviewed_at": "2021-02-16T00:00:00",
+      "date_added": "2021-02-16",
+      "updated_at": "2026-11-11T13:52:46.180393+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-02-16",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631163",
+      "title": "Cryptonomicon",
+      "authors": [
+        "Neal Stephenson"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-07-19",
+      "updated_at": "2026-11-11T13:52:45.441261+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631162",
+      "title": "Harry Potter and the Deathly Hallows",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-07-16",
+      "updated_at": "2026-11-11T13:52:45.131052+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631161",
+      "title": "Sea of Tranquility",
+      "authors": [
+        "Emily St. John Mandel"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-01-29",
+      "updated_at": "2026-11-11T13:52:44.550885+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631160",
+      "title": "The Sandman: Act III",
+      "authors": [
+        "Neil Gaiman",
+        "Dirk Maggs",
+        "James McAvoy",
+        "K.J. Apa",
+        "Kat Dennings",
+        "Shruti Haasan",
+        "Regé-Jean Page",
+        "Kristen Schaal",
+        "Wil Wheaton",
+        "David Harewood"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-03-22",
+      "updated_at": "2026-11-11T13:52:44.14602+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631159",
+      "title": "The Great Gatsby",
+      "authors": [
+        "F. Scott Fitzgerald",
+        "Jesmyn Ward"
+      ],
+      "status_id": 3,
+      "rating": 2.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:43.68652+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631158",
+      "title": "Shadow of the Hegemon",
+      "authors": [
+        "Orson Scott Card"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:43.484516+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631157",
+      "title": "The Sandman Omnibus",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-05-05",
+      "updated_at": "2026-11-11T13:52:43.194486+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631156",
+      "title": "The Glass Castle",
+      "authors": [
+        "Jeannette Walls"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:42.640644+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631155",
+      "title": "Leaves of Grass: The First (1855) Edition",
+      "authors": [
+        "Walt Whitman",
+        "Malcolm Cowley",
+        "Malcolm Cowley"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:42.435912+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631153",
+      "title": "Gender Trouble: Feminism and the Subversion of Identity",
+      "authors": [
+        "Judith Butler"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:52:41.196502+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631151",
+      "title": "Ender's Shadow",
+      "authors": [
+        "Orson Scott Card"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:40.53065+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631149",
+      "title": "The Time Traveler’s Wife",
+      "authors": [
+        "Audrey Niffenegger"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2021-02-06T00:00:00",
+      "date_added": "2021-01-13",
+      "updated_at": "2026-11-11T13:52:40.254592+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-02-06",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631147",
+      "title": "Selected Poems",
+      "authors": [
+        "Edward Mendelson",
+        "W.H. Auden"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-12-14",
+      "updated_at": "2026-11-11T13:52:39.750953+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631145",
+      "title": "Howl, and Other Poems",
+      "authors": [
+        "Allen Ginsberg"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:39.211775+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631144",
+      "title": "The Sandman Omnibus, Vol. 3",
+      "authors": [
+        "Neil Gaiman",
+        "Chris Bachalo",
+        "Frank Quitely",
+        "P. Craig Russell"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-12-16",
+      "updated_at": "2026-11-11T13:52:38.874627+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631143",
+      "title": "Running Lean: Iterate from Plan A to a Plan That Works",
+      "authors": [
+        "Ash Maurya"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "So far, this book has done more for me as an entrepreneur than any other “entrepreneurship book”. The reason is simple, it's written in the very style it preaches. The book itself is lean. \n\nOnce I finished reading my copy (which is now filled with highlights and sticky tabs) I could begin treating it less like a book and more like a playbook. I refer to it constantly like a field manual whenever I'm in need of guidance.",
+      "reviewed_at": null,
+      "date_added": "2021-04-02",
+      "updated_at": "2026-11-11T13:52:38.752479+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631142",
+      "title": "The Flick",
+      "authors": [
+        "Annie Baker"
+      ],
+      "status_id": 3,
+      "rating": 2.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:38.439467+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631141",
+      "title": "The House of Bernarda Alba",
+      "authors": [
+        "Federico García Lorca",
+        "Steven J. Stewart"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:37.992843+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631140",
+      "title": "Wuthering Heights",
+      "authors": [
+        "Emily Brontë",
+        "Richard J. Dunn"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:37.712461+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631139",
+      "title": "Hills Like White Elephants",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:36.925355+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631138",
+      "title": "Memoirs of a Revolutionary",
+      "authors": [
+        "Serge, Victor"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:52:36.818813+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631137",
+      "title": "The Real Doctor Will See You Shortly: A Physician's First Year",
+      "authors": [
+        "Matt McCarthy"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "As a self contained book; a set of pages on the shelf that you might find yourself flipping through on a lazy day, this book is not great. It packs no punch, the style is boringly familiar, and the book reads very predictably. I cannot recommend this to anyone looking for a good read. \n\nHowever, residency is a mystery to me, and I was hoping this book would give me some insight. Matt McCarthy's account of his first year as an intern isn't all that thorough, and it left me wanting. However, I know much more than I did going in and for that I'm grateful. If you're considering going to med school and want to learn about jump from the classrooms to the halls of the hospital, this is a good quick read.",
+      "reviewed_at": "2023-09-14T00:00:00",
+      "date_added": "2023-09-09",
+      "updated_at": "2026-11-11T13:52:36.696383+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-09-14",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631136",
+      "title": "The Invention of Morel",
+      "authors": [
+        "Adolfo Bioy Casares",
+        "Jorge Luis Borges",
+        "Suzanne Jill Levine",
+        "Norah Borges de Torre",
+        "Ruth L.C. Simms"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2024-04-09",
+      "updated_at": "2026-11-11T13:52:36.044211+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631135",
+      "title": "Left-Wing Communism, an Infantile Disorder: A Popular Essay in Marxian Strategy and Tactics",
+      "authors": [
+        "Vladimir Lenin"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-04-12",
+      "updated_at": "2026-11-11T13:52:35.448639+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-04-03",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631134",
+      "title": "Economic and Philosophic Manuscripts of 1844",
+      "authors": [
+        "Karl Marx"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:35.260842+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631132",
+      "title": "The sixty-minute Shakespeare--Twelfth night",
+      "authors": [
+        "Paul M. Howey",
+        "Cass Foster"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2024-01-06T00:00:00",
+      "date_added": "2023-11-17",
+      "updated_at": "2026-11-11T13:52:34.809399+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-01-06",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631131",
+      "title": "Thomas Paine's Rights of Man",
+      "authors": [
+        "Christopher Hitchens"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2018-07-09T00:00:00",
+      "date_added": "2018-07-05",
+      "updated_at": "2026-11-11T13:52:34.468894+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-07-09",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631130",
+      "title": "Frankenstein: The 1818 Text",
+      "authors": [
+        "Mary Shelley"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "Eloquent to the nines, and full of crystalline passages that explore sadness, friendship, loneliness, enlightenment and more. Frankenstein sweeps all the beautiful ideas into one compact story. \nThe inciting factor is scientific achievement, but progress is stifled by social norms and interpersonal conflict (no politics seem present in this book). \n\nFrankenstein is not a parable with a moral thesis, it's a space carved out by Mary Shelley, a beautiful hall adorned with unique ornaments. She invites you in to think and discuss each one.",
+      "reviewed_at": "2021-07-19T00:00:00",
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:52:34.364491+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-07-19",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631129",
+      "title": "A Midsummer-Night’s Dream",
+      "authors": [
+        "William Shakespeare",
+        "Barbara A. Mowat",
+        "Paul Werstine",
+        "Alan Durband",
+        "Roma Gill",
+        "Catherine Belsey",
+        "A.R. Braunmuller"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "This is the first comedy I've read by Shakespeare, so I can't speak for his comedic style as this work may be an outlier. Though, I'm worried about what my experience of reading A Midsummer Night's Dream means for for reading of his other comedies. \n\nThe story is incredibly playful in its exploration of love. There is no end to the ways in which love is defined. At times it's presented as a naive and unreliable impulse, while at other times love has the capacity to trasmute hell into heaven (or the reverse if your love is unrequited). This creates a remarkable space in which love can be explored endlessly. \n\nHowever, the tale has no exclamation point; no sharp end; no bold moment. This is very unlike Julius Caesar, Macbeth and Hamlet. Though, it might be a worthwhile trade-off for the genuinely hilarious lines in the book. I laughed out loud repeatedly. The moment in act 5 when the wedding brigade is commenting on the Thisbe and Pyramus play reminded me a LOT of Mystery Science Theater. Their peanut-gallery commentary had me laughing regularly. Puck's final lines are so playful, that it emphasizes this entertaining aspect of the play. \n\nStill, this well written humor doesn't play nicely (in my head, at least) with the potential latent in those lurid and un-addressed lines of love from acts 1, 2 and 3.",
+      "reviewed_at": "2021-06-01T00:00:00",
+      "date_added": "2021-05-22",
+      "updated_at": "2026-11-11T13:52:34.105128+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-06-01",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631128",
+      "title": "The Old Man and the Sea",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2020-06-14T00:00:00",
+      "date_added": "2020-06-14",
+      "updated_at": "2026-11-11T13:52:33.872263+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-06-14",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631127",
+      "title": "Chronicle of a Death Foretold",
+      "authors": [
+        "Gabriel García Márquez",
+        "Gregory Rabassa"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:33.534116+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631126",
+      "title": "The Secret Garden",
+      "authors": [
+        "Frances Hodgson Burnett"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2022-12-26T00:00:00",
+      "date_added": "2022-12-26",
+      "updated_at": "2026-11-11T13:52:33.437658+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-12-26",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631124",
+      "title": "The Return of the King",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2025-04-11",
+      "updated_at": "2026-11-11T13:52:32.790229+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2025-05-27",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631125",
+      "title": "The Matrix Comics",
+      "authors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-05-12",
+      "updated_at": "2026-11-11T13:52:32.673948+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631123",
+      "title": "The Book of Form and Emptiness",
+      "authors": [
+        "Ruth Ozeki"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-07-01",
+      "updated_at": "2026-11-11T13:52:32.416228+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631121",
+      "title": "Three sisters",
+      "authors": [
+        "Anton Chekhov"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:31.782761+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631120",
+      "title": "Darkness at Noon",
+      "authors": [
+        "Arthur Koestler",
+        "George Buday",
+        "Vladimir Bukovsky",
+        "Daphne Hardy"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2020-05-20T00:00:00",
+      "date_added": "2018-07-07",
+      "updated_at": "2026-11-11T13:52:31.74894+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-05-20",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631119",
+      "title": "My Death",
+      "authors": [
+        "Lisa Tuttle",
+        "Thomas Tessier"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2024-04-09",
+      "updated_at": "2026-11-11T13:52:31.379894+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631118",
+      "title": "Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant Unabridged",
+      "authors": [
+        "W. Chan Kim",
+        "Renée Mauborgne"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-07-05",
+      "updated_at": "2026-11-11T13:52:31.146517+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631117",
+      "title": "The Definitive Book of Body Language",
+      "authors": [
+        "Allan Pease",
+        "Barbara Pease"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:31.024655+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631116",
+      "title": "The Power Broker: Robert Moses and the Fall of New York",
+      "authors": [
+        "Robert A. Caro"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-03-14",
+      "updated_at": "2026-11-11T13:52:30.516917+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631115",
+      "title": "The Sandman",
+      "authors": [
+        "Dirk Maggs",
+        "Neil Gaiman",
+        "Neil Gaiman",
+        "Riz Ahmed",
+        "Kat Dennings",
+        "Taron Egerton",
+        "James McAvoy",
+        "Samantha Morton",
+        "Bebe Neuwirth",
+        "Andy Serkis",
+        "Michael Sheen"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-03-22",
+      "updated_at": "2026-11-11T13:52:30.035752+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631114",
+      "title": "Ender's Game",
+      "authors": [
+        "Orson Scott Card"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:29.903281+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631113",
+      "title": "The Flowers of Evil",
+      "authors": [
+        "Charles Baudelaire",
+        "Cyril Scott"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:29.657952+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631112",
+      "title": "Count Zero",
+      "authors": [
+        "William Gibson"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2022-04-19T00:00:00",
+      "date_added": "2021-06-30",
+      "updated_at": "2026-11-11T13:52:29.356045+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-04-19",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631111",
+      "title": "The Sublime Object of Ideology",
+      "authors": [
+        "Slavoj Žižek",
+        "Chris MacDonnell"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-09-02",
+      "updated_at": "2026-11-11T13:52:29.21394+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631110",
+      "title": "Dealing with China: An Insider Unmasks the New Economic Superpower",
+      "authors": [
+        "Henry M. Paulson Jr.",
+        "Michael K. Carroll"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:29.137953+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-08-30",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631109",
+      "title": "Blood Red Sunset: A Memoir of the Chinese Cultural Revolution",
+      "authors": [
+        "Ma Bo",
+        "Howard Goldblatt"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-24",
+      "updated_at": "2026-11-11T13:52:28.985509+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631108",
+      "title": "Living in the End Times",
+      "authors": [
+        "Slavoj Žižek"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-09-02",
+      "updated_at": "2026-11-11T13:52:28.231295+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631106",
+      "title": "Norwegian Wood",
+      "authors": [
+        "Haruki Murakami",
+        "Jay Rubin"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2020-05-29T00:00:00",
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:27.860377+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-05-29",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631107",
+      "title": "On Food and Cooking",
+      "authors": [
+        "Harold McGee"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:27.82504+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631101",
+      "title": "Midnight, Water City",
+      "authors": [
+        "Chris    McKinney"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-01-11",
+      "updated_at": "2026-11-11T13:52:26.480762+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631099",
+      "title": "To Have and Have Not",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "To Have and Have Not is difficult to love, but it's also hard to ignore once you've read it. Hemingway himself felt this book was a failure, and it's easy to see why. It's cobbled together in such a way that the tectonic plates never quite align, leaving strange emotional gaps in the story. The book also feels petty and wounded, as if written by someone with a chip on their shoulder. Sure, Hemingway is often accused of writing with a grudge, but I've never actually felt that to be true with his books the way I do for this one. \n\nHemingway curses, slurs, and insults in this story in a way he simply doesn't in his other, more tender writings. Maybe that's the issue here, there's no tenderness in this book. But because it is so emotionally written, when this book hits, it HITS. There are long passages railing at the world expressing real grief that are undeniably relatable. \n\nPlus, it's hard to ignore a story about the grungy and grimey world of the Florida Keys during the Great Depression... written by a man who lived in and experienced that niche little community. For a fleeting moment, Cuba and the Keys could touch one another before the revolution, and they struggled in tandem with the economic crisis of the world. It was distinctly a town of shipping, drugs, and fishing–a place like no other. Not quite America–or maybe uniquely American. How does a story like that not stick like a thorn in your side?",
+      "reviewed_at": "2026-09-25T00:00:00",
+      "date_added": "2026-09-25",
+      "updated_at": "2026-11-11T13:52:26.290701+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2026-09-25",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631098",
+      "title": "Red Rosa",
+      "authors": [
+        "Kate Evans"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-06-04",
+      "updated_at": "2026-11-11T13:52:26.042554+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631097",
+      "title": "Bodies that Matter: On the Discursive Limits of Sex",
+      "authors": [
+        "Judith Butler"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:52:25.610832+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631096",
+      "title": "Sanford Meisner on Acting",
+      "authors": [
+        "Sanford Meisner",
+        "Dennis Longwell"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:25.371873+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631095",
+      "title": "The Power of Myth",
+      "authors": [
+        "Betty Sue Flowers",
+        "Joseph Campbell",
+        "Bill Moyers"
+      ],
+      "status_id": 3,
+      "rating": 2.0,
+      "review": "",
+      "reviewed_at": "2018-07-03T00:00:00",
+      "date_added": "2018-06-29",
+      "updated_at": "2026-11-11T13:52:25.337052+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-07-03",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631094",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "authors": [
+        "J.K. Rowling",
+        "Mary GrandPré"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-07-16",
+      "updated_at": "2026-11-11T13:52:24.78861+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631093",
+      "title": "Macbeth",
+      "authors": [
+        "William Shakespeare",
+        "William George Clark",
+        "William Aldis Wright"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:24.496763+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631092",
+      "title": "Startup Communities: Building an Entrepreneurial Ecosystem in Your City",
+      "authors": [
+        "Brad Feld"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-03-27",
+      "updated_at": "2026-11-11T13:52:24.342652+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631091",
+      "title": "Snow Crash",
+      "authors": [
+        "Neal Stephenson"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:24.309793+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631089",
+      "title": "The Stranger",
+      "authors": [
+        "Albert Camus",
+        "Matthew Ward"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:23.172377+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631088",
+      "title": "The White Album",
+      "authors": [
+        "Joan Didion"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2021-11-12T00:00:00",
+      "date_added": "2021-11-12",
+      "updated_at": "2026-11-11T13:52:22.886438+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-11-12",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631087",
+      "title": "Nine Stories",
+      "authors": [
+        "J. D. Salinger"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:22.681764+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631081",
+      "title": "The Membranes",
+      "authors": [
+        "Chi Ta-wei",
+        "Ari Larissa Heinrich"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "At first this book felt confused to me, mired in awkward self reflection on sexuality that consistently contradicted itself. Then—in the end—it completely unravels at the 11th hour and as a result re-contextualizes all of its own content. I had been collecting highlights throughout the book with the intention of writing out a review with my thoughts on the books self-confusion, but now those quotes feel double edged now that I've actually finished the story. Everything points in a new direction. \n\nObviously I'm trying to avoid spoilers here. Know that this can sometimes be a meandering slog, but it's worth pushing through. Especially because the book is so short. \n\nWhat I want to remember about this book: the wonderful afterward that describes post-martial law Taiwan and the punk art scene that developed; the strange way in which this book is about consuming fiction, and the relationship this fiction has with our own consciousness at a foundational level; the strange way in which the main character constantly denies any sexuality, and yet seems neurotically preoccupied with sex and the human body; how reading this book made me feel like a voyeur watching a voyeur.",
+      "reviewed_at": "2024-08-27T00:00:00",
+      "date_added": "2024-04-09",
+      "updated_at": "2026-11-11T13:52:20.956979+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-08-27",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631082",
+      "title": "A Farewell to Arms",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:20.922751+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631080",
+      "title": "The Moral Landscape: How Science Can Determine Human Values",
+      "authors": [
+        "Sam Harris"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-31",
+      "updated_at": "2026-11-11T13:52:20.817629+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631078",
+      "title": "Mortality",
+      "authors": [
+        "Christopher Hitchens"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2019-12-30T00:00:00",
+      "date_added": "2018-07-08",
+      "updated_at": "2026-11-11T13:52:20.144632+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2019-12-30",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631079",
+      "title": "Yellow Tulips: Poems, 1968-2011",
+      "authors": [
+        "James Fenton"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-12-14",
+      "updated_at": "2026-11-11T13:52:20.105387+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631077",
+      "title": "To Kill A Mockingbird",
+      "authors": [
+        "Harper Lee"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:19.896754+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631076",
+      "title": "Imperialism: The Highest Stage of Capitalism",
+      "authors": [
+        "Vladimir Lenin"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-03-20",
+      "updated_at": "2026-11-11T13:52:19.842297+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-03-18",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631075",
+      "title": "Flowers for Algernon",
+      "authors": [
+        "Daniel Keyes"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:19.184481+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631074",
+      "title": "Team of Rivals: The Political Genius of Abraham Lincoln ",
+      "authors": [
+        "Doris Kearns Goodwin"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-09-05",
+      "updated_at": "2026-11-11T13:52:19.100062+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631071",
+      "title": "Introduction to the Philosophy of History with Selections from The Philosophy of Right",
+      "authors": [
+        "Leo Rauch",
+        "Georg Wilhelm Friedrich Hegel"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-10-07",
+      "updated_at": "2026-11-11T13:52:18.499036+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-10-10",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631072",
+      "title": "The songlines",
+      "authors": [
+        "Bruce Chatwin"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2022-11-19",
+      "updated_at": "2026-11-11T13:52:18.424316+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631070",
+      "title": "The Book of Laughter and Forgetting",
+      "authors": [
+        "Aaron Asher",
+        "Serena Vitale",
+        "Milan Kundera"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:52:18.23893+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631069",
+      "title": "1984",
+      "authors": [
+        "George Orwell",
+        "Shepard Fairey",
+        "Peter Hobley Davison"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "I remembered this book as a powerful read, but everything else I remembered about it was wrong. I now am somewhat suspicious that when i heard a conservative points out NSA spying and say “big brother is watching you” or when a progressive cites 1984 when referencing some horrific law making it harder to get birth control, that they too mis-remember this classic. \n\nWhat makes 1984 so horrifying is that the ideology makes almost no sense. When you read about the ideology of Oceania from O'Brian's mouth, you feel like you're reading some sort of absurdist novel. the climax of this absurdism is when you learn what Oceania hopes to achieve with its power. Not wealth, not a small elite class living lavishly, not even glory. Simply the ability to control what they consider reality, which is the world within our heads. To the Party, there is no reality except for what happens in human beings' heads. \n\nMy takeaway is that 1984 is not an actual warning about the future of America or socialism or capitalism, but rather a warning about the little political habits of wings that concede rational efforts for material change in favor of some petty control over how people perceive reality.",
+      "reviewed_at": "2021-05-08T00:00:00",
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:18.114725+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-05-08",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631068",
+      "title": "Hardwired",
+      "authors": [
+        "Walter Jon Williams"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-04-01",
+      "updated_at": "2026-11-11T13:52:17.637266+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631067",
+      "title": "Mao: The Unknown Story",
+      "authors": [
+        "Jung Chang",
+        "Jon Halliday"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-23",
+      "updated_at": "2026-11-11T13:52:17.557691+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631066",
+      "title": "A Burglar's Guide to the City",
+      "authors": [
+        "Geoff Manaugh"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2020-05-31T00:00:00",
+      "date_added": "2020-05-30",
+      "updated_at": "2026-11-11T13:52:17.448583+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-05-31",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631065",
+      "title": "Evicted: Poverty and Profit in the American City",
+      "authors": [
+        "Matthew Desmond"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-07-11",
+      "updated_at": "2026-11-11T13:52:17.332565+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631064",
+      "title": "Castle in the Air",
+      "authors": [
+        "Tim   Stevens",
+        "Diana Wynne Jones"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-02-03",
+      "updated_at": "2026-11-11T13:52:16.990543+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631063",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "authors": [
+        "J.K. Rowling",
+        "Mary GrandPré"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-07-16",
+      "updated_at": "2026-11-11T13:52:16.860133+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631061",
+      "title": "The Voyage of the Beagle",
+      "authors": [
+        "Charles Darwin"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-11-23",
+      "updated_at": "2026-11-11T13:52:16.224615+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631060",
+      "title": "Julius Cæsar",
+      "authors": [
+        "William Shakespeare",
+        "William George Clark",
+        "William Aldis Wright"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2018-04-01T00:00:00",
+      "date_added": "2018-12-15",
+      "updated_at": "2026-11-11T13:52:16.01217+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-04-01",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631059",
+      "title": "Out of the Silent Planet",
+      "authors": [
+        "C. S. Lewis"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:15.685223+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631058",
+      "title": "Future Shock",
+      "authors": [
+        "Alvin Toffler"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2022-11-19",
+      "updated_at": "2026-11-11T13:52:15.633272+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631056",
+      "title": "Lolita",
+      "authors": [
+        "Vladimir Nabokov",
+        "Martin Amis"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-04-28",
+      "updated_at": "2026-11-11T13:52:14.965811+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-05-03",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631057",
+      "title": "The Feast of the Goat",
+      "authors": [
+        "Mario Vargas Llosa",
+        "Edith Grossman"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2025-07-27",
+      "updated_at": "2026-11-11T13:52:14.950871+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631054",
+      "title": "The Golden Compass",
+      "authors": [
+        "Philip Pullman"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "This book is so much better than I remembered, and I'm glad that I reread it. Lyra is just such an amazing and unique character. She isn't exactly the prototypical rebellious young girl of many young-adult novels, nor is she naive or innocent. Lyra is the kind of girl that might sit at the front of the class or be eager to get approval from the adults she looks up to. What appears in this book to be rebellion is actually a very flat and uncomplicated love she has for her friends and those she respects. Lyra only speaks out against an adult or the world when they pervert her efforts to be there for her loved ones—it's as if she's overtaken by an uncontrollable desire to lash out for her principles which are taking shape before our very eyes. She is becoming an adult.\n\nThis makes the controversy around this book a little ironic. Parents are afraid of their children reading the Golden Compass because it presents a world in which God is no good and the Church is vile, but it's actually much more complicated than that. Lyra struggles to make sense of the mystery she's been trapped in, and everyone seems capable of either providing great support to her or utterly betraying her. All that is left is for her to think for herself, and to learn from her experiences, and to take leaps of faith with her intuition. This is not a moral principle, but a fact of life. Children must make their way in a complicated world, that is what this book is all about. Yet there are countless parents who don't want their children thinking for themselves and would choose to put up guardrails on what they can and cannot study.",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:14.05163+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631053",
+      "title": "The Lathe of Heaven",
+      "authors": [
+        "Ursula K. Le Guin"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-05-17",
+      "updated_at": "2026-11-11T13:52:14.039148+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-05-21",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631052",
+      "title": "The Joy Luck Club",
+      "authors": [
+        "Amy Tan"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:52:13.622658+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631051",
+      "title": "The Eighteenth Brumaire of Louis Bonaparte",
+      "authors": [
+        "Karl Marx",
+        "Daniel de Leon"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:13.21249+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631050",
+      "title": "Burning Chrome",
+      "authors": [
+        "William Gibson"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-06-30",
+      "updated_at": "2026-11-11T13:52:13.085076+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631047",
+      "title": "What is the Third Estate?",
+      "authors": [
+        "Emmanuel Joseph Sieyès"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-09-23",
+      "updated_at": "2026-11-11T13:52:12.384596+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-09-22",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631048",
+      "title": "A Struggle for Power: The American Revolution",
+      "authors": [
+        "Theodore Draper"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:12.295565+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631046",
+      "title": "Annihilation",
+      "authors": [
+        "Jeff VanderMeer"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2023-01-31T00:00:00",
+      "date_added": "2023-01-25",
+      "updated_at": "2026-11-11T13:52:11.991049+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-01-31",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631045",
+      "title": "Common Sense, The Rights of Man and Other Essential Writings",
+      "authors": [
+        "Sidney Hook",
+        "Jack Fruchtman Jr.",
+        "Thomas Paine"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-07",
+      "updated_at": "2026-11-11T13:52:11.646905+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631044",
+      "title": "Finite and Infinite Games",
+      "authors": [
+        "James P. Carse"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-05-24",
+      "updated_at": "2026-11-11T13:52:11.585396+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631043",
+      "title": "Everything That Rises Must Converge",
+      "authors": [
+        "Flannery O’Connor"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:52:10.976839+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631041",
+      "title": "Le Horla",
+      "authors": [
+        "Guy de Maupassant"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2020-12-16T00:00:00",
+      "date_added": "2020-12-16",
+      "updated_at": "2026-11-11T13:52:10.84419+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-12-16",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631042",
+      "title": "Shadow of the Giant",
+      "authors": [
+        "Orson Scott Card"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:10.825037+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631040",
+      "title": "The Just City",
+      "authors": [
+        "Jo Walton"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2024-09-01",
+      "updated_at": "2026-11-11T13:52:10.196169+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631038",
+      "title": "Women: The Longest Revolution",
+      "authors": [
+        "Juliet Mitchell"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:52:09.890583+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631037",
+      "title": "Eros the Bittersweet",
+      "authors": [
+        "Anne Carson"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2025-04-25",
+      "updated_at": "2026-11-11T13:52:09.400247+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631036",
+      "title": "All Star Superman, Vol. 2",
+      "authors": [
+        "Grant Morrison",
+        "Frank Quitely"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-05-05",
+      "updated_at": "2026-11-11T13:52:09.32518+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631034",
+      "title": "Notes from Underground",
+      "authors": [
+        "Fyodor Dostoevsky",
+        "Richard Pevear",
+        "Larissa Volokhonsky"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-08-23",
+      "updated_at": "2026-11-11T13:52:08.734233+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631033",
+      "title": "You Can't Go Home Again",
+      "authors": [
+        "Thomas Wolfe"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-01-24",
+      "updated_at": "2026-11-11T13:52:08.619741+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631032",
+      "title": "Mona Lisa Overdrive",
+      "authors": [
+        "William Gibson"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "Neuromancer and Count Zero are both very chaotic books with multiple moving parts being described by characters who have limited insight. Sometimes their perception is even impeded by drugs or constrained perception. \n\nI like the idea of this kind of frenetic storytelling, but the actual experience usually just left me fatigued, confused and reliant on the internet to provide me synopsis.\n\nI'm happy to say that Mona Lisa Overdrive finds the razors edge of chaos and clarity. For me at least, I could make sense of the story through the strained perceptions of warped characters.  \n\nAlso, the authors afterward in my copy was a fantastic emotional conclusion to reading this trilogy—especially because I read this on a kindle.",
+      "reviewed_at": "2022-07-18T00:00:00",
+      "date_added": "2022-07-12",
+      "updated_at": "2026-11-11T13:52:08.614086+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-07-18",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631030",
+      "title": "The Bladerunner",
+      "authors": [
+        "Alan E. Nourse"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2024-09-28",
+      "updated_at": "2026-11-11T13:52:07.751843+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631029",
+      "title": "Discourse On The Origin Of Inequality",
+      "authors": [
+        "Jean-Jacques Rousseau"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:07.56463+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631028",
+      "title": "The Fellowship of the Ring",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2024-11-13T00:00:00",
+      "date_added": "2024-09-17",
+      "updated_at": "2026-11-11T13:52:07.198777+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-11-13",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631027",
+      "title": "The Giver",
+      "authors": [
+        "Lois Lowry"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:06.897304+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631026",
+      "title": "The Selected Poems of Emily Dickinson",
+      "authors": [
+        "Emily Dickinson",
+        "Billy Collins"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-12-14",
+      "updated_at": "2026-11-11T13:52:06.332703+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631025",
+      "title": "The Bread Baker's Apprentice: Mastering the Art of Extraordinary Bread",
+      "authors": [
+        "Peter Reinhart",
+        "Ron Manville"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:06.213305+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631024",
+      "title": "The Subtle Knife",
+      "authors": [
+        "Philip Pullman"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2023-10-22T00:00:00",
+      "date_added": "2023-10-13",
+      "updated_at": "2026-11-11T13:52:06.192468+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-10-22",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631023",
+      "title": "The Moon Is a Harsh Mistress",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2021-11-28T00:00:00",
+      "date_added": "2021-11-12",
+      "updated_at": "2026-11-11T13:52:06.18145+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-11-28",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631021",
+      "title": "1491: New Revelations of the Americas Before Columbus",
+      "authors": [
+        "Charles C. Mann"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "This is the kind of book that's wild fun to read, but difficult to treat as educational. I know that before long at all, I'll have forgotten most of what I've written in this book because it's mostly a collection of insights on random topics relating to Native American cultures in south, central and North America over enormous timespans. It's written beautifully, provocatively, and it is full of fascinating facts. But no question or concept is central to the book, and so nothing is really drive home. There's no thesis for all the interesting facts to orbit around. \n\nI see 1491 as a launchpad for learning about Native American cultures—this book has provided me with questions that I will explore in more specific texts.",
+      "reviewed_at": "2023-04-16T00:00:00",
+      "date_added": "2022-09-11",
+      "updated_at": "2026-11-11T13:52:05.407063+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2023-04-16",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631022",
+      "title": "The Good Earth",
+      "authors": [
+        "Pearl S. Buck",
+        "Gianny Buditjahya"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-02-27",
+      "updated_at": "2026-11-11T13:52:05.288089+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631020",
+      "title": "A Perfect Day for Bananafish",
+      "authors": [
+        "J. D. Salinger"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:52:04.975397+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631019",
+      "title": "The Unwinding: An Inner History of the New America",
+      "authors": [
+        "George Packer"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-04-06",
+      "updated_at": "2026-11-11T13:52:04.410599+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631018",
+      "title": "Empire",
+      "authors": [
+        "Gore Vidal"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-07",
+      "updated_at": "2026-11-11T13:52:04.357154+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631017",
+      "title": "The Color of Law: A Forgotten History of How Our Government Segregated America",
+      "authors": [
+        "Richard Rothstein"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-06-03",
+      "updated_at": "2026-11-11T13:52:04.132874+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631015",
+      "title": "Hate Inc.: Why Today's Media Makes Us Despise One Another",
+      "authors": [
+        "Matt Taibbi"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-28",
+      "updated_at": "2026-11-11T13:52:03.405819+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631014",
+      "title": "The Song of the Cell: An Exploration of Medicine and the New Human",
+      "authors": [
+        "Siddhartha Mukherjee"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-01-29",
+      "updated_at": "2026-11-11T13:52:03.364673+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631013",
+      "title": "Animal Farm",
+      "authors": [
+        "George Orwell"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-02-29",
+      "updated_at": "2026-11-11T13:52:02.975037+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-02-12",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631012",
+      "title": "A Confederacy of Dunces",
+      "authors": [
+        "John Kennedy Toole"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-01-20",
+      "updated_at": "2026-11-11T13:52:01.44671+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631011",
+      "title": "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+      "authors": [
+        "Bill Bryson"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2024-09-17",
+      "updated_at": "2026-11-11T13:52:00.560807+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631010",
+      "title": "1Q84",
+      "authors": [
+        "Haruki Murakami",
+        "Philip Gabriel",
+        "Jay Rubin"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "I've been dreading finishing this book because I've been dreading writing a review of it. With regard only to my own subjective experience, I was immensely bored. When I try to work backwards from the shadow of my own subjective experience in order to make sense of how the book could cast such a shadow, I find myself in a familiar puzzle that excites me as much as it frustrates me. \n\nThe puzzle is thus: often we write reviews to legitimize our subjective experience of art (e.g. a movie that bores you gets a bad review). However, if you want to write critically, you might find that an objective critique reveals something interesting about the story that leaves your own experiences invalidated. A book that bores you might have a lot to say about the world in which it was created. Therefore, your critique leaves the book elevated by your analysis and also leaves your own experience behind as if it did not matter. In my experience, this is a draining way to write that requires some self-hatred. Is there a way to write critically without having disdain for the impatience of your own feelings? With 1Q84 at least, I'd say it is impossible. \n\nI found 1Q84 repetitive and vague. Allan Barra's review in The Atlantic puts it thusly: \n\n \"It's hard to believe that some of the critics praising 1Q84 didn't really feel, at times, like throwing the book in the air and walking away. Trying to say anything definite about it is like trying to nail Jell-O to a wall. (Even the title's allusion to Orwell seems vague.) It's an elaborate puzzle in which the pieces seem to change shape just as you try to fit them into place or a puzzle which, when assembled, adds up to a picture of a perfect blank.\" \n\nAlready in this take you can begin to simultaneously see why 1Q84 manages to bore so many, but excite the rest. It's a peculiar puzzle unlike anything else. Even the mundane way in which long chapters describe quotidian tasks with nothing at stake seem to serve something beyond the reader's own pleasure. These sections serve as a contrast to equally long (and somehow mundane) surreal paragraphs in which inter-dimensional drama plays out. Murakami sucks the joy out of everything in 1Q84, and that's interesting, and it's also boring. I heard one apt description of 1Q84 as “sci fi and fantasy made mundane”, and I think that's a wonderful take on it. Perhaps even a great reason to read the book if that's what you're craving.  \n\nEven an attempt to enjoy the form of his writing rather than its function is difficult for two reasons. The first being that you're reading a translation and you are not getting Murakami's true style The second being that the book is so long that low-calorie style becomes insufficient to keep you hooked over the behemoth length of the story. \n\nOnce you read the final page and close the book, all that remains is a vague pleasure arising from the book's peculiarity. It is perfect for academic literature classes where enjoyment is not the standard, or for readers who desperately need a break from generic pop literature and therefore will savor 1Q84 just for being something different. \n\nLuckily, there's an alternative: Read Murakami's short stories or lighter novels. You get the same magic.",
+      "reviewed_at": "2021-11-01T00:00:00",
+      "date_added": "2021-08-07",
+      "updated_at": "2026-11-11T13:52:00.508629+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-11-01",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631009",
+      "title": "Dune",
+      "authors": [
+        "Frank Herbert"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2021-05-01T00:00:00",
+      "date_added": "2020-08-11",
+      "updated_at": "2026-11-11T13:51:59.876958+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-05-01",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631008",
+      "title": "Plays",
+      "authors": [
+        "Federico García Lorca",
+        "Gwynne Edwards",
+        "Peter Luke"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:59.270181+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631007",
+      "title": "The Black Swan",
+      "authors": [
+        "Nassim Nicholas Taleb"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-02-03",
+      "updated_at": "2026-11-11T13:51:59.154048+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631006",
+      "title": "The Dark Forest",
+      "authors": [
+        "Cixin Liu",
+        "Joel Martinsen"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-07",
+      "updated_at": "2026-11-11T13:51:58.916973+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631005",
+      "title": "Minima Moralia: Reflections From Damaged Life",
+      "authors": [
+        "Theodor W. Adorno",
+        "Edmund F.N. Jephcott",
+        "Aleksa Buha"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:51:58.671173+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631004",
+      "title": "Hanged by the Neck",
+      "authors": [
+        "Arthur Koestler",
+        "C.H. Rolph"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-07",
+      "updated_at": "2026-11-11T13:51:58.436161+00:00",
+      "reads": []
+    },
+    {
       "id": "20610689",
       "title": "Moby Dick",
       "authors": [
@@ -667,15 +5910,757 @@
       "rating": null,
       "review": "",
       "reviewed_at": null,
-      "date_added": "2026-11-11",
-      "updated_at": "2026-11-11T00:25:03.631333+00:00",
+      "date_added": "2025-05-27",
+      "updated_at": "2026-11-11T13:51:58.23543+00:00",
       "reads": [
         {
-          "started_at": "2026-11-10",
+          "started_at": null,
           "finished_at": null,
           "progress_pages": 303
         }
       ]
+    },
+    {
+      "id": "20631003",
+      "title": "Proletarian Power: Shanghai in the Cultural Revolution",
+      "authors": [
+        "Elizabeth J. Perry",
+        "Li Xun"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-24",
+      "updated_at": "2026-11-11T13:51:58.038578+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630994",
+      "title": "Canti",
+      "authors": [
+        "Giacomo Leopardi",
+        "Perfect Library"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-29",
+      "updated_at": "2026-11-11T13:51:57.987761+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631001",
+      "title": "Letters to a Young Contrarian",
+      "authors": [
+        "Christopher Hitchens"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2020-10-24T00:00:00",
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:57.399491+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-10-24",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20631002",
+      "title": "Simians, Cyborgs, and Women: The Reinvention of Nature",
+      "authors": [
+        "Donna J. Haraway"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-09-20",
+      "updated_at": "2026-11-11T13:51:57.356195+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631000",
+      "title": "Baptism of Fire",
+      "authors": [
+        "Andrzej Sapkowski",
+        "David   French"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:57.261607+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630999",
+      "title": "Brave New World",
+      "authors": [
+        "Aldous Huxley"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2018-07-05T00:00:00",
+      "date_added": "2018-06-30",
+      "updated_at": "2026-11-11T13:51:57.008599+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-07-05",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630998",
+      "title": "For Whom the Bell Tolls",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-04-05",
+      "updated_at": "2026-11-11T13:51:56.538194+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630996",
+      "title": "Pale Fire",
+      "authors": [
+        "Vladimir Nabokov"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-01-13",
+      "updated_at": "2026-11-11T13:51:56.320824+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630995",
+      "title": "The Private Eye",
+      "authors": [
+        "Muntsa Vicente",
+        "Marcos Martín",
+        "Brian K. Vaughan"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-05-05",
+      "updated_at": "2026-11-11T13:51:56.098136+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630993",
+      "title": "The Tower of the Swallow",
+      "authors": [
+        "Andrzej Sapkowski",
+        "David French"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2019-01-13",
+      "updated_at": "2026-11-11T13:51:55.969345+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630992",
+      "title": "A Doll's House",
+      "authors": [
+        "Henrik Ibsen"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:55.685654+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630991",
+      "title": "Lady Chatterley's Lover",
+      "authors": [
+        "D.H. Lawrence"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2022-12-30",
+      "updated_at": "2026-11-11T13:51:55.107014+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630989",
+      "title": "The year of the French",
+      "authors": [
+        "Thomas James Bonner Flanagan"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-07",
+      "updated_at": "2026-11-11T13:51:54.826696+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630988",
+      "title": "A Short Guide to Writing about Film",
+      "authors": [
+        "Timothy Corrigan"
+      ],
+      "status_id": 3,
+      "rating": 2.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:54.502536+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630986",
+      "title": "Death's End",
+      "authors": [
+        "Cixin Liu"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2020-02-02T00:00:00",
+      "date_added": "2018-07-07",
+      "updated_at": "2026-11-11T13:51:54.457965+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-02-02",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630987",
+      "title": "Other Desert Cities",
+      "authors": [
+        "Jon Robin Baitz",
+        "Honor Moore"
+      ],
+      "status_id": 3,
+      "rating": 2.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:54.426198+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630985",
+      "title": "Black Sun",
+      "authors": [
+        "Julia Kristeva",
+        "Leon Roudiez"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-03-03",
+      "updated_at": "2026-11-11T13:51:54.325809+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630984",
+      "title": "The Ugly Swans",
+      "authors": [
+        "Arkady Strugatsky",
+        "Boris Strugatsky"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-09-24",
+      "updated_at": "2026-11-11T13:51:54.126072+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630983",
+      "title": "A Brief History of Chinese Civilization",
+      "authors": [
+        "Conrad Schirokauer",
+        "Miranda Brown"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:54.018793+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630981",
+      "title": "Fundamental methods of mathematical economics",
+      "authors": [
+        "Alpha C. Chiang",
+        "Kevin Wainwright"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:53.944784+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630980",
+      "title": "The Sandman Omnibus, Vol. 2",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-05-05",
+      "updated_at": "2026-11-11T13:51:53.656802+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630979",
+      "title": "Taras Bulba illustrated",
+      "authors": [
+        "Nikolai Gogol",
+        "Moiz Zulfiqar"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2024-02-23",
+      "updated_at": "2026-11-11T13:51:53.128671+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630977",
+      "title": "A Wizard of Earthsea",
+      "authors": [
+        "Ursula K. Le Guin"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-10-24",
+      "updated_at": "2026-11-11T13:51:52.961327+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630975",
+      "title": "Common Sense",
+      "authors": [
+        "Thomas Paine"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-06-30",
+      "updated_at": "2026-11-11T13:51:52.598471+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630973",
+      "title": "Absolute Sandman Overture",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-05-05",
+      "updated_at": "2026-11-11T13:51:52.217596+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630972",
+      "title": "Use of Weapons",
+      "authors": [
+        "Iain M. Banks"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-09-30",
+      "updated_at": "2026-11-11T13:51:52.197302+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630970",
+      "title": "The Man Who Was Thursday",
+      "authors": [
+        "G. K. Chesterton"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2019-08-20T00:00:00",
+      "date_added": "2019-08-03",
+      "updated_at": "2026-11-11T13:51:51.781528+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2019-08-20",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630968",
+      "title": "To Hold Up the Sky",
+      "authors": [
+        "Cixin Liu"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "I can't help but compare this to Ted Chiang's ‘Exhalation', another collection of Science Fiction short stories. Exhalation is likely partially inspired by To Hold Up the Sky, there's a lot of similarity in their form and content. To be honest, i think Exhalation is the better and more refined book. \n\nThat comparison aside, To Hold Up the Sky is still an amazing collection of stories. It works especially well as a companion the the Three Body Problem trilogy. These stories provide a deeper insight into Cixin Liu's values, styles, and general view on the universe and it's contents. There's a lot in these stories about art as an externalized object, human's place in an incomprehensibly large world, our relationship with powerful technology that we create and more.",
+      "reviewed_at": "2022-06-20T00:00:00",
+      "date_added": "2022-06-21",
+      "updated_at": "2026-11-11T13:51:51.665859+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2022-06-20",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630969",
+      "title": "The Penelopiad",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:51.624487+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630965",
+      "title": "HBR Guide to Negotiating",
+      "authors": [
+        "Jeff Weiss"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": "2021-06-04T00:00:00",
+      "date_added": "2021-04-12",
+      "updated_at": "2026-11-11T13:51:51.416176+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-06-04",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630967",
+      "title": "Thomas Jefferson: Author of America",
+      "authors": [
+        "Christopher Hitchens"
+      ],
+      "status_id": 1,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:51.39728+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630966",
+      "title": "沉默的大多数",
+      "authors": [
+        "Wang Xiaobo",
+        "王小波"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-21",
+      "updated_at": "2026-11-11T13:51:51.32033+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630963",
+      "title": "Grundrisse: Foundations of the Critique of Political Economy",
+      "authors": [
+        "Martin Nicolaus",
+        "Karl Marx"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:50.74631+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630962",
+      "title": "Upheavals of Thought: The Intelligence of Emotions",
+      "authors": [
+        "Martha C. Nussbaum"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-06-04",
+      "updated_at": "2026-11-11T13:51:50.656589+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630960",
+      "title": "The Devil in the White City",
+      "authors": [
+        "Erik Larson"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2020-06-03",
+      "updated_at": "2026-11-11T13:51:50.094444+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630959",
+      "title": "Shame",
+      "authors": [
+        "Salman Rushdie"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": "2018-10-14T00:00:00",
+      "date_added": "2018-07-22",
+      "updated_at": "2026-11-11T13:51:49.842399+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2018-10-14",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630958",
+      "title": "The Lost World",
+      "authors": [
+        "Michael Crichton"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2023-02-10",
+      "updated_at": "2026-11-11T13:51:49.662669+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630955",
+      "title": "The Doctor Stories",
+      "authors": [
+        "William Carlos Williams"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "William Carlos Williams' portrayal of doctors and patients is a breath of fresh honesty amidst the countless books written by doctors today. It's a shame that so many reviews written on this collection are caught up in the moral complexity of Williams' crassness, when that very same crassness is critical to the honesty. \n\nSo much of what I read today from doctors can be summed up thusly: “becoming a doctor was hard work, and seeing patients suffer was even harder. Life is complex and grand, and I must humble myself before the privilege of serving others.”\n\nAll well and good, but in an effort to present yourself as an infallible do-gooder, you've stripped your story of the humanity. It's the punchline without the setup—the gin without the tonic. \n\nWilliams' stories portray doctors as struggling at the center of selfish and selfless, pretentious and considerate, scientific and social. In one story the doctor begins by talking about the suffering of children in a children's hospital. He bluntly states over and over that it would be better if the young children died sooner rather than later. Then the story proceeds to outline all the efforts the doctor goes through for one suffering girl, and after she passes on the doctor begins to express a little emotion between the cracks of his shell. Looking back, you realize that his cruelty at the start was a pitiful defense mechanism for the pains of his work. He has hardened himself not because he doesn't care, but because he cares greatly. His caring is expressed via his work ethic—most painfully portrayed by his adamant presence at the autopsy of the young girl, where he learns he could have easily saved her. \n\nWilliams' doctors are sexist, perverse, selfish, drug addicts who work tirelessly to serve their communities. Sometimes they work for noble reasons, other times for shallow reasons. Once a virtuous insight percolates out of the narrative, it is hard earned by the roughened characters filling these painful and funny stories.",
+      "reviewed_at": "2024-08-01T00:00:00",
+      "date_added": "2024-07-14",
+      "updated_at": "2026-11-11T13:51:49.65748+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2024-08-01",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630957",
+      "title": "An Introduction to English Poetry",
+      "authors": [
+        "James Fenton"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-10-10",
+      "updated_at": "2026-11-11T13:51:49.64326+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630954",
+      "title": "Blue Shoe",
+      "authors": [
+        "Anne Lamott"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-07-21",
+      "updated_at": "2026-11-11T13:51:49.305896+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630951",
+      "title": "Batman: Hush, Volume 1",
+      "authors": [
+        "Jeph Loeb",
+        "Scott Williams"
+      ],
+      "status_id": 3,
+      "rating": 4.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:48.880438+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630950",
+      "title": "The Complete Essays",
+      "authors": [
+        "Michel de Montaigne",
+        "M.A. Screech"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:48.819364+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630948",
+      "title": "Time's Arrow",
+      "authors": [
+        "Martin Amis"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-12-14",
+      "updated_at": "2026-11-11T13:51:48.360525+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630947",
+      "title": "States and Social Revolutions: A Comparative Analysis of France, Russia and China",
+      "authors": [
+        "Theda Skocpol"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2018-07-23",
+      "updated_at": "2026-11-11T13:51:48.107984+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630946",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "status_id": 3,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2021-07-16",
+      "updated_at": "2026-11-11T13:51:48.047337+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630944",
+      "title": "The Heart Goes Last",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "status_id": 3,
+      "rating": 3.0,
+      "review": "",
+      "reviewed_at": "2020-06-12T00:00:00",
+      "date_added": "2020-06-03",
+      "updated_at": "2026-11-11T13:51:47.626476+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2020-06-12",
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20630942",
+      "title": "The Catcher in the Rye",
+      "authors": [
+        "J. D. Salinger"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-11T13:51:47.375409+00:00",
+      "reads": []
+    },
+    {
+      "id": "20630941",
+      "title": "From Here to Eternity: Traveling the World to Find the Good Death",
+      "authors": [
+        "Caitlin Doughty"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2026-03-30",
+      "updated_at": "2026-11-11T13:51:47.302976+00:00",
+      "reads": []
     }
   ],
   "workouts": [
