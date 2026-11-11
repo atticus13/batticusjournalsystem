@@ -272,10 +272,9 @@ def main():
         old_by_id = {m["id"]: m for m in data["movies"]}
         try:
             tag_map = fetch_letterboxd_tags()
-            data["sources"]["letterboxd_tags"] = "ok"
-        except Exception as exc:  # tags are a nice-to-have; keep any saved ones
+        except Exception as exc:  # Letterboxd blocks bots on these pages; keep saved tags
             tag_map = None
-            data["sources"]["letterboxd_tags"] = f"error: {exc}"
+            print(f"::warning::Letterboxd tags not refreshed: {str(exc)[:120]}")
         for m in new_movies:
             entry_id = re.sub(r"\D", "", m["id"])
             if tag_map is not None:
