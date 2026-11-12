@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:18:19+00:00",
+  "generated_at": "2026-11-12T13:07:52+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -6664,6 +6664,17 @@
     }
   ],
   "workouts": [
+    {
+      "id": "20952734225",
+      "type": "WeightTraining",
+      "start_local": "2026-11-11T16:11:28Z",
+      "distance_m": 0.0,
+      "moving_time_s": 2920,
+      "elapsed_time_s": 2933,
+      "elevation_gain_m": 0,
+      "avg_hr": 115.5,
+      "max_hr": 152.0
+    },
     {
       "id": "20940077085",
       "type": "RockClimbing",
