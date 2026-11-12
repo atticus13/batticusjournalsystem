@@ -52,6 +52,10 @@
   .bat-wrap { text-align: center; padding: 28px 0; color: var(--muted); }
   .bat { display: inline-block; text-align: left; margin: 0 0 8px; background: none; border: 0; padding: 0; font: 1rem/1.2 ui-monospace, Menlo, monospace; color: var(--text); }
   #range-label { font-weight: 600; margin: 14px 0 8px; }
+  .sources { display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: center; margin-bottom: 8px; font-size: .95rem; }
+  .sources-title { color: var(--muted); font-size: .9rem; }
+  .sources label { display: flex; gap: 6px; align-items: center; min-height: 32px; }
+  .sources input { width: 20px; height: 20px; }
   .opt { display: flex; gap: 8px; align-items: center; color: var(--muted); font-size: .9rem; margin-bottom: 12px; }
   .opt input { width: 20px; height: 20px; }
 
@@ -111,6 +115,12 @@
     <button id="tab-week" aria-pressed="false">Week</button>
   </div>
   <button id="show" class="show">Show</button>
+  <div class="sources" role="group" aria-label="Sources to include">
+    <span class="sources-title">Pull from</span>
+    <label><input id="src-movies" type="checkbox" checked> Movies</label>
+    <label><input id="src-books" type="checkbox" checked> Reading</label>
+    <label><input id="src-workouts" type="checkbox" checked> Workouts</label>
+  </div>
   <label class="opt"><input id="include-reviews" type="checkbox" checked> Include review text</label>
 
   <div id="range-label"></div>
@@ -125,6 +135,6 @@
 
 <div class="bar"><button id="copy">Copy for journal</button></div>
 <div id="toast" role="status" aria-live="polite"></div>
-<script src="app.js?v=6"></script>
+<script src="app.js?v=7"></script>
 </body>
 </html>

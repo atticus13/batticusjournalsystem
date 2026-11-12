@@ -111,6 +111,15 @@
   const summarize = (data, days) => days.map((d) => collectDay(data, d));
   const isEmpty = (b) => !b.movies.length && !b.books.length && !b.workouts.length;
 
+  // Keep only the sources the user ticked: { movies, books, workouts } booleans.
+  const filterSources = (blocks, src) =>
+    blocks.map((b) => ({
+      day: b.day,
+      movies: !src || src.movies !== false ? b.movies : [],
+      books: !src || src.books !== false ? b.books : [],
+      workouts: !src || src.workouts !== false ? b.workouts : [],
+    }));
+
   // ------------------------------------------------------- journal text
   const indent = (text) =>
     text.split("\n").map((l) => (l ? "  " + l : "")).join("\n");
@@ -121,6 +130,9 @@
       .filter(Boolean).join(" ");
     return { name, tail };
   }
+
+  // A divider line after every entry, so pasted days stay visually apart.
+  const SEPARATOR = "—————————";
 
   const PLAIN = { b: (t) => t, i: (t) => t, esc: (t) => t, nl: "\n", ind: "  ", para: "\n" };
   const RICH = {
@@ -176,7 +188,7 @@
         const parts = workoutDetails(w);
         lines.push(`- ${f.b("Workout:")} ${e(w.type)}${parts.length ? e(` (${parts.join(", ")})`) : ""}`);
       }
-      out.push(lines.join(f.nl));
+      out.push(lines.join(f.nl) + f.nl + SEPARATOR);
     }
     if (!out.length) {
       return e(blocks.length === 1
@@ -192,7 +204,7 @@
   const api = {
     ymd, parseYmd, addDays, weekStart, rangeDays, longDate, localDateOf,
     stars, prettyType, fmtDuration, fmtMiles,
-    collectDay, summarize, isEmpty, toJournalText, toJournalHtml, fmtPace,
+    collectDay, summarize, isEmpty, filterSources, SEPARATOR, toJournalText, toJournalHtml, fmtPace,
   };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
 
@@ -215,7 +227,14 @@
       date: ymd(new Date()),
       shown: null,      // {mode, date} actually displayed
       includeReviews: true,
+      sources: { movies: true, books: true, workouts: true },
     };
+    // Remember which sources were ticked (best effort; fine if storage is blocked).
+    try {
+      const saved = JSON.parse(localStorage.getItem("journal-sources") || "null");
+      if (saved) for (const k of Object.keys(state.sources)) if (typeof saved[k] === "boolean") state.sources[k] = saved[k];
+    } catch (_) { /* ignore */ }
+
 
     const rangeText = (mode, date) => {
       const days = rangeDays(mode, date);
@@ -247,7 +266,8 @@
       if (!data || !state.shown) return;
       const { mode, date } = state.shown;
       const days = rangeDays(mode, date);
-      const blocks = summarize(data, days);
+      const blocks = filterSources(summarize(data, days), state.sources);
+      const none = !state.sources.movies && !state.sources.books && !state.sources.workouts;
 
       const list = $("entries");
       list.replaceChildren();
@@ -286,7 +306,11 @@
         }
         list.appendChild(card);
       }
-      if (!any) list.appendChild(el("p", "empty", mode === "day" ? "Nothing logged for this day." : "Nothing logged for this week."));
+      if (!any) {
+        list.appendChild(el("p", "empty", none
+          ? "Tick at least one source above."
+          : mode === "day" ? "Nothing logged for this day." : "Nothing logged for this week."));
+      }
 
       $("journal-text").textContent = toJournalText(blocks, { includeReviews: state.includeReviews });
       state.html = toJournalHtml(blocks, { includeReviews: state.includeReviews });
@@ -350,6 +374,15 @@
     $("date-input").addEventListener("change", (e) => { if (e.target.value) { state.date = e.target.value; syncControls(); } });
     $("tab-day").addEventListener("click", () => { state.mode = "day"; syncControls(); });
     $("tab-week").addEventListener("click", () => { state.mode = "week"; syncControls(); });
+    for (const k of ["movies", "books", "workouts"]) {
+      const box = $("src-" + k);
+      box.checked = state.sources[k];
+      box.addEventListener("change", () => {
+        state.sources[k] = box.checked;
+        try { localStorage.setItem("journal-sources", JSON.stringify(state.sources)); } catch (_) { /* ignore */ }
+        render();
+      });
+    }
     $("include-reviews").addEventListener("change", (e) => { state.includeReviews = e.target.checked; render(); });
     $("copy").addEventListener("click", async () => {
       if (!state.shown) { toast("Pick a date and tap Show first."); return; }
