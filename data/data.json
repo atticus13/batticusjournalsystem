@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:07:52+00:00",
+  "generated_at": "2026-11-12T16:52:08+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -2889,8 +2889,7 @@
       "id": "20631226",
       "title": "Hamlet, Prince of Denmark",
       "authors": [
-        "William Shakespeare",
-        "Millôr Fernandes"
+        "William Shakespeare"
       ],
       "status_id": 3,
       "rating": 5.0,
