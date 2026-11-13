@@ -48,6 +48,13 @@
     const h = Math.floor(m / 60), r = m % 60;
     return r ? `${h} h ${r} min` : `${h} h`;
   };
+  // "2026-11-10T18:05:28Z" -> "6:05 PM". The stored time is already local, so read the digits as written.
+  const fmtClock = (iso) => {
+    const m = /T(\d{2}):(\d{2})/.exec(iso || "");
+    if (!m) return "";
+    const h = Number(m[1]);
+    return `${h % 12 || 12}:${m[2]} ${h < 12 ? "AM" : "PM"}`;
+  };
   const fmtMiles = (meters) => {
     if (!meters || meters <= 0) return "";
     const mi = meters * 0.000621371;
@@ -67,7 +74,7 @@
   const withList = (tags) =>
     (tags || []).map((t) => TAG_NAMES[t] || t.charAt(0).toUpperCase() + t.slice(1)).join(", ");
   const workoutDetails = (w) =>
-    [w.distance, w.duration, w.pace, w.avgHr ? `avg HR ${w.avgHr} bpm` : ""].filter(Boolean);
+    [w.time, w.distance, w.duration, w.pace, w.avgHr ? `avg HR ${w.avgHr} bpm` : ""].filter(Boolean);
 
   // ----------------------------------------------------------- gathering
   function collectDay(data, day) {
@@ -78,6 +85,7 @@
       .sort((a, b) => a.start_local.localeCompare(b.start_local))
       .map((w) => ({
         type: prettyType(w.type),
+        time: fmtClock(w.start_local),
         distance: fmtMiles(w.distance_m),
         duration: fmtDuration(w.moving_time_s),
         pace: /^(run|trail run|virtual run)$/i.test(prettyType(w.type)) ? fmtPace(w.distance_m, w.moving_time_s) : "",
@@ -151,7 +159,7 @@
     const out = [];
     for (const b of blocks) {
       if (isEmpty(b)) continue;
-      const lines = [f.b(e(longDate(b.day)))];
+      const lines = [f.b("ACTIVITIES"), f.b(e(longDate(b.day)))];
 
       for (const m of b.movies) {
         const title = f.i(e(m.title)) + (m.year ? e(` (${m.year})`) : "");
@@ -203,7 +211,7 @@
 
   const api = {
     ymd, parseYmd, addDays, weekStart, rangeDays, longDate, localDateOf,
-    stars, prettyType, fmtDuration, fmtMiles,
+    stars, prettyType, fmtDuration, fmtMiles, fmtClock,
     collectDay, summarize, isEmpty, filterSources, SEPARATOR, toJournalText, toJournalHtml, fmtPace,
   };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
@@ -272,6 +280,7 @@
       const list = $("entries");
       list.replaceChildren();
       let any = false;
+      if (blocks.some((b) => !isEmpty(b))) list.appendChild(el("h2", "activities", "ACTIVITIES"));
 
       for (const b of blocks) {
         if (isEmpty(b)) continue;
