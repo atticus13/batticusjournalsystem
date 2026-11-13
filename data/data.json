@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T16:52:08+00:00",
+  "generated_at": "2026-11-13T13:10:46+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -657,6 +657,60 @@
     }
   ],
   "books": [
+    {
+      "id": "20631054",
+      "title": "The Golden Compass",
+      "authors": [
+        "Philip Pullman"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "This book is so much better than I remembered, and I'm glad that I reread it. Lyra is just such an amazing and unique character. She isn't exactly the prototypical rebellious young girl of many young-adult novels, nor is she naive or innocent. Lyra is the kind of girl that might sit at the front of the class or be eager to get approval from the adults she looks up to. What appears in this book to be rebellion is actually a very flat and uncomplicated love she has for her friends and those she respects. Lyra only speaks out against an adult or the world when they pervert her efforts to be there for her loved ones—it's as if she's overtaken by an uncontrollable desire to lash out for her principles which are taking shape before our very eyes. She is becoming an adult.\n\nThis makes the controversy around this book a little ironic. Parents are afraid of their children reading the Golden Compass because it presents a world in which God is no good and the Church is vile, but it's actually much more complicated than that. Lyra struggles to make sense of the mystery she's been trapped in, and everyone seems capable of either providing great support to her or utterly betraying her. All that is left is for her to think for herself, and to learn from her experiences, and to take leaps of faith with her intuition. This is not a moral principle, but a fact of life. Children must make their way in a complicated world, that is what this book is all about. Yet there are countless parents who don't want their children thinking for themselves and would choose to put up guardrails on what they can and cannot study.",
+      "reviewed_at": "2026-11-13T00:00:00",
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-13T11:35:26.38258+00:00",
+      "reads": []
+    },
+    {
+      "id": "20631133",
+      "title": "The Night Circus",
+      "authors": [
+        "Erin Morgenstern"
+      ],
+      "status_id": 2,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2026-09-27",
+      "updated_at": "2026-11-13T11:27:52.830705+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": null,
+          "progress_pages": null
+        }
+      ]
+    },
+    {
+      "id": "20610689",
+      "title": "Moby Dick",
+      "authors": [
+        "Herman Melville"
+      ],
+      "status_id": 2,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2025-05-27",
+      "updated_at": "2026-11-13T02:36:07.749711+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": null,
+          "progress_pages": 386
+        }
+      ]
+    },
     {
       "id": "20631100",
       "title": "Cyberpunk 2077: No Coincidence",
@@ -1332,26 +1386,6 @@
         {
           "started_at": null,
           "finished_at": "2025-12-10",
-          "progress_pages": null
-        }
-      ]
-    },
-    {
-      "id": "20631133",
-      "title": "The Night Circus",
-      "authors": [
-        "Erin Morgenstern"
-      ],
-      "status_id": 2,
-      "rating": null,
-      "review": "",
-      "reviewed_at": null,
-      "date_added": "2026-09-27",
-      "updated_at": "2026-11-11T14:09:03.785098+00:00",
-      "reads": [
-        {
-          "started_at": null,
-          "finished_at": null,
           "progress_pages": null
         }
       ]
@@ -5167,20 +5201,6 @@
       "reads": []
     },
     {
-      "id": "20631054",
-      "title": "The Golden Compass",
-      "authors": [
-        "Philip Pullman"
-      ],
-      "status_id": 3,
-      "rating": 5.0,
-      "review": "This book is so much better than I remembered, and I'm glad that I reread it. Lyra is just such an amazing and unique character. She isn't exactly the prototypical rebellious young girl of many young-adult novels, nor is she naive or innocent. Lyra is the kind of girl that might sit at the front of the class or be eager to get approval from the adults she looks up to. What appears in this book to be rebellion is actually a very flat and uncomplicated love she has for her friends and those she respects. Lyra only speaks out against an adult or the world when they pervert her efforts to be there for her loved ones—it's as if she's overtaken by an uncontrollable desire to lash out for her principles which are taking shape before our very eyes. She is becoming an adult.\n\nThis makes the controversy around this book a little ironic. Parents are afraid of their children reading the Golden Compass because it presents a world in which God is no good and the Church is vile, but it's actually much more complicated than that. Lyra struggles to make sense of the mystery she's been trapped in, and everyone seems capable of either providing great support to her or utterly betraying her. All that is left is for her to think for herself, and to learn from her experiences, and to take leaps of faith with her intuition. This is not a moral principle, but a fact of life. Children must make their way in a complicated world, that is what this book is all about. Yet there are countless parents who don't want their children thinking for themselves and would choose to put up guardrails on what they can and cannot study.",
-      "reviewed_at": null,
-      "date_added": "2017-10-31",
-      "updated_at": "2026-11-11T13:52:14.05163+00:00",
-      "reads": []
-    },
-    {
       "id": "20631053",
       "title": "The Lathe of Heaven",
       "authors": [
@@ -5898,26 +5918,6 @@
       "date_added": "2018-07-07",
       "updated_at": "2026-11-11T13:51:58.436161+00:00",
       "reads": []
-    },
-    {
-      "id": "20610689",
-      "title": "Moby Dick",
-      "authors": [
-        "Herman Melville"
-      ],
-      "status_id": 2,
-      "rating": null,
-      "review": "",
-      "reviewed_at": null,
-      "date_added": "2025-05-27",
-      "updated_at": "2026-11-11T13:51:58.23543+00:00",
-      "reads": [
-        {
-          "started_at": null,
-          "finished_at": null,
-          "progress_pages": 303
-        }
-      ]
     },
     {
       "id": "20631003",
@@ -6663,6 +6663,17 @@
     }
   ],
   "workouts": [
+    {
+      "id": "20965993297",
+      "type": "RockClimbing",
+      "start_local": "2026-11-12T18:03:06Z",
+      "distance_m": 0.0,
+      "moving_time_s": 1583,
+      "elapsed_time_s": 1583,
+      "elevation_gain_m": 0,
+      "avg_hr": 117.5,
+      "max_hr": 155.0
+    },
     {
       "id": "20952734225",
       "type": "WeightTraining",
