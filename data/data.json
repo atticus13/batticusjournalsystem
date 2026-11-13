@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:10:46+00:00",
+  "generated_at": "2026-11-13T22:41:45+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -3389,8 +3389,10 @@
       "id": "20631191",
       "title": "A Christmas Carol",
       "authors": [
-        "Philip Gooden",
-        "Charles Dickens"
+        "Charles Dickens",
+        "Joe L. Wheeler",
+        "Joe L. Wheeler",
+        "John Leech"
       ],
       "status_id": 3,
       "rating": 4.0,
@@ -6663,6 +6665,17 @@
     }
   ],
   "workouts": [
+    {
+      "id": "20972803276",
+      "type": "Run",
+      "start_local": "2026-11-13T08:53:14Z",
+      "distance_m": 6600.0,
+      "moving_time_s": 2426,
+      "elapsed_time_s": 2462,
+      "elevation_gain_m": 24.4,
+      "avg_hr": 165.7,
+      "max_hr": 184.0
+    },
     {
       "id": "20965993297",
       "type": "RockClimbing",
