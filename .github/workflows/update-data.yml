@@ -2,7 +2,11 @@ name: Update journal data
 
 on:
   schedule:
-    - cron: "17 8 * * *"   # daily, about 3-4 AM Eastern
+    # Twice a day, a few minutes past noon and midnight Eastern (times are UTC:
+    # 17:17 = 12:17 PM EST / 1:17 PM EDT, 05:17 = 12:17 AM EST / 1:17 AM EDT).
+    # GitHub may start scheduled runs late.
+    - cron: "17 17 * * *"
+    - cron: "17 5 * * *"
   workflow_dispatch:        # lets you run it by hand from the Actions tab
 
 permissions:
