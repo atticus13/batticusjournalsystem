@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:38:27+00:00",
+  "generated_at": "2026-11-17T23:52:03+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -7,6 +7,17 @@
     "letterboxd_tags": "error: HTTP 403 from letterboxd.com/atlas_atticus/tags/diary/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal"
   },
   "movies": [
+    {
+      "id": "letterboxd-watch-1591497154",
+      "title": "Godzilla Minus Zero",
+      "year": 2026,
+      "watched_date": "2026-11-16",
+      "rating": 3.0,
+      "rewatch": false,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/godzilla-minus-zero/",
+      "tags": []
+    },
     {
       "id": "letterboxd-review-1577089788",
       "title": "Being John Malkovich",
@@ -6461,7 +6472,7 @@
     },
     {
       "id": "20630960",
-      "title": "The Devil in the White City",
+      "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
       "authors": [
         "Erik Larson"
       ],
@@ -6677,6 +6688,17 @@
     }
   ],
   "workouts": [
+    {
+      "id": "21027552469",
+      "type": "Run",
+      "start_local": "2026-11-17T16:55:05Z",
+      "distance_m": 4067.2,
+      "moving_time_s": 1553,
+      "elapsed_time_s": 1618,
+      "elevation_gain_m": 24.6,
+      "avg_hr": 157.6,
+      "max_hr": 174.0
+    },
     {
       "id": "21010091118",
       "type": "WeightTraining",
