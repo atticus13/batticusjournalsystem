@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T13:46:44+00:00",
+  "generated_at": "2026-11-17T00:51:00+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -6677,6 +6677,17 @@
     }
   ],
   "workouts": [
+    {
+      "id": "21010091118",
+      "type": "WeightTraining",
+      "start_local": "2026-11-16T10:00:53Z",
+      "distance_m": 0.0,
+      "moving_time_s": 3258,
+      "elapsed_time_s": 3296,
+      "elevation_gain_m": 0,
+      "avg_hr": 118.2,
+      "max_hr": 142.0
+    },
     {
       "id": "20972803276",
       "type": "Run",
