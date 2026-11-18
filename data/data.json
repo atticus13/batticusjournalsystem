@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:52:03+00:00",
+  "generated_at": "2026-11-18T14:14:44+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -4355,8 +4355,8 @@
       "id": "20631120",
       "title": "Darkness at Noon",
       "authors": [
-        "Arthur Koestler",
         "George Buday",
+        "Arthur Koestler",
         "Vladimir Bukovsky",
         "Daphne Hardy"
       ],
