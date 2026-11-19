@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:30:11+00:00",
+  "generated_at": "2026-11-19T23:37:38+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -679,6 +679,21 @@
     }
   ],
   "books": [
+    {
+      "id": "20949620",
+      "title": "Children of the Alley",
+      "authors": [
+        "Naguib Mahfouz",
+        "Peter Theroux"
+      ],
+      "status_id": 1,
+      "rating": null,
+      "review": "",
+      "reviewed_at": null,
+      "date_added": "2026-11-19",
+      "updated_at": "2026-11-19T15:45:51.043126+00:00",
+      "reads": []
+    },
     {
       "id": "20631054",
       "title": "The Golden Compass",
@@ -3489,7 +3504,7 @@
     },
     {
       "id": "20631187",
-      "title": "Dr. Jekyll and Mr. Hyde",
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
       "authors": [
         "Robert Louis Stevenson"
       ],
@@ -6686,6 +6701,17 @@
     }
   ],
   "workouts": [
+    {
+      "id": "21052655087",
+      "type": "WeightTraining",
+      "start_local": "2026-11-19T17:26:40Z",
+      "distance_m": 0.0,
+      "moving_time_s": 2843,
+      "elapsed_time_s": 2864,
+      "elevation_gain_m": 0,
+      "avg_hr": 112.4,
+      "max_hr": 147.0
+    },
     {
       "id": "21027552469",
       "type": "Run",
