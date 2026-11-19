@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T23:25:03+00:00",
+  "generated_at": "2026-11-19T14:30:11+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -3491,9 +3491,7 @@
       "id": "20631187",
       "title": "Dr. Jekyll and Mr. Hyde",
       "authors": [
-        "Robert Louis Stevenson",
-        "Vladimir Nabokov",
-        "Dan Chaon"
+        "Robert Louis Stevenson"
       ],
       "status_id": 3,
       "rating": 4.0,
