@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:09:15+00:00",
+  "generated_at": "2026-11-21T13:33:42+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -6279,10 +6279,12 @@
     },
     {
       "id": "20630979",
-      "title": "Taras Bulba illustrated",
+      "title": "Taras Bulba",
       "authors": [
         "Nikolai Gogol",
-        "Moiz Zulfiqar"
+        "Tatiana Enco de Valero",
+        "Arturo Pérez-Reverte",
+        "Augusto Ferrer-Dalmau"
       ],
       "status_id": 1,
       "rating": null,
