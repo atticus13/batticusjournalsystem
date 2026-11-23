@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:30:22+00:00",
+  "generated_at": "2026-11-23T16:08:44+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -690,6 +690,28 @@
     }
   ],
   "books": [
+    {
+      "id": "20631069",
+      "title": "1984",
+      "authors": [
+        "George Orwell",
+        "Shepard Fairey",
+        "Peter Hobley Davison"
+      ],
+      "status_id": 3,
+      "rating": 5.0,
+      "review": "I remembered this book as a powerful read, but everything else I remembered about it was wrong. I now am somewhat suspicious that when i heard a conservative points out NSA spying and say “big brother is watching you” or when a progressive cites 1984 when referencing some horrific law making it harder to get birth control, that they too mis-remember this classic. \n\nWhat makes 1984 so horrifying is that the ideology makes almost no sense. When you read about the ideology of Oceania from O'Brian's mouth, you feel like you're reading some sort of absurdist novel. the climax of this absurdism is when you learn what Oceania hopes to achieve with its power. Not wealth, not a small elite class living lavishly, not even glory. Simply the ability to control what they consider reality, which is the world within our heads. To the Party, there is no reality except for what happens in human beings' heads. \n\nMy takeaway is that 1984 is not an actual warning about the future of America or socialism or capitalism, but rather a warning about the little political habits of wings that concede rational efforts for material change in favor of some petty control over how people perceive reality.",
+      "reviewed_at": "2021-05-08T00:00:00",
+      "date_added": "2017-10-31",
+      "updated_at": "2026-11-22T23:58:17.185244+00:00",
+      "reads": [
+        {
+          "started_at": null,
+          "finished_at": "2021-05-08",
+          "progress_pages": null
+        }
+      ]
+    },
     {
       "id": "20949620",
       "title": "Children of the Alley",
@@ -2585,8 +2607,7 @@
       "title": "The Brothers Karamazov",
       "authors": [
         "Fyodor Dostoevsky",
-        "Richard Pevear",
-        "Larissa Volokhonsky"
+        "David McDuff"
       ],
       "status_id": 1,
       "rating": null,
@@ -5029,28 +5050,6 @@
       "date_added": "2020-10-24",
       "updated_at": "2026-11-11T13:52:18.23893+00:00",
       "reads": []
-    },
-    {
-      "id": "20631069",
-      "title": "1984",
-      "authors": [
-        "George Orwell",
-        "Shepard Fairey",
-        "Peter Hobley Davison"
-      ],
-      "status_id": 3,
-      "rating": 5.0,
-      "review": "I remembered this book as a powerful read, but everything else I remembered about it was wrong. I now am somewhat suspicious that when i heard a conservative points out NSA spying and say “big brother is watching you” or when a progressive cites 1984 when referencing some horrific law making it harder to get birth control, that they too mis-remember this classic. \n\nWhat makes 1984 so horrifying is that the ideology makes almost no sense. When you read about the ideology of Oceania from O'Brian's mouth, you feel like you're reading some sort of absurdist novel. the climax of this absurdism is when you learn what Oceania hopes to achieve with its power. Not wealth, not a small elite class living lavishly, not even glory. Simply the ability to control what they consider reality, which is the world within our heads. To the Party, there is no reality except for what happens in human beings' heads. \n\nMy takeaway is that 1984 is not an actual warning about the future of America or socialism or capitalism, but rather a warning about the little political habits of wings that concede rational efforts for material change in favor of some petty control over how people perceive reality.",
-      "reviewed_at": "2021-05-08T00:00:00",
-      "date_added": "2017-10-31",
-      "updated_at": "2026-11-11T13:52:18.114725+00:00",
-      "reads": [
-        {
-          "started_at": null,
-          "finished_at": "2021-05-08",
-          "progress_pages": null
-        }
-      ]
     },
     {
       "id": "20631068",
