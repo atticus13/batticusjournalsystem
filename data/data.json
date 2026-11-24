@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:08:44+00:00",
+  "generated_at": "2026-11-24T03:22:01+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -4190,10 +4190,9 @@
     },
     {
       "id": "20631132",
-      "title": "The sixty-minute Shakespeare--Twelfth night",
+      "title": "Twelfth Night",
       "authors": [
-        "Paul M. Howey",
-        "Cass Foster"
+        "William Shakespeare"
       ],
       "status_id": 3,
       "rating": 5.0,
