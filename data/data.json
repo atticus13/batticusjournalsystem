@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:22:01+00:00",
+  "generated_at": "2026-11-24T15:58:44+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -7,6 +7,17 @@
     "letterboxd_tags": "error: HTTP 403 from letterboxd.com/atlas_atticus/tags/diary/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal"
   },
   "movies": [
+    {
+      "id": "letterboxd-watch-1600885972",
+      "title": "The Fall",
+      "year": 2006,
+      "watched_date": "2026-11-23",
+      "rating": 5.0,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/the-fall/1/",
+      "tags": []
+    },
     {
       "id": "letterboxd-watch-1591497154",
       "title": "Godzilla Minus Zero",
@@ -2537,6 +2548,21 @@
       "id": "20631260",
       "title": "Mapping Ideology",
       "authors": [
+        "Bryan S. Turner",
+        "Fredric Jameson",
+        "Göran Therborn",
+        "Jacques Lacan",
+        "Louis Althusser",
+        "Michel Pêcheux",
+        "Michèle Barrett",
+        "Nicholas Abercrombie",
+        "Peter Dews",
+        "Pierre Bourdieu",
+        "Richard Rorty",
+        "Seyla Benhabib",
+        "Stephen Hill",
+        "Terry Eagleton",
+        "Theodor W. Adorno",
         "Slavoj Žižek"
       ],
       "status_id": 1,
