@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:02:18+00:00",
+  "generated_at": "2026-11-27T15:15:42+00:00",
   "sources": {
     "letterboxd": "ok",
     "hardcover": "ok",
@@ -7,6 +7,17 @@
     "letterboxd_tags": "error: HTTP 403 from letterboxd.com/atlas_atticus/tags/diary/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal"
   },
   "movies": [
+    {
+      "id": "letterboxd-watch-1604327515",
+      "title": "Harold and Maude",
+      "year": 1971,
+      "watched_date": "2026-11-26",
+      "rating": 4.0,
+      "rewatch": true,
+      "review": "",
+      "url": "https://letterboxd.com/atlas_atticus/film/harold-and-maude/1/",
+      "tags": []
+    },
     {
       "id": "letterboxd-watch-1603934223",
       "title": "Nacho Libre",
